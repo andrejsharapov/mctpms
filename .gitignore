@@ -6,3 +6,8 @@
 
 # realms
 /assets/realms/textures/*
+
+# unlock
+# !/assets/minecraft/blockstates/*
+# !/assets/minecraft/models/block/**/
+# !/assets/minecraft/models/item/**/
