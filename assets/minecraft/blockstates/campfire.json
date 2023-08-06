@@ -1,0 +1,12 @@
+{
+  "variants": {
+      "lit=true,facing=north": { "model": "block/campfire" },
+      "lit=false,facing=north": { "model": "block/campfire_off" },
+      "lit=true,facing=east": { "model": "minecraft:block/campfire2" },
+      "lit=false,facing=east": { "model": "minecraft:block/campfire2_off" },
+      "lit=true,facing=south": { "model": "minecraft:block/campfire3" },
+      "lit=false,facing=south": { "model": "minecraft:block/campfire3_off" },
+      "lit=true,facing=west": { "model": "minecraft:block/campfire4" },
+      "lit=false,facing=west": { "model": "minecraft:block/campfire4_off" }
+  }
+}
