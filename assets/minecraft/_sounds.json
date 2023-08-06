@@ -1,0 +1,145 @@
+{
+	"biome.swamp.event1": {
+    "sounds": [
+      { 
+        "name": "biome/swamp/frogs1",
+        "stream": true,
+        "pitch": 1.0
+      },
+      { 
+        "name": "biome/swamp/frogs2",
+        "stream": true,
+        "pitch": 1.0
+      }
+    ]
+  },
+
+  "biome.swamp.event2": {
+    "sounds": [
+      { 
+        "name": "biome/swamp/fly1",
+        "stream": true,
+        "pitch": 1.0
+      },
+      { 
+        "name": "biome/swamp/fly1",
+        "stream": true,
+        "pitch": 1.5
+      }
+    ]
+  },
+
+  "biome.swamp.ambient": {
+    "sounds": [
+      { 
+        "name": "biome/swamp/ambient",
+        "stream": true,
+        "pitch": 1.0
+      }
+    ]
+  },
+
+  "block.stone.break": {
+		"replace": true,
+	  "sounds": [
+			{ 
+				"name": "break/stone1",
+				"pitch": 1.0
+			},
+			{ 
+				"name": "break/stone1",
+				"pitch": 0.5
+			},
+			{ 
+				"name": "break/stone1",
+				"pitch": 1.5
+			},
+			{ 
+				"name": "break/stone2",
+				"pitch": 1.0
+			},
+			{ 
+				"name": "break/stone2",
+				"pitch": 0.5
+			},
+			{ 
+				"name": "break/stone2",
+				"pitch": 1.5
+			},
+			{ 
+				"name": "break/stone3",
+				"pitch": 1.0
+			},
+			{ 
+				"name": "break/stone3",
+				"pitch": 0.5
+			},
+			{ 
+				"name": "break/stone3",
+				"pitch": 1.5
+			}
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+
+  "entity.zombie.break_door_wood": {
+    "sounds": [
+      "mob/zombie/woodbreak"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+
+  "block.metal.place": {
+    "replace": true,
+    "sounds": [
+      "place/metal1",
+      "place/metal2",
+      "place/metal3"
+    ],
+    "subtitle": "subtitles.block.generic.place"
+  },
+
+  "block.metal.break": {
+    "replace": true,
+    "sounds": [
+      "place/metal1",
+      "place/metal2",
+      "place/metal3"
+    ],
+    "subtitle": "subtitles.block.generic.break"
+  },
+  
+  "entity.item.pickup": {
+    "sounds": [
+		{ 
+			"name": "random/pop",
+			"volume": 1.0
+		},
+		{ 
+			"name": "random/pop2",
+			"volume": 1.0
+		},
+		{ 
+			"name": "random/pop3",
+			"volume": 1.0
+		}
+    ],
+    "subtitle": "subtitles.entity.item.pickup"
+  },
+
+  "block.water.ambient": {
+  	"replace": true,
+    "sounds": [
+      {
+      	"name": "liquid/water",
+      	"weight": 7,
+      	"attenuation_distance": 6
+      },
+      {
+      	"name": "liquid/waterfall",
+      	"weight": 3
+      }
+    ],
+    "subtitle": "subtitles.block.water.ambient"
+  }
+}
