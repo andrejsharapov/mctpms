@@ -1,1 +1,8 @@
-./assets/minecraft/textures/**/*.png
+# minecraft
+/assets/minecraft/blockstates/*
+/assets/minecraft/models/block/*
+/assets/minecraft/models/item/*
+/assets/minecraft/textures/*
+
+# realms
+/assets/realms/textures/*
