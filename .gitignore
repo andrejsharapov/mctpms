@@ -8,11 +8,12 @@
 /assets/realms/textures/*
 
 # unlock only
-# !/assets/minecraft/blockstates/**
-# !/assets/minecraft/models/block/**/**
+!/assets/minecraft/blockstates/*-*
+!/assets/minecraft/models/block/**/*-*
+!/assets/minecraft/models/item/**/*-*
 
 # unlock all
-# !/assets/minecraft/models/**/*book*
+# !/assets/minecraft/models/**/**
 
 # development
 /node_modules
