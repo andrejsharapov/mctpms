@@ -1,0 +1,770 @@
+{
+   "variants": {
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/chiseled_bookshelf", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/5", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/4-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/4-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/4-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/4", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-4", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-4-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-5", "y": 0
+    },
+    "facing=north,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-4-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-5-6", "y": 0
+    },
+    "facing=north,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-5-6", "y": 0
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/chiseled_bookshelf", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/6", "y": 270
+    },        
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/5", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/4-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/4-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/4-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/4", "y": 270
+    },        
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-4", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-4-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-5", "y": 270
+    },
+    "facing=west,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-4-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-5-6", "y": 270
+    },
+    "facing=west,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-5-6", "y": 270
+    },"facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/chiseled_bookshelf", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/6", "y": 90
+    },        
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/5", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/4-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/4-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/4-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/4", "y": 90
+    },        
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-4", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-4-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-5", "y": 90
+    },
+    "facing=east,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-4-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-5-6", "y": 90
+    },
+    "facing=east,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-5-6", "y": 90
+    },"facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/chiseled_bookshelf", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/6", "y": 180
+    },        
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/5", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/4-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/4-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/4-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/4", "y": 180
+    },        
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/3", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-4", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-4-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-4", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-3-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-4-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=true,slot_4_occupied=false,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/3-4-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-2-4-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-4-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/2-4-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=false": {
+        "model": "minecraft:block/chiseled_bookshelf/1-3-5", "y": 180
+    },
+    "facing=south,slot_0_occupied=true,slot_1_occupied=false,slot_2_occupied=false,slot_3_occupied=true,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/1-4-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=true,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-3-5-6", "y": 180
+    },
+    "facing=south,slot_0_occupied=false,slot_1_occupied=true,slot_2_occupied=false,slot_3_occupied=false,slot_4_occupied=true,slot_5_occupied=true": {
+        "model": "minecraft:block/chiseled_bookshelf/2-5-6", "y": 180
+    }
+   }
+}
