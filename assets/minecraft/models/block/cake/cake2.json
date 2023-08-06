@@ -1,0 +1,33 @@
+{
+
+"textures": {
+    "particle": "minecraft:block/cake/cake_bottom",
+    "top": "minecraft:block/cake/cake_top3",
+    "side": "minecraft:block/cake/cake_side3"
+},
+"elements": [ 
+{
+    "from": [ 1.5, 4, 1.5 ],
+    "to": [ 14.5, 6, 14.5 ],
+    "faces": {
+        "up":    { "uv": [ 1.5, 1.5, 14.5, 14.5 ], "texture": "#top" },
+        "north": { "uv": [ 1.5, 10, 14.5, 12 ], "texture": "#side" },
+        "south": { "uv": [ 1.5, 10, 14.5, 12 ], "texture": "#side" },
+        "west":  { "uv": [ 1.5, 10, 14.5, 12 ], "texture": "#side" },
+        "east":  { "uv": [ 1.5, 10, 14.5, 12 ], "texture": "#side" }
+    }
+},
+{
+    "from": [ 1, 0, 1 ],
+    "to": [ 15, 4, 15 ],
+    "faces": {
+        "down":  { "uv": [ 15, 15, 1, 1 ], "texture": "#particle", "cullface": "down" },
+        "up":    { "uv": [ 1, 1, 15, 15 ], "texture": "#particle" },
+        "north": { "uv": [ 1, 12, 15, 16 ], "texture": "#side" },
+        "south": { "uv": [ 1, 12, 15, 16 ], "texture": "#side" },
+        "west":  { "uv": [ 1, 12, 15, 16 ], "texture": "#side" },
+        "east":  { "uv": [ 1, 12, 15, 16 ], "texture": "#side" }
+    }
+}
+]
+}

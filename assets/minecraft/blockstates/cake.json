@@ -1,0 +1,17 @@
+{
+"variants": {
+        "bites=0": [
+            { "model": "minecraft:block/cake/cake_uneaten", "weight": 55 },
+            { "model": "minecraft:block/cake/cake_uneaten1", "weight": 30 },
+            { "model": "minecraft:block/cake/cake_uneaten2", "weight": 10 },
+            { "model": "minecraft:block/cake/cake_uneaten3", "weight": 10 },
+            { "model": "minecraft:block/cake/cake_uneaten4", "weight": 5 }
+        ],
+        "bites=1": { "model": "minecraft:block/cake/cake_slice1" },
+        "bites=2": { "model": "minecraft:block/cake/cake_slice2" },
+        "bites=3": { "model": "minecraft:block/cake/cake_slice3" },
+        "bites=4": { "model": "minecraft:block/cake/cake_slice4" },
+        "bites=5": { "model": "minecraft:block/cake/cake_slice5" },
+        "bites=6": { "model": "minecraft:block/cake/cake_slice6" }
+    }
+}
