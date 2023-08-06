@@ -7,7 +7,13 @@
 # realms
 /assets/realms/textures/*
 
-# unlock
-# !/assets/minecraft/blockstates/*
-# !/assets/minecraft/models/block/**/
-# !/assets/minecraft/models/item/**/
+# unlock only
+# !/assets/minecraft/blockstates/**
+# !/assets/minecraft/models/block/**/**
+
+# unlock all
+# !/assets/minecraft/models/**/*book*
+
+# development
+/node_modules
+/yarn.lock
