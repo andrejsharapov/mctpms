@@ -1,0 +1,15 @@
+{
+    "textures": {
+        "particle": "#texture"
+    },
+    "elements": [
+        {   "from": [ 5.99, 0, 5.99 ],
+            "to": [ 10.01, 16, 10.01 ],
+            "faces": {
+                "west":  { "texture": "#texture" },
+                "east":  { "texture": "#texture" }
+            },
+            "__comment": "Main post"
+        }
+    ]
+}
