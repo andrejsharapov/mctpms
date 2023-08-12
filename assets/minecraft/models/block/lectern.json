@@ -4,7 +4,8 @@
 	"textures": {
 		"2": "block/red_wool",
 		"3": "block/bookshelf/bookshelf",
-		"bottom": "block/oak"
+		"bottom": "block/oak",
+	    "particle": "minecraft:block/oak"
 	},
 	"elements": [
 		{
