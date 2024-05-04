@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"texture": "block/ladder"
+		"texture": "block/ladder",
+		"particle": "block/oak_log"
 	},
 	"elements": [
 		{
