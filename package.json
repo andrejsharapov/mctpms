@@ -1,0 +1,39 @@
+{
+  "name": "mctpms",
+  "version": "1.0.0",
+  "description": "3D resource pack for minecraft v1.20.x.",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier ./**/*.{json} --ignore-path .gitignore",
+    "prettier:check": "yarn prettier --list-different",
+    "prettier:format": "yarn prettier --write --loglevel warn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejsharapov/mctpms.git"
+  },
+  "keywords": [
+    "minecraft",
+    "blockbench",
+    "3d",
+    "texture",
+    "pack",
+    "resource",
+    "pack",
+    "realistic",
+    "pack"
+  ],
+  "author": "andrejsharapov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrejsharapov/mctpms/issues"
+  },
+  "homepage": "https://github.com/andrejsharapov/mctpms#readme",
+  "volta": {
+    "node": "18.12.0",
+    "yarn": "1.22.19"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.1"
+  }
+}
