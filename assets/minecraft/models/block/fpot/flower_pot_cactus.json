@@ -1,0 +1,108 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "minecraft:block/terracotta",
+		"flowerpot": "minecraft:block/flower_pot",
+		"dirt": "minecraft:block/sand",
+		"plant": "minecraft:block/fpot_cactus",
+		"deko": "minecraft:block/terracotta"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 4.999172, 2.49947, 5.000669 ],
+			"to": [ 5.499172, 4.99947, 11.00067 ],
+			"faces": {
+				"down": { "uv": [ 1, 9, 0, 3 ], "texture": "#deko", "cullface": "down" },
+				"up": { "uv": [ 0, 4.5, 1, 10.5 ], "texture": "#flowerpot" },
+				"north": { "uv": [ 2, 6.5, 3, 9 ], "texture": "#flowerpot" },
+				"south": { "uv": [ 7, 6.5, 8, 9 ], "texture": "#flowerpot" },
+				"west": { "uv": [ 2, 6.5, 8, 9 ], "texture": "#flowerpot" },
+				"east": { "uv": [ 2, 6.5, 8, 9 ], "texture": "#flowerpot" }
+			}
+		},
+		{
+			"from": [ 10.50046, 2.5008, 5.000219 ],
+			"to": [ 11.00046, 5.0008, 11.00022 ],
+			"faces": {
+				"down": { "uv": [ 1, 15, 0, 9 ], "texture": "#flowerpot", "cullface": "down" },
+				"up": { "uv": [ 0, 1.5, 1, 7.5 ], "texture": "#flowerpot" },
+				"north": { "uv": [ 2, 6.5, 3, 9 ], "texture": "#flowerpot" },
+				"south": { "uv": [ 7, 6.5, 8, 9 ], "texture": "#flowerpot" },
+				"west": { "uv": [ 2, 6.5, 8, 9 ], "texture": "#flowerpot" },
+				"east": { "uv": [ 2, 6.5, 8, 9 ], "texture": "#flowerpot" }
+			}
+		},
+		{
+			"from": [ 5.50071, 2.499732, 4.999543 ],
+			"to": [ 10.50071, 4.999732, 5.499543 ],
+			"faces": {
+				"down": { "uv": [ 10, 1, 6, 0 ], "texture": "#flowerpot", "cullface": "down" },
+				"up": { "uv": [ 4.5, 0, 8.5, 1 ], "texture": "#flowerpot" },
+				"north": { "uv": [ 3, 6.5, 7, 9 ], "texture": "#flowerpot" },
+				"south": { "uv": [ 3, 6.5, 7, 9 ], "texture": "#flowerpot" }
+			}
+		},
+		{
+			"from": [ 5.499481, 2.500826, 10.50042 ],
+			"to": [ 10.49948, 5.000826, 11.00042 ],
+			"faces": {
+				"down": { "uv": [ 9, 1, 5, 0 ], "texture": "#flowerpot", "cullface": "down" },
+				"up": { "uv": [ 10, 0, 14, 1 ], "texture": "#flowerpot" },
+				"north": { "uv": [ 3, 6.5, 7, 9 ], "texture": "#flowerpot" },
+				"south": { "uv": [ 3, 6.5, 7, 9 ], "texture": "#flowerpot" }
+			}
+		},
+		{
+			"from": [ 5.499786, 2.499381, 5.499017 ],
+			"to": [ 10.49979, 4.499381, 10.49902 ],
+			"faces": {
+				"up": { "uv": [ 5.5, 5.5, 10.5, 10.5 ], "texture": "#dirt" }
+			}
+		},
+		{
+			"from": [ 6.500869, 4.000575, 6.500831 ],
+			"to": [ 9.500869, 16.00058, 9.500831 ],
+			"faces": {
+				"up": { "uv": [ 11, 11, 15, 15 ], "texture": "#plant", "cullface": "up" },
+				"north": { "uv": [ 6.5, 0, 9.5, 12 ], "texture": "#plant" },
+				"south": { "uv": [ 6.5, 0, 9.5, 12 ], "texture": "#plant" },
+				"west": { "uv": [ 6.5, 0, 9.5, 12 ], "texture": "#plant" },
+				"east": { "uv": [ 6.5, 0, 9.5, 12 ], "texture": "#plant" }
+			}
+		},
+		{
+			"from": [ 5.499692, 0.9990295, 5.499828 ],
+			"to": [ 10.49969, 2.499029, 10.49983 ],
+			"faces": {
+				"north": { "uv": [ 5.5, 14.5, 10.5, 16 ], "texture": "#deko" },
+				"south": { "uv": [ 5.5, 14.5, 10.5, 16 ], "texture": "#deko" },
+				"west": { "uv": [ 5, 14.5, 10, 16 ], "texture": "#deko" },
+				"east": { "uv": [ 5.5, 14.5, 10.5, 16 ], "texture": "#deko" }
+			}
+		},
+		{
+			"from": [ 4.999807, 0.0009595979, 5.000235 ],
+			"to": [ 10.99981, 1.00096, 11.00023 ],
+			"faces": {
+				"down": { "uv": [ 10, 16, 4, 10 ], "texture": "#deko", "cullface": "down" },
+				"up": { "uv": [ 4, 10, 10, 16 ], "texture": "#deko" },
+				"north": { "uv": [ 2, 4.5, 8, 5.5 ], "texture": "#flowerpot" },
+				"south": { "uv": [ 2, 4.5, 8, 5.5 ], "texture": "#flowerpot" },
+				"west": { "uv": [ 2, 4.5, 8, 5.5 ], "texture": "#flowerpot" },
+				"east": { "uv": [ 2, 4.5, 8, 5.5 ], "texture": "#flowerpot" }
+			}
+		},
+		{
+			"from": [ 5.000274, 1.500114, 5.000975 ],
+			"to": [ 11.00027, 2.000114, 11.00097 ],
+			"faces": {
+				"down": { "uv": [ 9.5, 16, 3.5, 10 ], "texture": "#deko" },
+				"up": { "uv": [ 5, 5, 11, 11 ], "texture": "#deko" },
+				"north": { "uv": [ 2, 3.5, 8, 4 ], "texture": "#flowerpot" },
+				"south": { "uv": [ 2, 3.5, 8, 4 ], "texture": "#flowerpot" },
+				"west": { "uv": [ 2, 3.5, 8, 4 ], "texture": "#flowerpot" },
+				"east": { "uv": [ 2, 3.5, 8, 4 ], "texture": "#flowerpot" }
+			}
+		}
+	]
+}

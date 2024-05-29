@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/fpot/pot_b",
+    "textures": {
+        "plant": "minecraft:block/dead_bush"
+    }
+}
