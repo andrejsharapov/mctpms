@@ -1,0 +1,7 @@
+{
+    "parent": "minecraft:block/flat",
+    "gui_light": "front",
+    "textures": {
+        "flat": "minecraft:block/flowers/blue_orchid/blue_orchid"
+    }
+}
