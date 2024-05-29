@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/master_flat_cross",
+  "textures": {
+    "particle": "minecraft:block/flowers/azure_bluet/azure_bluet",
+    "flat": "minecraft:block/flowers/azure_bluet/azure_bluet",
+    "cross": "minecraft:block/flowers/azure_bluet/azure_bluet"
+  }
+}

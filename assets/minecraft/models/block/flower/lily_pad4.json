@@ -1,0 +1,4 @@
+{
+"parent": "minecraft:block/flower/lily_pad",
+"textures": {"texture": "minecraft:block/lily_pad4"}
+}
