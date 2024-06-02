@@ -1,0 +1,5 @@
+{"variants":{"":[
+{ "model": "minecraft:block/flower/orange_tulip",  "weight": 80 },
+{ "model": "minecraft:block/flower/orange_tulip1", "weight": 10 },
+{ "model": "minecraft:block/flower/orange_tulip2", "weight": 10 }
+]}}

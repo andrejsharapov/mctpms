@@ -1,0 +1,190 @@
+{
+	"credit": "Made with Blockbench",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "block/dark_oak_log",
+		"2": "block/dark_oak_log_top",
+		"particle": "block/leaves/dark_oak/dark_oak_sapling",
+		"leaves": "block/leaves/dark_oak/dark_oak_sapling"
+	},
+	"elements": [
+		{
+			"name": "Leaves Top1",
+			"from": [5, 16, 0],
+			"to": [18, 16, 16],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [8, 16, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#leaves"}
+			}
+		},
+		{
+			"name": "Leaves Top2",
+			"from": [-2, 16, 0],
+			"to": [11, 16, 16],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [8, 16, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#leaves"}
+			}
+		},
+		{
+			"name": "Leaves Top3",
+			"from": [0, 16, 5],
+			"to": [16, 16, 18],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 16, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#leaves"}
+			}
+		},
+		{
+			"name": "Leaves Top4",
+			"from": [0, 16, -2],
+			"to": [16, 16, 11],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 16, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#leaves"}
+			}
+		},
+		{
+			"name": "Leaves Middle1",
+			"from": [14, 7, 0],
+			"to": [14, 17, 16],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [14, 10, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#leaves"}
+			}
+		},
+		{
+			"name": "Leaves Middle2",
+			"from": [2, 7, 0],
+			"to": [2, 17, 16],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [2, 10, 8], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"south": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#leaves"}
+			}
+		},
+		{
+			"name": "Leaves Middle1",
+			"from": [0, 7, 14],
+			"to": [16, 17, 14],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 10, 14], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#leaves"}
+			}
+		},
+		{
+			"name": "Leaves Middle2",
+			"from": [0, 7, 2],
+			"to": [16, 17, 2],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [8, 10, 2], "rescale": true},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"east": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#leaves"},
+				"west": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#leaves"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#leaves"}
+			}
+		},
+		{
+			"from": [5.5, 0, 5.75],
+			"to": [10.5, 13, 10.75],
+			"faces": {
+				"north": {"uv": [0, 0, 12.375, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 12.375, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 12.375, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 12.375, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [11.25, 45, 0],
+			"translation": [0, 2, 2.75],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 1.75, 1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"translation": [0, 1, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 135, 0],
+			"translation": [0, 1, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 1.25, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"gui": {
+			"rotation": [-154.56, -12.36, -179.03],
+			"translation": [0, -0.75, 0],
+			"scale": [0.7, 0.75, 0.7]
+		},
+		"head": {
+			"translation": [0, 7.25, 0]
+		},
+		"fixed": {
+			"scale": [0.75, 0.75, 0.75]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [8, 10, 2],
+			"color": 0,
+			"children": [0, 1, 2, 3, 4, 5, 6, 7]
+		},
+		8
+	]
+}

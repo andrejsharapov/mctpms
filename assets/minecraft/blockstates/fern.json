@@ -1,0 +1,11 @@
+{"variants":{"":[
+{ "model": "minecraft:block/flower/fern",  "weight": 30 },
+{ "model": "minecraft:block/flower/fern2", "weight": 10 },
+{ "model": "minecraft:block/flower/fern3", "weight": 10 },
+{ "model": "minecraft:block/flower/fern4", "weight": 10 },
+{ "model": "minecraft:block/flower/fern5", "weight": 10 },
+{ "model": "minecraft:block/flower/fern6", "weight": 10 },
+{ "model": "minecraft:block/flower/fern7", "weight": 10 },
+{ "model": "minecraft:block/flower/fern8", "weight": 10 }
+]
+}}

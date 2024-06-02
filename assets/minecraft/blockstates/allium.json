@@ -1,0 +1,10 @@
+{"variants":
+  {
+  "":[
+      { "model": "minecraft:block/flower/allium",  "weight": 70 },
+      { "model": "minecraft:block/flower/allium1", "weight": 10 },
+      { "model": "minecraft:block/flower/allium2", "weight": 10 },
+      { "model": "minecraft:block/flower/allium3", "weight": 10 }
+    ]
+  }
+}

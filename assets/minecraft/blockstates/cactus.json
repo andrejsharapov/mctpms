@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "": [
+			{ "model": "block/cactus", "weight": 15 },
+			{ "model": "block/cactus2", "weight": 1 },
+			{ "model": "block/cactus2", "y": 90, "weight": 1 },
+			{ "model": "block/cactus2", "y": 180, "weight": 1 },
+			{ "model": "block/cactus2", "y": 270, "weight": 1 },
+			{ "model": "block/cactus3", "weight": 7 },
+			{ "model": "block/cactus4", "weight": 1 },
+			{ "model": "block/cactus4", "y": 90, "weight": 1 },
+			{ "model": "block/cactus4", "y": 180, "weight": 1 },
+			{ "model": "block/cactus4", "y": 270, "weight": 1 }
+		]
+    }
+}

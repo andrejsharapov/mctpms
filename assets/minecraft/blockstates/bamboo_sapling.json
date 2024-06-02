@@ -1,0 +1,5 @@
+{"variants":{"":[
+{ "model": "minecraft:block/bamboo_sapling",  "weight": 60 },
+{ "model": "minecraft:block/bamboo_sapling", "weight": 40 }
+]
+}}
