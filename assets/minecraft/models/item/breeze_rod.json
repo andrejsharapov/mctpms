@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "block/magma",
-		"particle": "block/magma"
+		"0": "block/beacon",
+		"particle": "block/beacon"
 	},
 	"elements": [
 		{
