@@ -1,5 +1,7 @@
 # Helpers
 
+Commands and keyboard shortcuts to speed up development.
+
 ## Restart package
 
 F3 + T
@@ -9,7 +11,3 @@ F3 + T
 - open `.minecraft\versions\`
 - find `.jar`
 - open through `RAR` or `7-zip`
-
-## Releases
-
-- -
