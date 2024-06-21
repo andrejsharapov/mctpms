@@ -20,6 +20,7 @@ Several videos about creating a texture pack.
 - 1.19.x
 - 1.20.x
 - 1.21.x in progress
+- 1.22.x in progress
 
 <!-- links -->
 

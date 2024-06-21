@@ -1,7 +1,7 @@
 {
   "name": "mctpms",
   "version": "1.0.0",
-  "description": "3D resource pack for minecraft v1.20.x.",
+  "description": "3D resource pack for minecraft v1.22.x.",
   "main": "index.js",
   "scripts": {
     "prettier": "prettier ./**/*.{json} --ignore-path .gitignore",
