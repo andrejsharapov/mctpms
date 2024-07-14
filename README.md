@@ -34,6 +34,9 @@ Join us on Discord to discuss the texture pack, offer ideas, or just talk about 
 
 [![download][download-img]][download]
 
+> **Note**  
+>A link to download the texture pack will appear once all the textures have been created.
+
 ## Bugs
 
 If you find a bug in the textures or have suggestions for improving the texture pack, please [report it here][bugs].
