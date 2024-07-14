@@ -1,4 +1,4 @@
-# minecraft
+# locked
 /assets/minecraft/blockstates/*
 /assets/minecraft/models/block/*
 /assets/minecraft/models/item/*
@@ -7,14 +7,14 @@
 # realms
 /assets/realms/textures/*
 
-# unlock only
-!/assets/minecraft/blockstates/*-*
-!/assets/minecraft/models/block/**/*-*
-!/assets/minecraft/models/item/**/*-*
+# development
+/node_modules
+/yarn.lock
 
 # unlock all
 # !/assets/minecraft/models/**/**
 
-# development
-/node_modules
-/yarn.lock
+# unlock only (dev)
+!/assets/minecraft/blockstates/*-*
+!/assets/minecraft/models/block/**/*-*
+!/assets/minecraft/models/item/**/*-*
