@@ -31,7 +31,7 @@
   "homepage": "https://github.com/andrejsharapov/mctpms#readme",
   "volta": {
     "node": "18.12.0",
-    "yarn": "1.22.19"
+    "yarn": "1.22.22"
   },
   "devDependencies": {
     "prettier": "^3.0.1"
