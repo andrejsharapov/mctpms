@@ -3,7 +3,8 @@
 	"ambientocclusion": false,
 	"textures": {
 		"2": "block/leaves/acacia/acacia_leaves_sapling",
-		"stem": "block/acacia_log"
+		"stem": "block/acacia_log",
+		"particle": "block/acacia_log"
 	},
 	"elements": [
 		{
