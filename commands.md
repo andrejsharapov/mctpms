@@ -27,12 +27,18 @@ Base `Resource-pack for 1.xx.x \u00A7r\n\` +
 | u00A72 | Start game now!     | Prod                     |
 | ---    | ---                 | ---                      |
 
-## Restart package
-
-F3 + T
-
 ## Get original textures
 
 - open `.minecraft\versions\`
 - find `.jar`
 - open through `RAR` or `7-zip`
+
+## Bugfix
+
+1. Ripples on a grass block can be caused by old redundant file in folders, such as `\textures\block\candle\all.png`.
+
+## Keyboard shortcuts
+
+| Color  | Restart package |
+| ------ | --------------- |
+| F3 + T | ---             |
