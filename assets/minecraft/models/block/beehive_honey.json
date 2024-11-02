@@ -1,0 +1,11 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/beehive",
+	"textures": {
+		"front": "block/bee_hive_front_honey",
+		"bottom": "block/bee_hive_end",
+		"side": "block/bee_hive_side",
+		"particle": "block/bee_hive_top",
+		"top": "block/bee_hive_top"
+	}
+}
