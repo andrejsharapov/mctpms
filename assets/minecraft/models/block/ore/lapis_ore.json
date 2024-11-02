@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_ore",
+  "textures": {
+    "ore": "block/lapis_block"
+  }
+}

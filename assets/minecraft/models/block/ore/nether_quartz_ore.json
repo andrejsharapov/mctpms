@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_ore",
+  "textures": {
+    "base": "block/netherrack",
+    "ore": "block/quartz_pillar"
+  }
+}
