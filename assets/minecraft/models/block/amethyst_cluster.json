@@ -214,6 +214,15 @@
 			}
 		}
 	],
+	"display": {
+		"ground": {
+			"translation": [0, 6.25, 0]
+		},
+		"gui": {
+			"rotation": [-170.55, 73.56, -149.96],
+			"translation": [3, 3.25, 0]
+		}
+	},
 	"groups": [
 		{
 			"name": "group",
