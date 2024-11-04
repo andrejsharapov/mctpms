@@ -17,4 +17,8 @@
 # unlock only (dev)
 !/assets/minecraft/blockstates/*-*
 !/assets/minecraft/models/block/**/*-*
-!/assets/minecraft/models/item/**/*-*
+!/assets/minecraft/models/item/**/*potion*
+!/assets/minecraft/models/item/**/*glass*
+!/assets/minecraft/models/item/**/*bottle*
+!/assets/minecraft/models/item/**/*dragon*
+!/assets/minecraft/models/item/**/*honey*
