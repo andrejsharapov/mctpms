@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_all",
 	"textures": {
 		"0": "block/tnt_bottom",
 		"1": "block/tnt_side",
@@ -217,38 +217,6 @@
 			}
 		}
 	],
-	"display": {
-		"thirdperson_righthand": {
-			"scale": [0.39453, 0.39453, 0.39453]
-		},
-		"thirdperson_lefthand": {
-			"scale": [0.32813, 0.32813, 0.32813]
-		},
-		"firstperson_righthand": {
-			"translation": [2.5, 0.25, 0],
-			"scale": [0.37695, 0.37695, 0.28906]
-		},
-		"firstperson_lefthand": {
-			"translation": [2.5, 0.75, 0],
-			"scale": [0.38867, 0.38867, 0.20898]
-		},
-		"ground": {
-			"translation": [0, 3.5, 0],
-			"scale": [0.51953, 0.51953, 0.51953]
-		},
-		"gui": {
-			"rotation": [26.61, -34.9, -1.16],
-			"scale": [0.58398, 0.58398, 0.58398]
-		},
-		"head": {
-			"scale": [0.97266, 0.97266, 0.97266]
-		},
-		"fixed": {
-			"rotation": [-14.25, -48.25, 0],
-			"translation": [0, 0, -1],
-			"scale": [0.79883, 0.79883, 0.79883]
-		}
-	},
 	"groups": [
 		{
 			"name": "group",
