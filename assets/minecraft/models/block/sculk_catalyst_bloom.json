@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_bottom_top",
+	"textures": {
+		"bottom": "block/sculk_sensor_bottom",
+		"side": "block/sculk_catalyst",
+		"top": "block/sculk"
+	}
+}
