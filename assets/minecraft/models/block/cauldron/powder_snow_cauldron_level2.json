@@ -1,7 +1,7 @@
 {
 	"parent": "block/cauldron/water_cauldron_level2",
 	"textures": {
-		"3": "block/lava_still",
+		"3": "block/snow",
 		"particle": "block/cauldron_inner"
 	}
 }

@@ -1,0 +1,7 @@
+{
+	"parent": "block/cauldron/water_cauldron_full",
+	"textures": {
+		"3": "block/snow",
+		"particle": "block/cauldron_inner"
+	}
+}
