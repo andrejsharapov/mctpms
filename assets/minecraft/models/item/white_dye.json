@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
 	"textures": {
 		"0": "block/sponge",
 		"1": "block/bee_hive_end",
@@ -204,37 +205,19 @@
 		}
 	],
 	"display": {
-		"thirdperson_righthand": {
-			"rotation": [33, 0, 0],
-			"translation": [0, 1.75, 0.5],
-			"scale": [0.4, 0.4, 0.4]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [33, 0, 0],
-			"translation": [0, 1.75, 0.5],
-			"scale": [0.4, 0.4, 0.4]
-		},
-		"firstperson_righthand": {
-			"rotation": [-17.75, 0, 0],
-			"translation": [0, 5, 0]
-		},
-		"firstperson_lefthand": {
-			"rotation": [-17, 0, 0],
-			"translation": [0, 5, 0]
-		},
 		"ground": {
-			"translation": [0, 4.5, 0]
+			"rotation": [-16.38, 0.43, -3.27],
+			"translation": [0, 3.75, 0],
+			"scale": [0.70508, 0.70508, 0.70508]
 		},
 		"gui": {
-			"rotation": [-143.76, 21.29, 172.61],
-			"translation": [-0.75, 4.5, 0]
-		},
-		"head": {
-			"translation": [0, 14.5, -0.75]
+			"rotation": [-149.64, 38.59, -178.41],
+			"translation": [0, 4.5, 0],
+			"scale": [0.85938, 0.85938, 0.85938]
 		},
 		"fixed": {
-			"rotation": [-90, 0, 0],
-			"translation": [0, 0, -7.25]
+			"rotation": [-58.75, 0, 0],
+			"translation": [-0.5, 2.5, -6.5]
 		}
 	},
 	"groups": [
