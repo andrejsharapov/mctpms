@@ -1,49 +1,7 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/copper_ingot",
 	"textures": {
 		"0": "block/netherite_block",
 		"particle": "block/netherite_block"
-	},
-	"elements": [
-		{
-			"from": [5, 4, 3],
-			"to": [10, 6, 11],
-			"faces": {
-				"north": {"uv": [2.375, 2.75, 7.375, 4.75], "texture": "#0"},
-				"east": {"uv": [2.375, 2.75, 10.375, 4.75], "texture": "#0"},
-				"south": {"uv": [2.375, 2.75, 7.375, 4.75], "texture": "#0"},
-				"west": {"uv": [2.375, 2.75, 10.375, 4.75], "texture": "#0"},
-				"up": {"uv": [2.375, 2.75, 7.375, 10.75], "texture": "#0"},
-				"down": {"uv": [2.375, 2.75, 7.375, 10.75], "texture": "#0"}
-			}
-		}
-	],
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [89.75, 0, 0],
-			"translation": [0.5, 0, 5]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [95.5, 0, 0],
-			"translation": [-0.5, 0, 5]
-		},
-		"firstperson_righthand": {
-			"rotation": [47, 0, 0]
-		},
-		"firstperson_lefthand": {
-			"rotation": [44.75, 0, 0]
-		},
-		"gui": {
-			"rotation": [-105.92, 36.27, 138.39],
-			"translation": [-2, 4.5, 0],
-			"scale": [1.55, 1.55, 1.55]
-		},
-		"head": {
-			"translation": [0, 10.75, 0]
-		},
-		"fixed": {
-			"rotation": [90, 0, 0],
-			"translation": [0, 0, 2.25]
-		}
 	}
 }

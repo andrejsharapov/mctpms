@@ -1,49 +1,7 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "minecraft:item/copper_ingot",
 	"textures": {
 		"0": "block/nether_bricks",
 		"particle": "block/nether_bricks"
-	},
-	"elements": [
-		{
-			"from": [5, 3, 3],
-			"to": [10, 6, 11],
-			"faces": {
-				"north": {"uv": [4.5, 5.375, 11.875, 9.75], "texture": "#0"},
-				"east": {"uv": [2.25, 0, 10, 4.125], "texture": "#0"},
-				"south": {"uv": [4.5, 5.375, 11.875, 9.75], "texture": "#0"},
-				"west": {"uv": [2.25, 0, 10, 4.125], "texture": "#0"},
-				"up": {"uv": [8.125, 10.75, 15.125, 15], "texture": "#0"},
-				"down": {"uv": [8.125, 10.75, 15.125, 15], "texture": "#0"}
-			}
-		}
-	],
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [89.75, 0, 0],
-			"translation": [0.5, 0, 5]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [95.5, 0, 0],
-			"translation": [-0.5, 0, 5]
-		},
-		"firstperson_righthand": {
-			"rotation": [47, 0, 0]
-		},
-		"firstperson_lefthand": {
-			"rotation": [44.75, 0, 0]
-		},
-		"gui": {
-			"rotation": [-105.92, 36.27, 138.39],
-			"translation": [-2, 4.5, 0],
-			"scale": [1.55, 1.55, 1.55]
-		},
-		"head": {
-			"translation": [0, 10.75, 0]
-		},
-		"fixed": {
-			"rotation": [90, 0, 0],
-			"translation": [0, 0, 2.25]
-		}
 	}
 }
