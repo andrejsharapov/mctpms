@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/trapdoor/bamboo/trapdoor_top",
+	"textures": {
+		"texture": "block/warped_stripped_log_side",
+			"particle": "block/warped_stripped_log_side"
+	}
+}

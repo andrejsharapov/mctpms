@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/trapdoor/acacia/trapdoor_bottom",
+	"textures": {
+		"particle": "block/spruce_trapdoor"
+	}
+}

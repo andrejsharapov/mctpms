@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/trapdoor/oak/trapdoor_top",
+	"textures": {
+			"particle": "block/jungle_trapdoor"
+	}
+}
