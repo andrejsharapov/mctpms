@@ -1,0 +1,7 @@
+{
+	"parent": "item/acacia_chest_boat",
+	"textures": {
+		"0": "block/oak_planks",
+		"particle": "block/oak_planks"
+	}
+}
