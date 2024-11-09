@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/acacia_planks",
-		"particle": "block/acacia_planks",
-		"chest": "block/chest"
+		"chest": "block/chest",
+		"particle": "block/acacia_planks"
 	},
 	"elements": [
 		{

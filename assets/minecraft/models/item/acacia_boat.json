@@ -1,8 +1,7 @@
 {
 	"parent": "item/acacia_chest_boat",
 	"textures": {
-		"0": "block/acacia_planks",
-		"particle": "block/acacia_planks",
-		"chest": "block/empty"
+		"chest": "block/empty",
+		"particle": "block/acacia_planks"
 	}
 }
