@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/acacia_sign",
+	"textures": {
+		"wood": "block/dark_oak_planks",
+		"particle": "block/light_gray_wool"
+	}
+}
