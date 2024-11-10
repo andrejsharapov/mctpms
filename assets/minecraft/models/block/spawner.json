@@ -1,9 +1,10 @@
 {
 	"credit": "Made with Blockbench",
+	"parent":"block/block",
 	"ambientocclusion": false,
 	"textures": {
 		"texture": "block/spawner",
-		"particle": "block/iron_block"
+		"particle": "block/spawner"
 	},
 	"elements": [
 		{
