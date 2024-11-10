@@ -3,9 +3,8 @@
 	"ambientocclusion": false,
 	"textures": {
 		"5": "block/chiseled_nether_bricks",
-		"6": "block/gold_pressure_plate",
-		"particle": "block/gold_pressure_plate",
-		"anvil_base": "block/red_nether_bricks"
+		"anvil_base": "block/red_nether_bricks",
+		"particle": "block/gold_pressure_plate"
 	},
 	"elements": [
 		{
@@ -13,12 +12,12 @@
 			"to": [9.5, 14.5, 9],
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6, 9]},
 			"faces": {
-				"north": {"uv": [6.5, 0.5, 9.5, 0.999], "texture": "#6"},
-				"east": {"uv": [6.5, 0.5, 9.5, 0.999], "texture": "#6"},
-				"south": {"uv": [6.5, 0.5, 9.5, 0.999], "texture": "#6"},
-				"west": {"uv": [6.5, 0.5, 9.5, 0.999], "texture": "#6"},
-				"up": {"uv": [6.5, 0.5, 9.5, 0.999], "texture": "#6"},
-				"down": {"uv": [6.5, 0.5, 9.5, 0.999], "texture": "#6"}
+				"north": {"uv": [6.5, 0.5, 9.5, 0.999], "texture": "#anvil_base"},
+				"east": {"uv": [6.5, 0.5, 9.5, 0.999], "texture": "#anvil_base"},
+				"south": {"uv": [6.5, 0.5, 9.5, 0.999], "texture": "#anvil_base"},
+				"west": {"uv": [6.5, 0.5, 9.5, 0.999], "texture": "#anvil_base"},
+				"up": {"uv": [6.5, 0.5, 9.5, 0.999], "texture": "#anvil_base"},
+				"down": {"uv": [6.5, 0.5, 9.5, 0.999], "texture": "#anvil_base"}
 			}
 		},
 		{
@@ -61,24 +60,24 @@
 			"from": [7, 1, 7.5],
 			"to": [9, 7, 8.5],
 			"faces": {
-				"north": {"uv": [5.375, 2.375, 7.625, 13.75], "texture": "#6"},
-				"east": {"uv": [5.375, 2.375, 7.625, 13.75], "texture": "#6"},
-				"south": {"uv": [5.375, 2.375, 7.625, 13.75], "texture": "#6"},
-				"west": {"uv": [5.375, 2.375, 7.625, 13.75], "texture": "#6"},
-				"up": {"uv": [5.375, 2.375, 7.625, 13.75], "texture": "#6"},
-				"down": {"uv": [5.375, 2.375, 7.625, 13.75], "texture": "#6"}
+				"north": {"uv": [5.375, 2.375, 7.625, 13.75], "texture": "#anvil_base"},
+				"east": {"uv": [5.375, 2.375, 7.625, 13.75], "texture": "#anvil_base"},
+				"south": {"uv": [5.375, 2.375, 7.625, 13.75], "texture": "#anvil_base"},
+				"west": {"uv": [5.375, 2.375, 7.625, 13.75], "texture": "#anvil_base"},
+				"up": {"uv": [5.375, 2.375, 7.625, 13.75], "texture": "#anvil_base"},
+				"down": {"uv": [5.375, 2.375, 7.625, 13.75], "texture": "#anvil_base"}
 			}
 		},
 		{
 			"from": [7.5, 1, 7],
 			"to": [8.5, 7, 9],
 			"faces": {
-				"north": {"uv": [5.5, 2.25, 7.75, 13.875], "texture": "#6"},
-				"east": {"uv": [5.5, 2.25, 7.75, 13.875], "texture": "#6"},
-				"south": {"uv": [5.5, 2.25, 7.75, 13.875], "texture": "#6"},
-				"west": {"uv": [5.5, 2.25, 7.75, 13.875], "texture": "#6"},
-				"up": {"uv": [5.5, 2.25, 7.75, 13.875], "texture": "#6"},
-				"down": {"uv": [5.5, 2.25, 7.75, 13.875], "texture": "#6"}
+				"north": {"uv": [5.5, 2.25, 7.75, 13.875], "texture": "#anvil_base"},
+				"east": {"uv": [5.5, 2.25, 7.75, 13.875], "texture": "#anvil_base"},
+				"south": {"uv": [5.5, 2.25, 7.75, 13.875], "texture": "#anvil_base"},
+				"west": {"uv": [5.5, 2.25, 7.75, 13.875], "texture": "#anvil_base"},
+				"up": {"uv": [5.5, 2.25, 7.75, 13.875], "texture": "#anvil_base"},
+				"down": {"uv": [5.5, 2.25, 7.75, 13.875], "texture": "#anvil_base"}
 			}
 		},
 		{
@@ -297,9 +296,9 @@
 			"scale": [0.6, 0.6, 0.6]
 		},
 		"gui": {
-			"rotation": [2.18, -40.73, -59.92],
-			"translation": [-2, -1.5, 0],
-			"scale": [0.64, 0.75773, 0.74]
+			"rotation": [-9.01, -37.61, -53.1],
+			"translation": [-1, -2.25, 0],
+			"scale": [0.67969, 0.67969, 0.67969]
 		},
 		"head": {
 			"rotation": [177.72, 7.46, 56.36],
