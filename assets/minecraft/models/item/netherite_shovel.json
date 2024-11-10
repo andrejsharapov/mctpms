@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:item/iron_shovel",
 	"textures": {
-		"1": "block/red_nether_bricks"
+		"1": "block/netherite_block"
 	}
 }

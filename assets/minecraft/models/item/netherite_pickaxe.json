@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/stone_pickaxe",
 	"textures": {
-		"base": "block/nether_bricks",
+		"base": "block/netherite_block",
 		"particle": "block/brown_wool"
 	}
 }

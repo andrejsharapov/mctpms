@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"2": "block/red_nether_bricks",
-		"5": "block/gold_pressure_plate",
-		"6": "block/chiseled_nether_bricks"
+		"2": "block/netherite_block",
+		"5": "block/diamond_block",
+		"6": "block/oak"
 	},
 	"elements": [
 		{
@@ -99,7 +99,7 @@
 			"scale": [0.9, 0.88, 0.89]
 		},
 		"gui": {
-			"rotation": [-21.12, -38.46, -66.74],
+			"rotation": [-11.55, -41.8, -51.97],
 			"translation": [-1, -1.25, 0],
 			"scale": [1.02, 1, 1.07]
 		},

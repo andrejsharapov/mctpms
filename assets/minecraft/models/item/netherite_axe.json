@@ -3,7 +3,7 @@
 	"ambientocclusion": false,
 	"textures": {
 		"5": "block/chiseled_nether_bricks",
-		"anvil_base": "block/red_nether_bricks",
+		"anvil_base": "block/netherite_block",
 		"particle": "block/gold_pressure_plate"
 	},
 	"elements": [

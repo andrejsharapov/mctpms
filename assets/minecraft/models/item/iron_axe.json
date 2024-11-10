@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"6": "block/oak_planks",
-		"anvil_base": "block/anvil_base",
+		"anvil_base": "block/iron_block",
 		"particle": "block/stripped_oak_log"
 	},
 	"elements": [
