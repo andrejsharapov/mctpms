@@ -3,7 +3,8 @@
 	"ambientocclusion": false,
 	"textures": {
 		"texture": "item/nether_star",
-		"glass": "block/glass"
+		"glass": "block/glass",
+		"particle": "block/glass"
 	},
 	"elements": [
 		{
