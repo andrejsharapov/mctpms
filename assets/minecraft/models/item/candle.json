@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/candle/template_candle",
 	"textures": {
 		"0": "block/candle/candle",
 		"particle": "block/candle/candle"
