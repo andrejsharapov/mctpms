@@ -1,5 +1,6 @@
 {
 	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/block",
 	"textures": {
 		"0": "block/oak_planks",
 		"particle": "block/oak_planks"
@@ -167,46 +168,6 @@
 			}
 		}
 	],
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [4.75, 7, 0],
-			"translation": [0, -1.25, -2],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"thirdperson_lefthand": {
-			"rotation": [1.5, 0, 0],
-			"translation": [0, -1.5, -2.5],
-			"scale": [0.5, 0.5, 0.5]
-		},
-		"firstperson_righthand": {
-			"rotation": [-3, 13, 0],
-			"translation": [-0.5, 1, 0.25],
-			"scale": [0.5, 0.42, 0.35]
-		},
-		"firstperson_lefthand": {
-			"rotation": [0, 18, 0],
-			"translation": [2.25, 0, 0],
-			"scale": [0.5, 0.43, 0.24]
-		},
-		"ground": {
-			"rotation": [0, 131, 0],
-			"translation": [0, 2.25, 0],
-			"scale": [0.65, 0.65, 0.65]
-		},
-		"gui": {
-			"rotation": [22.25, 53, 0],
-			"scale": [0.6, 0.6, 0.6]
-		},
-		"head": {
-			"rotation": [-180, 0, 0],
-			"translation": [0, 1.75, 0]
-		},
-		"fixed": {
-			"rotation": [-50, 0, 0],
-			"translation": [0, 0, -1.75],
-			"scale": [0.8, 0.8, 0.8]
-		}
-	},
 	"groups": [
 		0,
 		1,

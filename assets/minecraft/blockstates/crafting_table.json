@@ -1,0 +1,11 @@
+{
+    "variants": { "": [
+    { "model": "minecraft:block/crafting_table",  "weight": 30 },
+    { "model": "minecraft:block/crafting_table", "weight": 20 },      
+    { "model": "minecraft:block/crafting_table", "weight": 20 },
+    { "model": "minecraft:block/crafting_table", "weight": 10 },      
+    { "model": "minecraft:block/crafting_table", "weight": 10 },    
+    { "model": "minecraft:block/crafting_table", "weight": 10 }
+    ]
+    }
+}

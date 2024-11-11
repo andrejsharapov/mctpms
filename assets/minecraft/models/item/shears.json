@@ -1,11 +1,10 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item_models/food/carrot",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/iron_block_s",
+		"1": "block/anvil_base",
 		"3_side": "block/iron_block",
-		"particle": "block/iron_block_s"
+		"particle": "block/anvil_base"
 	},
 	"elements": [
 		{

@@ -247,11 +247,5 @@
 				"down": {"uv": [7.25, 5.375, 8.125, 5.5], "rotation": 180, "texture": "#3"}
 			}
 		}
-	],
-	"display": {
-		"firstperson_righthand": {
-			"rotation": [0, 135, 0],
-			"scale": [0.4, 0.4, 0.4]
-		}
-	}
+	]
 }
