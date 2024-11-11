@@ -62,7 +62,7 @@ Base slogan & game version `Realistic 3d textures for v1.xx.x` + patch version `
 
 ## Download
 
-> **Note**  
+> [!NOTE]  
 >A link to download the texture pack will appear once all the textures have been created.
 
 <!-- [![download][download-img]][download] -->
