@@ -45,10 +45,10 @@ Base slogan & game version `Realistic 3d textures for v1.xx.x` + patch version `
 
 | Pack type         | Color  | Description     |
 | ----------------- | ------ | --------------- |
-| work in progress  | u00A79 | ---             |
+| in progress       | u00A79 | ---             |
 | need bugfix       | u00A74 | ---             |
 | ---               | ---    | ---             |
-| pre release       | u00A73 | Start game now! |
+| pre release       | u00A73 | Testing         |
 | release           | u00A72 | Start game now! |
 | experimental pack | u00A76 | Just for fun!   |
 
