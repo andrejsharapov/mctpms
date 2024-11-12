@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:block/spawner",
 	"textures": {
-		"texture": "block/trial_spawner",
-		"particle": "block/trial_spawner"
+		"texture": "block/amethyst_block",
+		"particle": "block/amethyst_block"
 	}
 }

@@ -3,8 +3,8 @@
 	"parent":"block/block",
 	"ambientocclusion": false,
 	"textures": {
-		"texture": "block/spawner",
-		"particle": "block/spawner"
+		"texture": "block/exposed_copper",
+		"particle": "block/exposed_copper"
 	},
 	"elements": [
 		{
