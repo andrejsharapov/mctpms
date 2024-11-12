@@ -1,0 +1,7 @@
+{
+	"parent":"minecraft:block/chiseled_copper",
+	"textures": {
+		"0": "block/exposed_copper",
+		"particle": "block/exposed_copper"
+	}
+}
