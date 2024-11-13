@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "block/leaves/birch/leaves",
+				"weight": 1
+			},
+			{
+				"model": "block/leaves/birch/leaves1",
+				"weight": 1
+			},
+			{
+				"model": "block/leaves/birch/leaves2",
+				"weight": 1
+			},
+			{
+				"model": "block/leaves/birch/leaves3",
+				"weight": 1
+			}
+		]
+	}
+}

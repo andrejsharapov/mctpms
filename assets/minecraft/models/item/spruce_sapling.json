@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/leaves/spruce/spruce_leaves_sapling",
-		"leaves": "block/leaves/spruce/spruce_leaves_sapling"
+		"particle": "block/leaves/spruce/leaves_sapling",
+		"leaves": "block/leaves/spruce/leaves_sapling"
 	},
 	"elements": [
 		{

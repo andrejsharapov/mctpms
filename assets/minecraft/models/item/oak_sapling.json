@@ -4,8 +4,8 @@
 	"textures": {
 		"1": "block/oak_log",
 		"2": "block/oak_log_top",
-		"particle": "block/leaves/oak/oak_sapling",
-		"leaves": "block/leaves/oak/oak_sapling"
+		"particle": "block/leaves/oak/leaves_sapling",
+		"leaves": "block/leaves/oak/leaves_sapling"
 	},
 	"elements": [
 		{

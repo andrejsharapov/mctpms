@@ -4,8 +4,8 @@
 	"textures": {
 		"1": "block/jungle_log",
 		"2": "block/jungle_log_top",
-		"particle": "block/leaves/jungle/jungle_leaves_sapling",
-		"leaves": "block/leaves/jungle/jungle_leaves_sapling"
+		"particle": "block/leaves/jungle/leaves_sapling",
+		"leaves": "block/leaves/jungle/leaves_sapling"
 	},
 	"elements": [
 		{

@@ -1,10 +1,22 @@
 {
-    "variants": {
-        "": [
-			{ "model": "block/azalea_leaves", "weight": 1},
-			{ "model": "block/azalea_leaves1", "weight": 1},
-			{ "model": "block/azalea_leaves2", "weight": 1},
-			{ "model": "block/azalea_leaves3", "weight": 1}
+	"variants": {
+		"": [
+			{
+				"model": "block/leaves/azalea/leaves",
+				"weight": 1
+			},
+			{
+				"model": "block/leaves/azalea/leaves1",
+				"weight": 1
+			},
+			{
+				"model": "block/leaves/azalea/leaves2",
+				"weight": 1
+			},
+			{
+				"model": "block/leaves/azalea/leaves3",
+				"weight": 1
+			}
 		]
-    }
+	}
 }

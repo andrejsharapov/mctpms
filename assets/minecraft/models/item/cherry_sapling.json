@@ -4,8 +4,8 @@
 	"textures": {
 		"1": "block/cherry_log",
 		"2": "block/cherry_log_top",
-		"particle": "block/leaves/cherry/cherry_leaves_sapling",
-		"leaves": "block/leaves/cherry/cherry_leaves_sapling"
+		"particle": "block/leaves/cherry/leaves_sapling",
+		"leaves": "block/leaves/cherry/leaves_sapling"
 	},
 	"elements": [
 		{

@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "block/leaves/dark_oak/leaves",
+				"weight": 1
+			},
+			{
+				"model": "block/leaves/dark_oak/leaves1",
+				"weight": 1
+			},
+			{
+				"model": "block/leaves/dark_oak/leaves2",
+				"weight": 1
+			},
+			{
+				"model": "block/leaves/dark_oak/leaves3",
+				"weight": 1
+			}
+		]
+	}
+}

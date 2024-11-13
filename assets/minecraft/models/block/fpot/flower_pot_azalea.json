@@ -9,7 +9,8 @@
 		"leaves": "block/leaves/azalea/azalea",
 		"stem": "block/shrub_stem"
 	},
-	"elements": [{
+	"elements": [
+	{
 		"name": "Stem",
 		"from": [0.8, 0, 8],
 		"to": [15.2, 16, 8],

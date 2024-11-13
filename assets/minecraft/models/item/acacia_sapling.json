@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"2": "block/leaves/acacia/acacia_leaves_sapling",
+		"2": "block/leaves/acacia/leaves_sapling",
 		"stem": "block/acacia_log",
 		"particle": "block/acacia_log"
 	},

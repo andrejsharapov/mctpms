@@ -4,8 +4,8 @@
 	"textures": {
 		"1": "block/mangrove_log",
 		"2": "block/mangrove_log_top",
-		"particle": "block/leaves/mangrove/mangrove_leaves_propagule",
-		"leaves": "block/leaves/mangrove/mangrove_leaves_propagule"
+		"particle": "block/leaves/mangrove/leaves_propagule",
+		"leaves": "block/leaves/mangrove/leaves_propagule"
 	},
 	"elements": [
 		{

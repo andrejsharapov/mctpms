@@ -1,0 +1,22 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "block/leaves/mangrove/leaves",
+				"weight": 1
+			},
+			{
+				"model": "block/leaves/mangrove/leaves1",
+				"weight": 1
+			},
+			{
+				"model": "block/leaves/mangrove/leaves2",
+				"weight": 1
+			},
+			{
+				"model": "block/leaves/mangrove/leaves3",
+				"weight": 1
+			}
+		]
+	}
+}

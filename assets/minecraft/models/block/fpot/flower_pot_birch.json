@@ -3,8 +3,8 @@
 	"parent": "minecraft:block/fpot/pot_sapling",
 	"textures": {
 		"2": "block/birch_log_top",
-		"particle": "block/leaves/birch/birch_leaves_sapling",
-		"leaves": "block/leaves/birch/birch_leaves_sapling",
+		"particle": "block/leaves/birch/leaves_sapling",
+		"leaves": "block/leaves/birch/leaves_sapling",
 		"stem": "block/birch_log"
 	},
 	"elements": [
