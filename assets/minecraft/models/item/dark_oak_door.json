@@ -1,0 +1,111 @@
+{
+	"parent": "item/door",
+	"textures": {
+		"particle": "minecraft:block/dark_oak_planks",
+		"door": "minecraft:block/door_dark_oak"
+	},
+	"elements": [ 	 
+		{
+			"from": [ 0, 8, 10.5 ],
+			"to": [ 1.25, 16, 12 ],
+			"faces": {
+				"up": { "uv": [ 12.4375, 15.9375, 11, 14.75 ], "texture": "#door" },
+				"north": { "uv": [ 9.5, 8, 10.9375, 15.9375 ], "texture": "#door", "rotation": 180 },
+				"south": { "uv": [ 10.9375, 7.9375, 9.5, 0 ], "texture": "#door", "rotation": 180 },
+				"west": { "uv": [ 7.9375, 7.9375, 6.5, 0 ], "texture": "#door", "rotation": 180 },
+				"east": { "uv": [ 7.9375, 0, 6.5, 7.9375 ], "texture": "#door" }
+			}
+		},
+		{
+			"from": [ 0, 8, 4 ],
+			"to": [ 1.25, 16, 5.5 ],
+			"faces": {
+				"up": { "uv": [ 10.999, 15.999, 9.501, 15.001 ], "texture": "#door" },
+				"north": { "uv": [ 9.499999, 8, 8.002, 0.001999855 ], "texture": "#door", "rotation": 180 },
+				"south": { "uv": [ 11.001, 8.001, 12.499, 15.999 ], "texture": "#door", "rotation": 180 },
+				"west": { "uv": [ 1.498, 8, 0, 0.001999855 ], "texture": "#door", "rotation": 180 },
+				"east": { "uv": [ 1.498, 0, 0, 7.998 ], "texture": "#door" }
+			}
+		},
+		{
+			"from": [ 0.25, 8, 5.5 ],
+			"to": [ 1, 14.75, 10.5 ],
+			"faces": {
+				"west": { "uv": [ 10.3125, 7.5625, 6.8125, 2.4375 ], "texture": "#door", "rotation": 180 },
+				"east": { "uv": [ 6.5, 7.5625, 10.3125, 2.125 ], "texture": "#door" }
+			}
+		},
+		{
+			"from": [ 0, 14.75, 5.5 ],
+			"to": [ 1.25, 16, 10.5 ],
+			"faces": {
+				"down": { "uv": [ 9.501, 8.001, 10.999, 15.999 ], "texture": "#door" },
+				"up": { "uv": [ 10.999, 8.001, 9.501, 15.999 ], "texture": "#door", "rotation": 180 },
+				"west": { "uv": [ 6.499, 1.249, 1.501, 0.001000404 ], "texture": "#door", "rotation": 180 },
+				"east": { "uv": [ 1.501, 0.001000404, 6.499, 1.249 ], "texture": "#door" }
+			}
+		},
+		{
+			"from": [ 0, 8, 5.75 ],
+			"to": [ 1.25, 14.5, 10.25 ],
+			"faces": {
+				"up": { "uv": [ 12.4375, 15.9375, 11, 8 ], "texture": "#door" },
+				"north": { "uv": [ 9.5, 8, 10.9375, 14.4375 ], "texture": "#door", "rotation": 180 },
+				"south": { "uv": [ 9.5, 8, 10.9375, 14.4375 ], "texture": "#door", "rotation": 180 },
+				"west": { "uv": [ 6.1875, 7.9375, 1.75, 1.5 ], "texture": "#door", "rotation": 180 },
+				"east": { "uv": [ 6.1875, 7.9375, 1.75, 1.5 ], "texture": "#door", "rotation": 180 }
+			}
+		},
+		{
+			"from": [ 0, 0, 4 ],
+			"to": [ 1.25, 8, 5.5 ],
+			"faces": {
+				"down": { "uv": [ 12.499, 15.999, 11.001, 14.751 ], "texture": "#door" },
+				"north": { "uv": [ 8.001, 8.001, 9.499, 15.999 ], "texture": "#door" },
+				"south": { "uv": [ 9.501, 8.001, 10.999, 15.999 ], "texture": "#door" },
+				"west": { "uv": [ 0.001, 8.001, 1.499, 15.999 ], "texture": "#door" },
+				"east": { "uv": [ 1.499, 8.001, 0.001, 15.999 ], "texture": "#door" }
+			}
+		},
+		{
+			"from": [ 0, 0, 10.5 ],
+			"to": [ 1.25, 8, 12 ],
+			"faces": {
+				"down": { "uv": [ 10.999, 15.999, 9.501, 15.001 ], "texture": "#door" },
+				"north": { "uv": [ 11.001, 8.001, 12.499, 15.999 ], "texture": "#door" },
+				"south": { "uv": [ 11.001, 8.001, 12.499, 15.999 ], "texture": "#door" },
+				"west": { "uv": [ 6.501, 8.001, 7.999, 15.999 ], "texture": "#door" },
+				"east": { "uv": [ 7.999, 8.001, 6.501, 15.999 ], "texture": "#door" }
+			}
+		},
+		{
+			"from": [ 0.25, 1.25, 5.5 ],
+			"to": [ 1, 8, 10.5 ],
+			"faces": {
+				"west": { "uv": [ 1.501, 8.001, 6.499, 14.999 ], "texture": "#door" },
+				"east": { "uv": [ 6.499, 8.001, 1.501, 14.999 ], "texture": "#door" }
+			}
+		},
+		{
+			"from": [ 0, 0, 5.5 ],
+			"to": [ 1.25, 1.25, 10.5 ],
+			"faces": {
+				"down": { "uv": [ 10.999, 8.001, 9.501, 15.999 ], "texture": "#door", "rotation": 90 },
+				"up": { "uv": [ 9.501, 8.001, 10.999, 15.999 ], "texture": "#door" },
+				"west": { "uv": [ 1.501, 14.751, 6.499, 15.999 ], "texture": "#door" },
+				"east": { "uv": [ 6.499, 14.751, 1.501, 15.999 ], "texture": "#door" }
+			}
+		},
+		{
+			"from": [ 0, 1.5, 5.75 ],
+			"to": [ 1.25, 8, 10.25 ],
+			"faces": {
+				"down": { "uv": [ 12.4375, 15.9375, 11, 8 ], "texture": "#door" },
+				"north": { "uv": [ 9.5, 8, 10.9375, 14.4375 ], "texture": "#door" },
+				"south": { "uv": [ 9.5, 8, 10.9375, 14.4375 ], "texture": "#door" },
+				"west": { "uv": [ 1.75, 8.0625, 6.1875, 14.5 ], "texture": "#door" },
+				"east": { "uv": [ 1.75, 8.0625, 6.1875, 14.5 ], "texture": "#door" }
+			}
+		}
+	]
+}

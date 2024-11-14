@@ -1,0 +1,61 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "minecraft:block/door_birch",
+		"door": "minecraft:block/door_birch"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 13.75],
+			"to": [1.375, 16, 16],
+			"faces": {
+				"north": {"uv": [8, 8, 9, 16], "texture": "#door"},
+				"east": {"uv": [8, 8, 6.875, 16], "texture": "#door"},
+				"south": {"uv": [8, 8, 9, 16], "texture": "#door"},
+				"west": {"uv": [6.875, 8, 8, 16], "texture": "#door"},
+				"down": {"uv": [8, 14.375, 9, 16], "texture": "#door"}
+			}
+		},
+		{
+			"from": [0.125, 14.25, 7.75],
+			"to": [1.25, 16, 8.375],
+			"faces": {
+				"north": {"uv": [3.875, 8, 4.1875, 8.875], "texture": "#door"},
+				"east": {"uv": [3.875, 8, 4.1875, 8.875], "texture": "#door"},
+				"south": {"uv": [3.875, 8, 4.1875, 8.875], "texture": "#door"},
+				"west": {"uv": [3.875, 8, 4.1875, 8.875], "texture": "#door"}
+			}
+		},
+		{
+			"from": [0, 0, 2.25],
+			"to": [1.375, 14.25, 13.75],
+			"faces": {
+				"east": {"uv": [6.875, 8.875, 1.125, 16], "texture": "#door"},
+				"west": {"uv": [1.125, 8.875, 6.875, 16], "texture": "#door"},
+				"up": {"uv": [10, 10.5, 11, 16], "texture": "#door"},
+				"down": {"uv": [10, 10.5, 11, 16], "texture": "#door"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [1.375, 16, 2.25],
+			"faces": {
+				"north": {"uv": [9, 8, 10, 16], "texture": "#door"},
+				"east": {"uv": [1.125, 8, 0, 16], "texture": "#door"},
+				"south": {"uv": [9, 8, 10, 16], "texture": "#door"},
+				"west": {"uv": [0, 8, 1.125, 16], "texture": "#door"},
+				"down": {"uv": [0, 14.375, 1.125, 16], "texture": "#door"}
+			}
+		},
+		{
+			"from": [0.375, 14.25, 2.25],
+			"to": [1, 16, 13.75],
+			"faces": {
+				"north": {"uv": [15.9375, 5.25, 16, 7.375], "texture": "#door"},
+				"east": {"uv": [10, 8, 15.75, 7], "texture": "#door"},
+				"south": {"uv": [10.25, 5.25, 10.3125, 7.375], "texture": "#door"},
+				"west": {"uv": [10, 4.5, 15.75, 5.5], "texture": "#door"}
+			}
+		}
+	]
+}

@@ -1,0 +1,79 @@
+{
+	"textures": {
+		"particle": "minecraft:block/door_acacia",
+		"door": "minecraft:block/door_acacia"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 13.5],
+			"to": [2, 16, 16],
+			"faces": {
+				"north": {"uv": [8, 0, 9.5, 8], "texture": "#door"},
+				"east": {"uv": [0, 0, 1.25, 8.0625], "texture": "#door"},
+				"south": {"uv": [8, 0, 9.5, 8], "texture": "#door"},
+				"west": {"uv": [1.25, 0, 0, 8.0625], "texture": "#door"},
+				"up": {"uv": [11, 14.25, 12.5, 16], "texture": "#door"}
+			}
+		},
+		{
+			"from": [0, 6.625, 9.5],
+			"to": [2, 13.5, 10.5],
+			"faces": {
+				"north": {"uv": [9.875, 0.875, 10.375, 4.375], "texture": "#door"},
+				"east": {"uv": [2.75, 1.25, 3.25, 4.75], "texture": "#door"},
+				"south": {"uv": [9.875, 0.875, 10.375, 4.375], "texture": "#door"},
+				"west": {"uv": [3.25, 1.25, 2.75, 4.75], "texture": "#door"},
+				"up": {"uv": [11, 10.375, 12.5, 13.375], "texture": "#door"},
+				"down": {"uv": [11, 9.875, 12.5, 13.125], "rotation": 180, "texture": "#door"}
+			}
+		},
+		{
+			"from": [0, 0, 2.5],
+			"to": [2, 6.625, 13.5],
+			"faces": {
+				"east": {"uv": [1.25, 4.75, 6.75, 8], "texture": "#door"},
+				"west": {"uv": [6.75, 4.75, 1.25, 8], "texture": "#door"},
+				"up": {"uv": [11, 10.75, 12.5, 13.375], "texture": "#door"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [2, 16, 2.5],
+			"faces": {
+				"north": {"uv": [9.5, 0, 11, 8], "texture": "#door"},
+				"east": {"uv": [6.75, 0, 8, 8], "texture": "#door"},
+				"south": {"uv": [9.5, 0, 11, 8], "texture": "#door"},
+				"west": {"uv": [8, 0, 6.75, 8], "texture": "#door"},
+				"up": {"uv": [11, 8, 12.5, 10], "texture": "#door"}
+			}
+		},
+		{
+			"from": [0.8125, 6.5, 2.5],
+			"to": [1.1875, 13.625, 13.5],
+			"faces": {
+				"east": {"uv": [1.25, 1.25, 6.75, 4.75], "texture": "#door"},
+				"west": {"uv": [6.75, 1.25, 1.25, 4.75], "texture": "#door"}
+			}
+		},
+		{
+			"from": [0, 6.625, 5.5],
+			"to": [2, 13.5, 6.5],
+			"faces": {
+				"north": {"uv": [9.875, 0.875, 10.375, 4.375], "texture": "#door"},
+				"east": {"uv": [4.75, 1.25, 5.25, 4.75], "texture": "#door"},
+				"south": {"uv": [9.875, 0.875, 10.375, 4.375], "texture": "#door"},
+				"west": {"uv": [5.25, 1.25, 4.75, 4.75], "texture": "#door"}
+			}
+		},
+		{
+			"from": [0, 13.5, 2.5],
+			"to": [2, 16, 13.5],
+			"faces": {
+				"east": {"uv": [1.25, 0, 6.75, 1.25], "texture": "#door"},
+				"west": {"uv": [6.75, 0, 1.25, 1.25], "texture": "#door"},
+				"up": {"uv": [9.5, 0, 11, 6.125], "texture": "#door"},
+				"down": {"uv": [9.5, 0, 11, 5.5], "rotation": 180, "texture": "#door"}
+			}
+		}
+	]
+}

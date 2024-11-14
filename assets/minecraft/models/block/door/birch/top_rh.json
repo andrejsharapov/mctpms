@@ -1,0 +1,85 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "minecraft:block/door_birch",
+		"door": "minecraft:block/door_birch"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [1.375, 16, 2.25],
+			"faces": {
+				"north": {"uv": [8, 8, 9, 16], "texture": "#door"},
+				"east": {"uv": [6.875, 0, 8, 8], "texture": "#door"},
+				"south": {"uv": [8, 8, 9, 16], "texture": "#door"},
+				"west": {"uv": [8, 0, 6.875, 8], "texture": "#door"},
+				"up": {"uv": [8, 15, 9, 16], "rotation": 180, "texture": "#door"}
+			}
+		},
+		{
+			"from": [0.1875, 2.4375, 2.25],
+			"to": [1.1875, 2.9375, 13.75],
+			"faces": {
+				"north": {"uv": [8.3125, 1.375, 8.5625, 7.9375], "texture": "#door"},
+				"east": {"uv": [0.875, 0.5, 6.625, 0.75], "texture": "#door"},
+				"south": {"uv": [8.3125, 1.375, 8.5625, 7.9375], "texture": "#door"},
+				"west": {"uv": [0.875, 0.6875, 6.625, 0.9375], "texture": "#door"},
+				"up": {"uv": [10.3125, 8, 10.5625, 16], "rotation": 180, "texture": "#door"},
+				"down": {"uv": [10.3125, 8, 10.5625, 16], "rotation": 180, "texture": "#door"}
+			}
+		},
+		{
+			"from": [0, 13.125, 2.25],
+			"to": [1.375, 16, 13.75],
+			"faces": {
+				"east": {"uv": [6.875, 0, 1.125, 1.4375], "texture": "#door"},
+				"west": {"uv": [6.875, 0, 1.125, 1.4375], "texture": "#door"},
+				"up": {"uv": [10, 10.5, 11, 16], "rotation": 180, "texture": "#door"},
+				"down": {"uv": [10, 10.5, 11, 16], "rotation": 180, "texture": "#door"}
+			}
+		},
+		{
+			"from": [0, 0, 13.75],
+			"to": [1.375, 16, 16],
+			"faces": {
+				"north": {"uv": [8, 0, 9, 8], "texture": "#door"},
+				"east": {"uv": [0, 0, 1.125, 8], "texture": "#door"},
+				"south": {"uv": [9, 0, 10, 8], "texture": "#door"},
+				"west": {"uv": [1.125, 0, 0, 8], "texture": "#door"},
+				"up": {"uv": [8.0625, 0, 9, 1.125], "rotation": 180, "texture": "#door"}
+			}
+		},
+		{
+			"from": [0.375, 0, 2.25],
+			"to": [1, 13.125, 13.75],
+			"faces": {
+				"east": {"uv": [10.25, 0, 16, 6.375], "texture": "#door"},
+				"west": {"uv": [10.25, 0, 16, 6.375], "texture": "#door"}
+			}
+		},
+		{
+			"name": "Box1",
+			"from": [0.125, 0, 7.75],
+			"to": [1.25, 13.125, 8.375],
+			"faces": {
+				"north": {"uv": [8.375, 0, 8.6875, 6.3125], "texture": "#door"},
+				"east": {"uv": [3.875, 1.4375, 4.1875, 7.75], "texture": "#door"},
+				"south": {"uv": [8.375, 0, 8.6875, 6.3125], "texture": "#door"},
+				"west": {"uv": [3.875, 1.4375, 4.1875, 7.75], "texture": "#door"}
+			}
+		},
+		{
+			"name": "Box1",
+			"from": [0.1875, 8, 2.25],
+			"to": [1.1875, 8.5, 13.75],
+			"faces": {
+				"north": {"uv": [8.3125, 1.375, 8.5625, 7.9375], "texture": "#door"},
+				"east": {"uv": [0.8125, 0.4375, 6.625, 0.6875], "texture": "#door"},
+				"south": {"uv": [8.3125, 1.375, 8.5625, 7.9375], "texture": "#door"},
+				"west": {"uv": [0.875, 0.375, 6.6875, 0.625], "texture": "#door"},
+				"up": {"uv": [10.3125, 8, 10.5625, 16], "rotation": 180, "texture": "#door"},
+				"down": {"uv": [10.3125, 8, 10.5625, 16], "rotation": 180, "texture": "#door"}
+			}
+		}
+	]
+}
