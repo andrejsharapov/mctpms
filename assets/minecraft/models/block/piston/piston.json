@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/piston/template_piston",
+  "textures": {
+    "slime": "block/mossy_cobblestone"
+  }
+}
