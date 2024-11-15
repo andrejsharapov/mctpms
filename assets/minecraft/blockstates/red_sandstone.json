@@ -1,0 +1,30 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/red_sandstone_normal",
+        "weight": 70
+      },
+      {
+        "model": "minecraft:block/red_sandstone/red_sandstone1",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/red_sandstone/red_sandstone2",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/red_sandstone/red_sandstone3",
+        "weight": 10
+      },
+      {
+        "model": "minecraft:block/red_sandstone/red_sandstone4",
+        "weight": 5
+      },
+      {
+        "model": "minecraft:block/red_sandstone/red_sandstone5",
+        "weight": 5
+      }
+    ]
+  }
+}
