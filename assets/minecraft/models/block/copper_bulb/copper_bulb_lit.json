@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/copper_bulb/copper_bulb",
+	"textures": {
+		"2": "block/lava_still"
+	}
+}

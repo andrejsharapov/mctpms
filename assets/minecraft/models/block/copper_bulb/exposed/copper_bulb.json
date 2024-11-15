@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/copper_bulb/copper_bulb",
+	"textures": {
+		"0": "block/exposed_copper",
+		"particle": "block/exposed_copper"
+	}
+}

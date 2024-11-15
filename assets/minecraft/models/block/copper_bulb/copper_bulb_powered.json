@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/copper_bulb/copper_bulb",
+	"textures": {
+		"3": "block/redstone_block"
+	}
+}
