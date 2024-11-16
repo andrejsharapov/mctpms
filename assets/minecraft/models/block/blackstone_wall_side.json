@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/master_wall3_side",
+    "textures": {
+        "wall": "minecraft:block/blackstone"
+    }
+}

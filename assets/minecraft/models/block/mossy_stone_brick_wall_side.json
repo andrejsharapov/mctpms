@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/master_wall3_side",
+    "textures": {
+        "wall": "block/mossy_stone_bricks"
+    }
+}

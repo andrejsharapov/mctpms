@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/master_wall2_side",
+    "textures": {
+        "wall": "block/cobbled_deepslate"
+    }
+}

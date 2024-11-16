@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/wall2_post",
+  "textures": {
+		"wall": "block/mossy_cobblestone",
+		"particle": "block/mossy_cobblestone",
+		"top": "block/mossy_cobblestone"
+  }
+}

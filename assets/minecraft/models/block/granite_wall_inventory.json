@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/wall2_inventory",
+	"textures": {
+		"top": "block/polished_granite_slab",
+		"side": "block/granite"
+	}
+}

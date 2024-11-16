@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/wall2_side",
+  "textures": {
+		"wall": "block/granite"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/wall2_side_tall",
+  "textures": {
+		"side": "block/granite",
+		"particle": "block/granite",
+		"top": "block/polished_granite_slab"
+  }
+}
