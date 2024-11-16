@@ -2,16 +2,17 @@
 	"cSpell.words":["blockbench","blockstates","mcmeta","mctpms"],
 	"editor.formatOnSave":true,
 	"editor.insertSpaces":true,
+	"editor.stickyTabStops":true,
 	"editor.tabSize":2,
+	"fracturedjsonvsc.v3.ColonPadding":false,
+	"fracturedjsonvsc.v3.CommaPadding":false,
 	"fracturedjsonvsc.v3.MaxCompactArrayComplexity":1,
 	"fracturedjsonvsc.v3.MaxInlineComplexity":2,
 	"fracturedjsonvsc.v3.MaxTableRowComplexity":1,
 	"fracturedjsonvsc.v3.MaxTotalLineLength":150,
 	"fracturedjsonvsc.v3.MinCompactArrayRowItems":3,
 	"fracturedjsonvsc.v3.NestedBracketPadding":false,
+	"fracturedjsonvsc.v3.PreserveBlankLines":false,
 	"fracturedjsonvsc.v3.SimpleBracketPadding":false,
-	"fracturedjsonvsc.v3.ColonPadding":false,
-	"fracturedjsonvsc.v3.CommaPadding":false,
-	"[json]":{"editor.defaultFormatter":"j-brooke.fracturedjsonvsc"},
-	"editor.stickyTabStops":true
+	"[json]":{"editor.defaultFormatter":"j-brooke.fracturedjsonvsc"}
 }
