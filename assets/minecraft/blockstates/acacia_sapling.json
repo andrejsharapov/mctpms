@@ -1,9 +1,5 @@
 {
-	"variants": {
-		"": [
-			{
-				"model": "item/acacia_sapling"
-			}
-		]
+	"variants":{
+		"":[{"model":"item/acacia_sapling"}]
 	}
 }

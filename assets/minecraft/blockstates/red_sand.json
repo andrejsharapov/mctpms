@@ -1,17 +1,14 @@
 {
-    "variants": {
-        "": [
-            { "model": "minecraft:block/red_sand/red_sand", "weight": 125 },
-            { "model": "minecraft:block/red_sand/red_sand", "y": 180, "weight": 125 },
-            { "model": "minecraft:block/red_sand/red_sand1", "weight": 125 },
-            { "model": "minecraft:block/red_sand/red_sand1", "weight": 120, "y": 180 },
-            { "model": "minecraft:block/red_sand/red_sand2", "weight": 1 },
-            { "model": "minecraft:block/red_sand/red_sand2", "weight": 1 },
-            { "model": "minecraft:block/red_sand/red_sand3", "weight": 1, "y": 180 },
-            { "model": "minecraft:block/red_sand/red_sand4", "weight": 1 }
-          
+    "variants":{
+        "":[
+            {"model":"block/red_sand/red_sand" ,"weight":125        },
+            {"model":"block/red_sand/red_sand" ,"weight":125,"y":180},
+            {"model":"block/red_sand/red_sand1","weight":125        },
+            {"model":"block/red_sand/red_sand1","weight":120,"y":180},
+            {"model":"block/red_sand/red_sand2","weight":  1        },
+            {"model":"block/red_sand/red_sand2","weight":  1        },
+            {"model":"block/red_sand/red_sand3","weight":  1,"y":180},
+            {"model":"block/red_sand/red_sand4","weight":  1        }
         ]
     }
 }
-
-

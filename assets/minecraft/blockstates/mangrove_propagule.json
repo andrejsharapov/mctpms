@@ -1,9 +1,5 @@
 {
-	"variants": {
-		"": [
-			{
-				"model": "item/mangrove_propagule"
-			}
-		]
+	"variants":{
+		"":[{"model":"item/mangrove_propagule"}]
 	}
 }

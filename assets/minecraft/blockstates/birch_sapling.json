@@ -1,9 +1,5 @@
 {
-	"variants": {
-		"": [
-			{
-				"model": "item/birch_sapling"
-			}
-		]
+	"variants":{
+		"":[{"model":"item/birch_sapling"}]
 	}
 }

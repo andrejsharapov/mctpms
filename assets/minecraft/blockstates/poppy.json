@@ -1,9 +1,13 @@
-{"variants":{"":[
-{ "model": "minecraft:block/flower/poppy",  "weight": 40 },
-{ "model": "minecraft:block/flower/poppy1", "weight": 20 },
-{ "model": "minecraft:block/flower/poppy2", "weight": 10 },
-{ "model": "minecraft:block/flower/poppy3", "weight": 10 },
-{ "model": "minecraft:block/flower/poppy4", "weight": 10 },						
-{ "model": "minecraft:block/flower/poppy5", "weight": 9 },
-{ "model": "minecraft:block/flower/poppy6", "weight": 1 }
-]}}
+{
+  "variants":{
+    "":[
+      {"model":"block/flower/poppy" ,"weight":40},
+      {"model":"block/flower/poppy1","weight":20},
+      {"model":"block/flower/poppy2","weight":10},
+      {"model":"block/flower/poppy3","weight":10},
+      {"model":"block/flower/poppy4","weight":10},
+      {"model":"block/flower/poppy5","weight": 9},
+      {"model":"block/flower/poppy6","weight": 1}
+    ]
+  }
+}

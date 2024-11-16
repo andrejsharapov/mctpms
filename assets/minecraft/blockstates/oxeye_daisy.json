@@ -1,7 +1,11 @@
-{"variants": {"": [
-{ "model": "minecraft:block/flower/oxeye_daisy"},
-{ "model": "minecraft:block/flower/oxeye_daisy1"},
-{ "model": "minecraft:block/flower/oxeye_daisy2"},
-{ "model": "minecraft:block/flower/oxeye_daisy3"},
-{ "model": "minecraft:block/flower/oxeye_daisy4"}
-]}}
+{
+  "variants":{
+    "":[
+      {"model":"block/flower/oxeye_daisy" },
+      {"model":"block/flower/oxeye_daisy1"},
+      {"model":"block/flower/oxeye_daisy2"},
+      {"model":"block/flower/oxeye_daisy3"},
+      {"model":"block/flower/oxeye_daisy4"}
+    ]
+  }
+}

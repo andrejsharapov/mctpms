@@ -1,26 +1,11 @@
 {
-	"variants": {
-		"": [
-			{
-				"model": "block/leaves/spruce/leaves",
-				"weight": 1
-			},
-			{
-				"model": "block/leaves/spruce/leaves1",
-				"weight": 1
-			},
-			{
-				"model": "block/leaves/spruce/leaves2",
-				"weight": 1
-			},
-			{
-				"model": "block/leaves/spruce/leaves3",
-				"weight": 1
-			},
-			{
-				"model": "block/leaves/spruce/leaves4",
-				"weight": 1
-			}
+	"variants":{
+		"":[
+			{"model":"block/leaves/spruce/leaves" ,"weight":1},
+			{"model":"block/leaves/spruce/leaves1","weight":1},
+			{"model":"block/leaves/spruce/leaves2","weight":1},
+			{"model":"block/leaves/spruce/leaves3","weight":1},
+			{"model":"block/leaves/spruce/leaves4","weight":1}
 		]
 	}
 }

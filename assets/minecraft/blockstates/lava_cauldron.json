@@ -1,9 +1,5 @@
 {
-  "variants": {
-    "": [
-      {
-        "model": "minecraft:block/cauldron/lava_cauldron"
-      }
-    ]
+  "variants":{
+    "":[{"model":"block/cauldron/lava_cauldron"}]
   }
 }

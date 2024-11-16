@@ -1,9 +1,5 @@
 {
-    "variants": {
-        "": [
-            {
-                "model": "block/ore/nether_gold_ore"
-            }
-        ]
+    "variants":{
+        "":[{"model":"block/ore/nether_gold_ore"}]
     }
 }

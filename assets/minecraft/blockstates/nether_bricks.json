@@ -1,26 +1,11 @@
 {
-  "variants": {
-    "": [
-      {
-        "model": "minecraft:block/nether_bricks/nether_bricks",
-        "weight": 70
-      },
-      {
-        "model": "minecraft:block/nether_bricks/nether_bricks2",
-        "weight": 10
-      },
-      {
-        "model": "minecraft:block/nether_bricks/nether_bricks3",
-        "weight": 10
-      },
-      {
-        "model": "minecraft:block/nether_bricks/nether_bricks4",
-        "weight": 5
-      },
-      {
-        "model": "minecraft:block/nether_bricks/nether_bricks5",
-        "weight": 5
-      }
+  "variants":{
+    "":[
+      {"model":"block/nether_bricks/nether_bricks" ,"weight":70},
+      {"model":"block/nether_bricks/nether_bricks2","weight":10},
+      {"model":"block/nether_bricks/nether_bricks3","weight":10},
+      {"model":"block/nether_bricks/nether_bricks4","weight": 5},
+      {"model":"block/nether_bricks/nether_bricks5","weight": 5}
     ]
   }
 }

@@ -1,22 +1,10 @@
 {
-	"variants": {
-		"": [
-			{
-				"model": "block/leaves/azalea/leaves",
-				"weight": 1
-			},
-			{
-				"model": "block/leaves/azalea/leaves1",
-				"weight": 1
-			},
-			{
-				"model": "block/leaves/azalea/leaves2",
-				"weight": 1
-			},
-			{
-				"model": "block/leaves/azalea/leaves3",
-				"weight": 1
-			}
+	"variants":{
+		"":[
+			{"model":"block/leaves/azalea/leaves" ,"weight":1},
+			{"model":"block/leaves/azalea/leaves1","weight":1},
+			{"model":"block/leaves/azalea/leaves2","weight":1},
+			{"model":"block/leaves/azalea/leaves3","weight":1}
 		]
 	}
 }

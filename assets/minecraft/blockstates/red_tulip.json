@@ -1,5 +1,9 @@
-{"variants": {"":[
-{ "model": "minecraft:block/flower/red_tulip",  "weight": 70 },
-{ "model": "minecraft:block/flower/red_tulip1", "weight": 10 },
-{ "model": "minecraft:block/flower/red_tulip2", "weight": 10 }
-]}}
+{
+  "variants":{
+    "":[
+      {"model":"block/flower/red_tulip" ,"weight":70},
+      {"model":"block/flower/red_tulip1","weight":10},
+      {"model":"block/flower/red_tulip2","weight":10}
+    ]
+  }
+}

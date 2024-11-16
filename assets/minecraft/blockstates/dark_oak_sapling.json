@@ -1,9 +1,5 @@
 {
-	"variants": {
-		"": [
-			{
-				"model": "item/dark_oak_sapling"
-			}
-		]
+	"variants":{
+		"":[{"model":"item/dark_oak_sapling"}]
 	}
 }

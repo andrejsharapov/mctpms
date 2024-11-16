@@ -1,6 +1,10 @@
-{"variants": {"":[
-{ "model": "minecraft:block/flower/orchid",  "weight": 40 },
-{ "model": "minecraft:block/flower/orchid1", "weight": 20 },
-{ "model": "minecraft:block/flower/orchid2", "weight": 20 },
-{ "model": "minecraft:block/flower/orchid3", "weight": 20 }
-]}}
+{
+  "variants":{
+    "":[
+      {"model":"block/flower/orchid" ,"weight":40},
+      {"model":"block/flower/orchid1","weight":20},
+      {"model":"block/flower/orchid2","weight":20},
+      {"model":"block/flower/orchid3","weight":20}
+    ]
+  }
+}

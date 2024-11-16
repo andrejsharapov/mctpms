@@ -1,9 +1,5 @@
 {
-	"variants": {
-		"": [
-			{
-				"model": "item/spruce_sapling"
-			}
-		]
+	"variants":{
+		"":[{"model":"item/spruce_sapling"}]
 	}
 }

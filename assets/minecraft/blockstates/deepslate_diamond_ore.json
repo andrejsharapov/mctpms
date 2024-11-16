@@ -1,7 +1,5 @@
 {
-    "variants": {
-        "": [
-            { "model": "block/ore/deepslate_diamond_ore" }
-        ]
+    "variants":{
+        "":[{"model":"block/ore/deepslate_diamond_ore"}]
     }
 }

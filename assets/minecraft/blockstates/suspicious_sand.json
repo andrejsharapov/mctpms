@@ -1,20 +1,8 @@
 {
-  "variants": {
-    "dusted=0": {
-      "model": "minecraft:block/sand/suspicious_sand_0"
-    },
-    "dusted=1": {
-      "model": "minecraft:block/sand/suspicious_sand_1",
-      "y": 180,
-      "weight": 125
-    },
-    "dusted=2": {
-      "model": "minecraft:block/sand/suspicious_sand_2",
-      "weight": 120,
-      "y": 180
-    },
-    "dusted=3": {
-      "model": "minecraft:block/sand/suspicious_sand_3"
-    }
+  "variants":{
+    "dusted=0":{"model":"block/sand/suspicious_sand_0"                     },
+    "dusted=1":{"model":"block/sand/suspicious_sand_1","y":180,"weight":125},
+    "dusted=2":{"model":"block/sand/suspicious_sand_2","y":180,"weight":120},
+    "dusted=3":{"model":"block/sand/suspicious_sand_3"                     }
   }
 }

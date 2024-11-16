@@ -1,10 +1,13 @@
-{"variants":{"":[
-{ "model": "minecraft:block/flower/azure_bluet",  "weight": 30 },
-{ "model": "minecraft:block/flower/azure_bluet1", "weight": 10 },
-{ "model": "minecraft:block/flower/azure_bluet2", "weight": 10 },
-{ "model": "minecraft:block/flower/azure_bluet3", "weight": 10 },
-{ "model": "minecraft:block/flower/azure_bluet4", "weight": 10 },
-{ "model": "minecraft:block/flower/azure_bluet5", "weight": 10 },
-{ "model": "minecraft:block/flower/azure_bluet6", "weight": 20 }
-
-]}}
+{
+  "variants":{
+    "":[
+      {"model":"block/flower/azure_bluet" ,"weight":30},
+      {"model":"block/flower/azure_bluet1","weight":10},
+      {"model":"block/flower/azure_bluet2","weight":10},
+      {"model":"block/flower/azure_bluet3","weight":10},
+      {"model":"block/flower/azure_bluet4","weight":10},
+      {"model":"block/flower/azure_bluet5","weight":10},
+      {"model":"block/flower/azure_bluet6","weight":20}
+    ]
+  }
+}

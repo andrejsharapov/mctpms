@@ -1,9 +1,5 @@
 {
-	"variants": {
-		"": [
-			{
-				"model": "item/jungle_sapling"
-			}
-		]
+	"variants":{
+		"":[{"model":"item/jungle_sapling"}]
 	}
 }
