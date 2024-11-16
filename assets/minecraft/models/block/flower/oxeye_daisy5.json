@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:block/cross",
-    "textures": {
-        "cross": "block/flowers/oxeye_daisy/oxeye_daisy5"
-    }
-}
+{"parent":"minecraft:block/cross","textures":{"cross":"block/flowers/oxeye_daisy/oxeye_daisy5"}}

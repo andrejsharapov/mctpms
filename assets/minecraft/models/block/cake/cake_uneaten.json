@@ -1,8 +1,1 @@
-{
-    "parent": "minecraft:block/cake/cake",
-    "textures": {
-    "top": "block/cake/cake_top",
-    "side": "block/cake/cake_side"
-    }
-}
-
+{"parent":"minecraft:block/cake/cake","textures":{"top":"block/cake/cake_top","side":"block/cake/cake_side"}}

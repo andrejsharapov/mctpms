@@ -1,8 +1,4 @@
 {
-	"parent": "minecraft:block/copper_bulb/copper_bulb",
-	"textures": {
-		"2": "block/lava_still",
-		"0": "block/weathered_copper",
-		"particle": "block/weathered_copper"
-	}
+	"parent":"minecraft:block/copper_bulb/copper_bulb",
+	"textures":{"2":"block/lava_still","0":"block/weathered_copper","particle":"block/weathered_copper"}
 }

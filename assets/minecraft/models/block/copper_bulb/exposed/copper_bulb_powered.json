@@ -1,8 +1,4 @@
 {
-	"parent": "minecraft:block/copper_bulb/copper_bulb",
-	"textures": {
-		"3": "block/redstone_block",
-		"0": "block/exposed_copper",
-		"particle": "block/exposed_copper"
-	}
+	"parent":"minecraft:block/copper_bulb/copper_bulb",
+	"textures":{"3":"block/redstone_block","0":"block/exposed_copper","particle":"block/exposed_copper"}
 }

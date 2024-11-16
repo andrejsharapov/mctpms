@@ -1,6 +1,1 @@
-{
-	"parent": "minecraft:block/trapdoor/oak/trapdoor_open",
-	"textures": {
-			"particle": "block/jungle_trapdoor"
-	}
-}
+{"parent":"minecraft:block/trapdoor/oak/trapdoor_open","textures":{"particle":"block/jungle_trapdoor"}}

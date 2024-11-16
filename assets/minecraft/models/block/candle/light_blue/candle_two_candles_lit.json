@@ -1,7 +1,4 @@
 {
-  "parent": "minecraft:block/template_two_candles",
-  "textures": {
-    "all": "block/candle/light_blue_candle_lit",
-    "particle": "block/candle/light_blue_candle_lit"
-  }
+  "parent":"minecraft:block/template_two_candles",
+  "textures":{"all":"block/candle/light_blue_candle_lit","particle":"block/candle/light_blue_candle_lit"}
 }

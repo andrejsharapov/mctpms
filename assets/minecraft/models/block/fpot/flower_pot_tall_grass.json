@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:block/fpot/pot_sapling",
-    "textures": {
-        "plant": "block/grass"
-    }
-}
+{"parent":"minecraft:block/fpot/pot_sapling","textures":{"plant":"block/grass"}}

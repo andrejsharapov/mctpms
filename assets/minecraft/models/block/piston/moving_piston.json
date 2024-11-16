@@ -1,5 +1,1 @@
-{
-  "textures": {
-    "particle": "block/cobblestone"
-  }
-}
+{"textures":{"particle":"block/cobblestone"}}

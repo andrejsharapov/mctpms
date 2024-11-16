@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:block/cube_top",
-	"textures": {
-		"side": "block/gravel",
-		"top": "block/gravel/gravel5"
-	}
-}
+{"parent":"minecraft:block/cube_top","textures":{"side":"block/gravel","top":"block/gravel/gravel5"}}

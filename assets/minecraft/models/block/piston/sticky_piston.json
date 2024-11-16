@@ -1,3 +1,1 @@
-{
-  "parent": "minecraft:block/piston/template_piston"
-}
+{"parent":"minecraft:block/piston/template_piston"}

@@ -1,7 +1,1 @@
-{
-    "parent": "minecraft:block/trapdoor/copper/trapdoor_top",
-    "textures": {
-        "texture": "block/oxidized_cut_copper",
-        "particle": "block/oxidized_cut_copper"
-    }
-}
+{"parent":"minecraft:block/trapdoor/copper/trapdoor_top","textures":{"texture":"block/oxidized_cut_copper","particle":"block/oxidized_cut_copper"}}

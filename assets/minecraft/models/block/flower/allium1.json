@@ -1,7 +1,1 @@
-{
-    "parent": "minecraft:block/cross",
-    "textures": {
-        "particle": "block/flowers/allium/allium1",
-        "cross": "block/flowers/allium/allium1"
-    }
-}
+{"parent":"minecraft:block/cross","textures":{"particle":"block/flowers/allium/allium1","cross":"block/flowers/allium/allium1"}}

@@ -1,7 +1,1 @@
-{
-  "parent": "minecraft:block/template_four_candles",
-  "textures": {
-    "all": "block/candle/green_candle_lit",
-    "particle": "block/candle/green_candle_lit"
-  }
-}
+{"parent":"minecraft:block/template_four_candles","textures":{"all":"block/candle/green_candle_lit","particle":"block/candle/green_candle_lit"}}

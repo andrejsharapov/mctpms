@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:block/copper_bulb/copper_bulb",
-	"textures": {
-		"0": "block/oxidized_copper",
-		"particle": "block/oxidized_copper"
-	}
-}
+{"parent":"minecraft:block/copper_bulb/copper_bulb","textures":{"0":"block/oxidized_copper","particle":"block/oxidized_copper"}}

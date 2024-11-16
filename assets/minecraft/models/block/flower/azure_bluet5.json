@@ -1,7 +1,1 @@
-{
-  "parent": "minecraft:block/cross",
-  "textures": {
-    "particle": "block/flowers/azure_bluet/azure_bluet5",
-    "cross": "block/flowers/azure_bluet/azure_bluet5"
-  }
-}
+{"parent":"minecraft:block/cross","textures":{"particle":"block/flowers/azure_bluet/azure_bluet5","cross":"block/flowers/azure_bluet/azure_bluet5"}}

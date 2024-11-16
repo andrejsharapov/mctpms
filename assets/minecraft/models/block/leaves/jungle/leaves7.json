@@ -1,6 +1,1 @@
-{
-    "parent":"block/leaves/leaves_bushy3",
-    "textures": {
-	"1": "block/leaves/jungle/leaves7"
-    }
-}
+{"parent":"block/leaves/leaves_bushy3","textures":{"1":"block/leaves/jungle/leaves7"}}

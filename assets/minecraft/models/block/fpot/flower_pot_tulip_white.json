@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:block/fpot/pot_c",
-    "textures": {
-        "plant": "block/flowers/white_tulip/white_tulip"
-    }
-}
+{"parent":"minecraft:block/fpot/pot_c","textures":{"plant":"block/flowers/white_tulip/white_tulip"}}

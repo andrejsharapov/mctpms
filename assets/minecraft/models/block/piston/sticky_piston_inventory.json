@@ -1,8 +1,1 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "top": "block/piston_slime",
-    "side": "block/cobblestone",
-    "bottom": "block/cobblestone"
-  }
-}
+{"parent":"minecraft:block/cube_bottom_top","textures":{"top":"block/piston_slime","side":"block/cobblestone","bottom":"block/cobblestone"}}

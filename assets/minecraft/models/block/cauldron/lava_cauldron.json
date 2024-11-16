@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:block/cauldron/water_cauldron_level2",
-	"textures": {
-		"3": "block/lava_still",
-		"particle": "block/cauldron_inner"
-	}
-}
+{"parent":"minecraft:block/cauldron/water_cauldron_level2","textures":{"3":"block/lava_still","particle":"block/cauldron_inner"}}

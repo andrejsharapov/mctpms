@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:block/fpot/pot_b",
-    "textures": {
-        "plant": "block/poppy"
-    }
-}
+{"parent":"minecraft:block/fpot/pot_b","textures":{"plant":"block/poppy"}}

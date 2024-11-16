@@ -1,8 +1,1 @@
-{
-  "parent": "minecraft:block/cube_ore",
-  "textures": {
-		"particle": "block/deepslate",
-		"base": "block/deepslate",
-    "ore": "block/emerald_block"
-  }
-}
+{"parent":"minecraft:block/cube_ore","textures":{"particle":"block/deepslate","base":"block/deepslate","ore":"block/emerald_block"}}

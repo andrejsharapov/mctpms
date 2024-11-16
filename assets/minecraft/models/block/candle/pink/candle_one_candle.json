@@ -1,7 +1,1 @@
-{
-  "parent": "minecraft:block/template_candle",
-  "textures": {
-    "all": "block/candle/pink_candle",
-    "particle": "block/candle/pink_candle"
-  }
-}
+{"parent":"minecraft:block/template_candle","textures":{"all":"block/candle/pink_candle","particle":"block/candle/pink_candle"}}

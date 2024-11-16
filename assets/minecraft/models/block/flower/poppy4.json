@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:block/cross",
-    "textures": {
-        "cross": "block/flowers/poppy/poppy4"
-    }
-}
+{"parent":"minecraft:block/cross","textures":{"cross":"block/flowers/poppy/poppy4"}}

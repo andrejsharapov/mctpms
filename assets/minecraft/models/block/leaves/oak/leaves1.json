@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:block/leaves/leaves_bushy1",
-    "textures": {
-        "1": "block/leaves/oak/leaves1"
-    }
-}
+{"parent":"minecraft:block/leaves/leaves_bushy1","textures":{"1":"block/leaves/oak/leaves1"}}

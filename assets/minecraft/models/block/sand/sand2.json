@@ -1,7 +1,1 @@
-{
-    "parent": "minecraft:block/cube_top",
-    "textures": {
-        "side": "block/sand",
-        "top": "block/sand/sand2"
-    }
-}
+{"parent":"minecraft:block/cube_top","textures":{"side":"block/sand","top":"block/sand/sand2"}}

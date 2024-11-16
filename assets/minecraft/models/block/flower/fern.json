@@ -1,7 +1,1 @@
-{
-    "parent": "minecraft:block/tinted_cross",
-    "textures": {
-        "particle": "block/flowers/fern/fern",
-        "cross": "block/flowers/fern/fern"
-    }
-}
+{"parent":"minecraft:block/tinted_cross","textures":{"particle":"block/flowers/fern/fern","cross":"block/flowers/fern/fern"}}

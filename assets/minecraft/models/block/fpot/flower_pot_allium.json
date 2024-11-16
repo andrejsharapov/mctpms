@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:block/fpot/pot_c",
-    "textures": {
-        "plant": "block/flowers/allium/allium"
-    }
-}
+{"parent":"minecraft:block/fpot/pot_c","textures":{"plant":"block/flowers/allium/allium"}}

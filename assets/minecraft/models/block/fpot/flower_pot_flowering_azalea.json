@@ -1,7 +1,4 @@
 {
-	"parent": "minecraft:block/fpot/flower_pot_azalea",
-	"textures": {
-		"particle": "block/leaves/flowering_azalea/flowering_azalea",
-		"leaves": "block/leaves/flowering_azalea/flowering_azalea"
-	}
+	"parent":"minecraft:block/fpot/flower_pot_azalea",
+	"textures":{"particle":"block/leaves/flowering_azalea/flowering_azalea","leaves":"block/leaves/flowering_azalea/flowering_azalea"}
 }

@@ -1,8 +1,4 @@
-{    
-    "parent": "minecraft:block/master_flat_cross_tinted",
-    "textures": {
-        "particle": "block/flowers/fern/fern2",
-        "flat": "block/flowers/fern/fern2",
-        "cross": "block/flowers/fern/fern2"
-    }
+{
+    "parent":"minecraft:block/master_flat_cross_tinted",
+    "textures":{"particle":"block/flowers/fern/fern2","flat":"block/flowers/fern/fern2","cross":"block/flowers/fern/fern2"}
 }
