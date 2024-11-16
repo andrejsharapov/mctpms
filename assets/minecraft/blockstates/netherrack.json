@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "": [
+            {
+                "model": "minecraft:block/netherrack/netherrack"
+            },
+            {
+                "model": "minecraft:block/netherrack/netherrack1"
+            },
+            {
+                "model": "minecraft:block/netherrack/netherrack2"
+            },
+            {
+                "model": "minecraft:block/netherrack/netherrack3"
+            },
+            {
+                "model": "minecraft:block/netherrack/netherrack4"
+            }
+        ]
+    }
+}
