@@ -1,6 +1,7 @@
 {
-	"parent": "minecraft:block/cube_all",
+	"parent": "minecraft:block/cube_top",
 	"textures": {
-		"all": "minecraft:block/sand/sand"
+			"side": "block/sand",
+			"top": "block/sand"
 	}
 }

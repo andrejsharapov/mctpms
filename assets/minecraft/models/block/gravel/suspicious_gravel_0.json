@@ -1,6 +1,7 @@
 {
-	"parent": "minecraft:block/cube_all",
+	"parent": "minecraft:block/cube_top",
 	"textures": {
-		"all": "minecraft:block/gravel/gravel"
+		"side": "block/gravel",
+		"top": "block/gravel/gravel3"
 	}
 }
