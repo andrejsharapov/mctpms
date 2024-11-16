@@ -1,6 +1,5 @@
 {
 	"cSpell.words":["blockbench","blockstates","mcmeta","mctpms"],
-	"editor.defaultFormatter":"vscode.json-language-features",
 	"editor.formatOnSave":true,
 	"editor.insertSpaces":true,
 	"editor.tabSize":2,
@@ -12,5 +11,7 @@
 	"fracturedjsonvsc.v3.NestedBracketPadding":false,
 	"fracturedjsonvsc.v3.SimpleBracketPadding":false,
 	"fracturedjsonvsc.v3.ColonPadding":false,
-	"fracturedjsonvsc.v3.CommaPadding":false
+	"fracturedjsonvsc.v3.CommaPadding":false,
+	"[json]":{"editor.defaultFormatter":"j-brooke.fracturedjsonvsc"},
+	"editor.stickyTabStops":true
 }
