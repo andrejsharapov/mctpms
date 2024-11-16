@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:item/amethyst_shard",
 	"textures": {
-		"0": "block/carpet_blue",
-		"particle": "block/carpet_blue"
+		"0": "block/sculk",
+		"particle": "block/sculk"
 	}
 }
