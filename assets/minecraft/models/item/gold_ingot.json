@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:item/copper_ingot",
-	"textures": {
-		"0": "block/gold_pressure_plate",
-		"particle": "block/gold_pressure_plate"
-	}
-}
+{"parent":"minecraft:item/copper_ingot","textures":{"0":"block/gold_pressure_plate","particle":"block/gold_pressure_plate"}}

@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:item/copper_ingot",
-	"textures": {
-		"0": "block/nether_bricks",
-		"particle": "block/nether_bricks"
-	}
-}
+{"parent":"minecraft:item/copper_ingot","textures":{"0":"block/netherrack","particle":"block/netherrack"}}

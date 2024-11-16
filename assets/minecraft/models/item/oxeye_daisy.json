@@ -1,7 +1,1 @@
-{
-    "parent": "minecraft:block/flat",
-    "gui_light": "front",
-    "textures": {
-        "flat": "minecraft:block/flowers/oxeye_daisy/oxeye_daisy"
-    }
-}
+{"parent":"minecraft:block/flat","gui_light":"front","textures":{"flat":"block/flowers/oxeye_daisy/oxeye_daisy"}}

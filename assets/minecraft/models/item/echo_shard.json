@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:item/amethyst_shard",
-	"textures": {
-		"0": "block/sculk",
-		"particle": "block/sculk"
-	}
-}
+{"parent":"minecraft:item/amethyst_shard","textures":{"0":"block/sculk","particle":"block/sculk"}}

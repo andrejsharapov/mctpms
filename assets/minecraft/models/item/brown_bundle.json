@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:item/black_bundle",
-	"textures": {
-		"0": "block/brown_wool",
-		"particle": "block/brown_wool"
-	}
-}
+{"parent":"minecraft:item/black_bundle","textures":{"0":"block/brown_wool","particle":"block/brown_wool"}}

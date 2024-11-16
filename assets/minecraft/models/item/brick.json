@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:item/copper_ingot",
-	"textures": {
-		"0": "block/bricks",
-		"particle": "block/bricks"
-	}
-}
+{"parent":"minecraft:item/copper_ingot","textures":{"0":"block/bricks","particle":"block/bricks"}}

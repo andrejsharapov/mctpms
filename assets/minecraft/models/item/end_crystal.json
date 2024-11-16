@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:item/diamond",
-	"textures": {
-		"0": "block/obsidian",
-		"particle": "block/obsidian"
-	}
-}
+{"parent":"minecraft:item/diamond","textures":{"0":"block/obsidian","particle":"block/obsidian"}}

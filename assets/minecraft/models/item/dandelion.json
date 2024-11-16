@@ -1,7 +1,1 @@
-{
-    "parent": "minecraft:block/flat",
-    "gui_light": "front",
-    "textures": {
-        "flat" : "minecraft:block/flowers/dandelion/dandelion"
-    }
-}
+{"parent":"minecraft:block/flat","gui_light":"front","textures":{"flat":"block/flowers/dandelion/dandelion"}}

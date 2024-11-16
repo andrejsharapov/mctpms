@@ -1,3 +1,1 @@
-{
-	"parent": "minecraft:block/wooden_trapdoor_open"
-}
+{"parent":"minecraft:block/wooden_trapdoor_open"}

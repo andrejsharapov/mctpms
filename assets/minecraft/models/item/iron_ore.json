@@ -1,3 +1,1 @@
-{
-	"parent": "minecraft:block/ore/iron_ore"
-}
+{"parent":"minecraft:block/ore/iron_ore"}

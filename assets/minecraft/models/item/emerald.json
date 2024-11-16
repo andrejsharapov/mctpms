@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:item/diamond",
-	"textures": {
-		"0": "block/emerald_block",
-		"particle": "block/emerald_block"
-	}
-}
+{"parent":"minecraft:item/diamond","textures":{"0":"block/emerald_block","particle":"block/emerald_block"}}

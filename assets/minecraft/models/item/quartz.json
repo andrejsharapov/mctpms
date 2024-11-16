@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:item/prismarine_crystals",
-	"textures": {
-		"0": "block/smooth_quartz_block",
-		"particle": "block/smooth_quartz_block"
-	}
-}
+{"parent":"minecraft:item/prismarine_crystals","textures":{"0":"block/smooth_quartz_block","particle":"block/smooth_quartz_block"}}

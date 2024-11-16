@@ -1,7 +1,1 @@
-{
-    "parent": "minecraft:block/flat",
-    "gui_light": "front",
-    "textures": {
-        "flat": "minecraft:block/flowers/cornflower/cornflower"
-    }
-}
+{"parent":"minecraft:block/flat","gui_light":"front","textures":{"flat":"block/flowers/cornflower/cornflower"}}

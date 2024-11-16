@@ -1,7 +1,1 @@
-{
-	"parent": "item/bamboo_chest_raft",
-	"textures": {
-		"chest": "block/empty",
-		"particle": "block/bamboo_stalk"
-	}
-}
+{"parent":"minecraft:item/bamboo_chest_raft","textures":{"chest":"block/empty","particle":"block/bamboo_stalk"}}

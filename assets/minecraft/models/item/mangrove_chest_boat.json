@@ -1,7 +1,1 @@
-{
-	"parent": "item/acacia_chest_boat",
-	"textures": {
-		"0": "block/mangrove_planks",
-		"particle": "block/mangrove_planks"
-	}
-}
+{"parent":"minecraft:item/acacia_chest_boat","textures":{"0":"block/mangrove_planks","particle":"block/mangrove_planks"}}

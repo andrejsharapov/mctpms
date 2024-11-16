@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:item/blaze_rod",
-	"textures": {
-		"0": "block/beacon",
-		"particle": "block/beacon"
-	}
-}
+{"parent":"minecraft:item/blaze_rod","textures":{"0":"block/beacon","particle":"block/beacon"}}

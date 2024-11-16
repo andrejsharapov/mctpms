@@ -1,4 +1,1 @@
-{
-
-"parent": "minecraft:block/beacon"
-}
+{"parent":"minecraft:block/beacon"}

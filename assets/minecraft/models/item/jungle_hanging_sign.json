@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:item/acacia_hanging_sign",
-	"textures": {
-		"wood": "block/jungle_planks",
-		"particle": "block/light_gray_wool"
-	}
-}
+{"parent":"minecraft:item/acacia_hanging_sign","textures":{"wood":"block/jungle_planks","particle":"block/light_gray_wool"}}

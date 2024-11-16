@@ -1,3 +1,1 @@
-{
-	"parent": "minecraft:block/trapdoor/warped/trapdoor_open"
-}
+{"parent":"minecraft:block/trapdoor/warped/trapdoor_open"}

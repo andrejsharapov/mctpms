@@ -1,7 +1,1 @@
-{
-    "parent": "minecraft:block/flat",
-    "gui_light": "front",
-    "textures": {
-        "flat": "minecraft:block/flowers/orange_tulip/orange_tulip"
-    }
-}
+{"parent":"minecraft:block/flat","gui_light":"front","textures":{"flat":"block/flowers/orange_tulip/orange_tulip"}}

@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:item/turtle_scute",
-	"textures": {
-		"0": "block/polished_basalt_side",
-		"particle": "block/polished_basalt_side"
-	}
-}
+{"parent":"minecraft:item/turtle_scute","textures":{"0":"block/polished_basalt_side","particle":"block/polished_basalt_side"}}

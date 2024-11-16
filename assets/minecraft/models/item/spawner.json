@@ -1,3 +1,1 @@
-{
-"parent": "minecraft:block/spawner"
-}
+{"parent":"minecraft:block/spawner"}

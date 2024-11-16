@@ -1,6 +1,1 @@
-{
-	"parent": "minecraft:item/white_dye",
-	"textures": {
-		"2": "block/black_terracotta"
-	}
-}
+{"parent":"minecraft:item/white_dye","textures":{"2":"block/black_terracotta"}}

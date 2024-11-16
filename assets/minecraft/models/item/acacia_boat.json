@@ -1,7 +1,1 @@
-{
-	"parent": "item/acacia_chest_boat",
-	"textures": {
-		"chest": "block/empty",
-		"particle": "block/acacia_planks"
-	}
-}
+{"parent":"minecraft:item/acacia_chest_boat","textures":{"chest":"block/empty","particle":"block/acacia_planks"}}

@@ -1,4 +1,1 @@
-{
-    "parent": "minecraft:block/beehive_empty",
-    "gui_light": "front"
-}
+{"parent":"minecraft:block/beehive_empty","gui_light":"front"}

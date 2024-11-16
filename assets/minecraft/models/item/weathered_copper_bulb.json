@@ -1,3 +1,1 @@
-{
-  "parent": "minecraft:block/copper_bulb/weathered/copper_bulb_lit"
-}
+{"parent":"minecraft:block/copper_bulb/weathered/copper_bulb_lit"}

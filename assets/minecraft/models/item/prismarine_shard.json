@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:item/amethyst_shard",
-	"textures": {
-		"0": "block/prismarine",
-		"particle": "block/prismarine"
-	}
-}
+{"parent":"minecraft:item/amethyst_shard","textures":{"0":"block/prismarine","particle":"block/prismarine"}}
