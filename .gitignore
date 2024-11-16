@@ -1,18 +1,18 @@
 # locked
 /assets/minecraft/blockstates/*
+/assets/minecraft/font/
+/assets/minecraft/lang/
 /assets/minecraft/models/block/*
 /assets/minecraft/models/item/*
-/assets/minecraft/textures/*
-
-# realms
-/assets/realms/textures/*
+/assets/minecraft/particles/
+/assets/minecraft/textures/
 
 # development
 /node_modules
 /yarn.lock
 
 # unlock all
-# !/assets/minecraft/models/**/**
+# !/assets/minecraft/models/**/*
 
 # unlock only (dev)
 !/assets/minecraft/blockstates/*-*
