@@ -1,10 +1,10 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"flowerpot": "minecraft:block/flower_pot",
-		"dirt": "minecraft:block/podzol_top",
-		"deko": "minecraft:block/terracotta",
-		"plant": "minecraft:block/empty",
+		"flowerpot": "block/flower_pot",
+		"dirt": "block/podzol_top",
+		"deko": "block/terracotta",
+		"plant": "block/empty",
 		"particle": "block/leaves/azalea/azalea",
 		"leaves": "block/leaves/azalea/azalea",
 		"stem": "block/shrub_stem"

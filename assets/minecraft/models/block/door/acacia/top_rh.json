@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"particle": "minecraft:block/door_acacia",
-		"door": "minecraft:block/door_acacia"
+		"particle": "block/door_acacia",
+		"door": "block/door_acacia"
 	},
 	"elements": [
 		{

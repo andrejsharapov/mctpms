@@ -1,8 +1,8 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/door_exposed_copper",
-		"door": "minecraft:block/door_exposed_copper"
+		"particle": "block/door_exposed_copper",
+		"door": "block/door_exposed_copper"
 	},
 	"elements": [
 		{

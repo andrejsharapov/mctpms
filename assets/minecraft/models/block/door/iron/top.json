@@ -2,8 +2,8 @@
 	
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/door_iron",
-		"door": "minecraft:block/door_iron"
+		"particle": "block/door_iron",
+		"door": "block/door_iron"
 	},
 	"elements": [
 		{

@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:block/furnace",
-	"textures": {
-		"6": "block/furnace/furnace_glow",
-		"stein2": "block/furnace/blast_furnace_inside_on"
-	}
-}
+{"parent":"minecraft:block/furnace","textures":{"6":"block/furnace/furnace_glow","stein2":"block/furnace/blast_furnace_inside_on"}}

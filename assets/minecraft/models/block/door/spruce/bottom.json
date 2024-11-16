@@ -2,8 +2,8 @@
 	
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/door_spruce",
-		"door": "minecraft:block/door_spruce"
+		"particle": "block/door_spruce",
+		"door": "block/door_spruce"
 	},
 	"elements": [
 		{

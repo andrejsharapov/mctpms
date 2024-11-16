@@ -2,8 +2,8 @@
 	
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/door_mangrove",
-		"door": "minecraft:block/door_mangrove"
+		"particle": "block/door_mangrove",
+		"door": "block/door_mangrove"
 	},
 	"elements": [
 		{

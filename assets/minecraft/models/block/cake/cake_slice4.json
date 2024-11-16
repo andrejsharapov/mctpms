@@ -1,10 +1,10 @@
 {
 
 "textures": {
-    "particle": "minecraft:block/cake/cake_bottom",
-    "top": "minecraft:block/cake/cake_top",
-    "side": "minecraft:block/cake/cake_side",
-    "innen": "minecraft:block/cake/cake_inner"
+    "particle": "block/cake/cake_bottom",
+    "top": "block/cake/cake_top",
+    "side": "block/cake/cake_side",
+    "innen": "block/cake/cake_inner"
 },
 "elements": [ 
 {

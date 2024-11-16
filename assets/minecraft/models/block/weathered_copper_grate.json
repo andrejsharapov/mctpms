@@ -1,7 +1,1 @@
-{
-	"parent":"minecraft:block/copper_grate",
-	"textures": {
-		"0": "block/weathered_copper",
-		"particle": "block/weathered_copper"
-	}
-}
+{"parent":"block/copper_grate","textures":{"0":"block/weathered_copper","particle":"block/weathered_copper"}}

@@ -1,9 +1,4 @@
 {
-    "parent": "minecraft:block/torch_on_wall",
-    "textures": {
-        "particle": "minecraft:block/soul_torch",
-        "iron": "minecraft:block/soul_torch",
-        "fire": "minecraft:block/soul_torch_fire",
-        "torch": "minecraft:block/soul_torch"
-    }
+    "parent":"minecraft:block/torch_on_wall",
+    "textures":{"particle":"block/soul_torch","iron":"block/soul_torch","fire":"block/soul_torch_fire","torch":"block/soul_torch"}
 }

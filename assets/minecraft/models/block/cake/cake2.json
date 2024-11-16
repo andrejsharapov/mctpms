@@ -1,9 +1,9 @@
 {
 
 "textures": {
-    "particle": "minecraft:block/cake/cake_bottom",
-    "top": "minecraft:block/cake/cake_top3",
-    "side": "minecraft:block/cake/cake_side3"
+    "particle": "block/cake/cake_bottom",
+    "top": "block/cake/cake_top3",
+    "side": "block/cake/cake_side3"
 },
 "elements": [ 
 {

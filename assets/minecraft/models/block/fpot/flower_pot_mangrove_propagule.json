@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block/fpot/pot_sapling",
     "textures": {
-			"plant": "minecraft:block/mangrove_propagule",
+			"plant": "block/mangrove_propagule",
 			"1": "block/mangrove_log",
 			"2": "block/mangrove_log_top",
 			"particle": "block/leaves/mangrove/leaves_propagule",

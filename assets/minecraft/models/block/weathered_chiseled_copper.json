@@ -1,7 +1,1 @@
-{
-	"parent":"minecraft:block/chiseled_copper",
-	"textures": {
-		"0": "block/weathered_copper",
-		"particle": "block/weathered_copper"
-	}
-}
+{"parent":"block/chiseled_copper","textures":{"0":"block/weathered_copper","particle":"block/weathered_copper"}}

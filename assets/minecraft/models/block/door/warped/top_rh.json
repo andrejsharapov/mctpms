@@ -2,8 +2,8 @@
 	
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/door_warped",
-		"door": "minecraft:block/door_warped"
+		"particle": "block/door_warped",
+		"door": "block/door_warped"
 	},
 	"elements": [
 		{

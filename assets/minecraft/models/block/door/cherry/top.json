@@ -1,8 +1,8 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/door_cherry",
-		"door": "minecraft:block/door_cherry"
+		"particle": "block/door_cherry",
+		"door": "block/door_cherry"
 	},
 	"elements": [
 		{

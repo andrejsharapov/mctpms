@@ -1,8 +1,1 @@
-{
-	"parent": "minecraft:block/master_anvil",
-	"textures": {
-			"particle": "minecraft:block/anvil_base",
-			"anvil": "minecraft:block/anvil",
-	"top": "minecraft:block/anvil_top_damaged_0"
-	}
-}
+{"parent":"minecraft:block/master_anvil","textures":{"particle":"block/anvil_base","anvil":"block/anvil","top":"block/anvil_top_damaged_0"}}

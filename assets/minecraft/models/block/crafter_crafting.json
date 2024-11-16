@@ -1,7 +1,1 @@
-{
-	"parent": "minecraft:block/crafter",
-	"textures": {
-		"8": "block/redstone_block",
-		"particle": "block/crafting_table_bottom"
-	}
-}
+{"parent":"minecraft:block/crafter","textures":{"8":"block/redstone_block","particle":"block/crafting_table_bottom"}}

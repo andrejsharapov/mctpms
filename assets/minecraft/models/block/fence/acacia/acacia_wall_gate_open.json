@@ -1,5 +1,5 @@
 {
-    "parent": "block/fence/wall_gate_open",
+    "parent": "minecraft:block/fence/wall_gate_open",
     "textures": {
         "texture": "block/fence_acacia"
     }

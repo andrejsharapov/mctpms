@@ -1,7 +1,7 @@
 {
   "textures": {
     "particle": "#texture",
-    "texture": "minecraft:block/nether_bricks"
+    "texture": "block/nether_bricks"
   },
   "elements": [
     {

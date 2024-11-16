@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "block/fence/wall_gate_closed",
+	"parent": "minecraft:block/fence/wall_gate_closed",
 	"textures": {
 		"1": "block/fence_dark_oak",
 		"particle": "block/fence_dark_oak"

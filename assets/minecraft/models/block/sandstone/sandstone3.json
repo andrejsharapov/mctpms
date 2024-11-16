@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/cube_all",
     "textures": {
-        "all": "minecraft:block/sandstone/sandstone3"
+        "all": "block/sandstone/sandstone3"
     }
 }

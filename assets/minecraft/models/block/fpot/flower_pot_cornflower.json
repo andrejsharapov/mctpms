@@ -1,6 +1,6 @@
 {
 	"parent": "minecraft:block/fpot/pot_b",
 	"textures": {
-			"plant": "minecraft:block/flowers/cornflower/cornflower"
+			"plant": "block/flowers/cornflower/cornflower"
 	}
 }

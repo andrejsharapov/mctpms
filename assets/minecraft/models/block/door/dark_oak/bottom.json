@@ -1,8 +1,8 @@
 {
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/door_dark_oak",
-		"door": "minecraft:block/door_dark_oak"
+		"particle": "block/door_dark_oak",
+		"door": "block/door_dark_oak"
 	},
 	"elements": [
 		{

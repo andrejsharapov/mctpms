@@ -1,5 +1,5 @@
 {
-    "parent": "block/leaves/leaves_bushy2",
+    "parent": "minecraft:block/leaves/leaves_bushy2",
     "textures": {
         "1": "block/leaves/flowering_azalea/leaves"
     }

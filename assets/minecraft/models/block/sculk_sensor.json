@@ -1,10 +1,5 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/calibrated_sculk_sensor",
-	"textures": {
-		"0": "block/sculk_sensor",
-		"2": "block/sculk_sensor_tendril_active",
-		"3": "block/empty",
-		"particle": "block/sculk_sensor"
-	}
+	"credit":"Made with Blockbench",
+	"parent":"minecraft:block/calibrated_sculk_sensor",
+	"textures":{"0":"block/sculk_sensor","2":"block/sculk_sensor_tendril_active","3":"block/empty","particle":"block/sculk_sensor"}
 }

@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/fpot/pot_mushroom",
     "textures": {
-        "plant": "minecraft:block/brown_mushroom"
+        "plant": "block/brown_mushroom"
     }
 }

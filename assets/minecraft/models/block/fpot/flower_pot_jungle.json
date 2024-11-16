@@ -1,7 +1,7 @@
 {
 	"parent": "minecraft:block/fpot/flower_pot_mangrove_propagule",
 	"textures": {
-		"plant": "minecraft:block/empty",
+		"plant": "block/empty",
 		"1": "block/jungle_log",
 		"2": "block/jungle_log_top",
 		"particle": "block/leaves/jungle/leaves_sapling",

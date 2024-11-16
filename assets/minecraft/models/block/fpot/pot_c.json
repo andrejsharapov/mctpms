@@ -2,11 +2,11 @@
 	
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/terracotta",
-		"flowerpot": "minecraft:block/light_gray_terracotta",
-		"dirt": "minecraft:block/dirt",
-		"deko": "minecraft:block/white_terracotta",
-		"plant": "minecraft:block/empty"
+		"particle": "block/terracotta",
+		"flowerpot": "block/light_gray_terracotta",
+		"dirt": "block/dirt",
+		"deko": "block/white_terracotta",
+		"plant": "block/empty"
 	},
 	"elements": [ 	 
 		{

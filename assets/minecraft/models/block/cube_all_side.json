@@ -1,12 +1,1 @@
-{
-    "parent": "minecraft:block/cube",
-    "textures": {
-        "particle": "#bottom",
-        "down": "#bottom",
-        "up": "#top",
-        "north": "#s1",
-        "east": "#s2",
-        "south": "#s3",
-        "west": "#s4"
-    }
-}
+{"parent":"minecraft:block/cube","textures":{"particle":"#bottom","down":"#bottom","up":"#top","north":"#s1","east":"#s2","south":"#s3","west":"#s4"}}

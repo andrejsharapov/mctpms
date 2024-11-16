@@ -2,8 +2,8 @@
   "parent": "minecraft:block/block",
   "ambientocclusion": false,
   "textures": {
-    "texture": "minecraft:block/birch_planks",
-    "particle": "minecraft:block/birch_planks"
+    "texture": "block/birch_planks",
+    "particle": "block/birch_planks"
   },
   "elements": [
     {

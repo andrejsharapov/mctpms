@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/cross",
     "textures": {
-        "cross": "minecraft:block/flowers/dandelion/dandelion2"
+        "cross": "block/flowers/dandelion/dandelion2"
     }
 }

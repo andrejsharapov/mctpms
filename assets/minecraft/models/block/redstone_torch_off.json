@@ -1,7 +1,1 @@
-{
-  "parent": "minecraft:item/redstone_torch",
-  "textures": {
-    "1": "block/empty",
-    "particle": "block/oak_log"
-  }
-}
+{"parent":"minecraft:item/redstone_torch","textures":{"1":"block/empty","particle":"block/oak_log"}}

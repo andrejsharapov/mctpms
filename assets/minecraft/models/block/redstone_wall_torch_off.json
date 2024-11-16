@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:block/redstone_wall_torch",
-    "textures": {
-        "2": "block/empty"
-    }
-}
+{"parent":"minecraft:block/redstone_wall_torch","textures":{"2":"block/empty"}}

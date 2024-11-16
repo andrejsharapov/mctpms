@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:block/cross",
-    "textures": {
-        "cross": "minecraft:block/oak/leaves_sapling"
-    }
-}
+{"parent":"minecraft:block/cross","textures":{"cross":"block/oak/leaves_sapling"}}

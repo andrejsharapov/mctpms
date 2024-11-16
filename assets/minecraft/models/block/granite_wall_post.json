@@ -1,8 +1,1 @@
-{
-  "parent": "minecraft:block/wall2_post",
-  "textures": {
-		"wall": "block/granite",
-		"particle": "block/granite",
-		"top": "block/polished_granite_slab"
-  }
-}
+{"parent":"minecraft:block/wall2_post","textures":{"wall":"block/granite","particle":"block/granite","top":"block/polished_granite_slab"}}

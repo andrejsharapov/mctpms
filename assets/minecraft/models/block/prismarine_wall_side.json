@@ -1,6 +1,1 @@
-{
-    "parent": "minecraft:block/master_wall5_side",
-    "textures": {
-        "wall": "block/prismarine"
-    }
-}
+{"parent":"minecraft:block/master_wall5_side","textures":{"wall":"block/prismarine"}}

@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/fpot/pot_a",
     "textures": {
-        "plant": "minecraft:block/flowers/oxeye_daisy/oxeye_daisy"
+        "plant": "block/flowers/oxeye_daisy/oxeye_daisy"
     }
 }

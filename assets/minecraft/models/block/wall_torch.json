@@ -1,3 +1,1 @@
-{
-  "parent": "minecraft:block/torch_wall"
-}
+{"parent":"minecraft:block/torch_wall"}

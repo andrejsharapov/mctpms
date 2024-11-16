@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:block/cross",
     "textures": {
-        "particle": "minecraft:block/flowers/azure_bluet/azure_bluet1",
-        "cross": "minecraft:block/flowers/azure_bluet/azure_bluet1"
+        "particle": "block/flowers/azure_bluet/azure_bluet1",
+        "cross": "block/flowers/azure_bluet/azure_bluet1"
     }
 }

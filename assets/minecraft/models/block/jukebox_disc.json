@@ -1,6 +1,1 @@
-{
-    "parent": "block/jukebox",
-    "textures": {
-        "top": "block/jukebox_disc"
-    }
-}
+{"parent":"minecraft:block/jukebox","textures":{"top":"block/jukebox_disc"}}

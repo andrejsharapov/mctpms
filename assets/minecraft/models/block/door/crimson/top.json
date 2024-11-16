@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"particle": "minecraft:block/door_crimson",
-		"door": "minecraft:block/door_crimson"
+		"particle": "block/door_crimson",
+		"door": "block/door_crimson"
 	},
 	"elements": [
 		{

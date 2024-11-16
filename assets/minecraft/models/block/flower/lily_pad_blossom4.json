@@ -2,9 +2,9 @@
 	
 	"parent": "minecraft:block/flower/lily_pad_blossom1",
 	"textures": {
-		"down": "minecraft:block/lily_pad",
-		"up": "minecraft:block/lily_pad",
-		"particle": "minecraft:block/lily_pad",
-		"blossom": "minecraft:block/lily_pad_blossom_4"
+		"down": "block/lily_pad",
+		"up": "block/lily_pad",
+		"particle": "block/lily_pad",
+		"blossom": "block/lily_pad_blossom_4"
 	}
 }

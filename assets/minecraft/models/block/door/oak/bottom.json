@@ -2,8 +2,8 @@
 	
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/door_oak",
-		"door": "minecraft:block/door_oak"
+		"particle": "block/door_oak",
+		"door": "block/door_oak"
 	},
 	"elements": [
 		{
