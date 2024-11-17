@@ -1,0 +1,85 @@
+{
+	"textures":{
+		"tilted"  :"block/big_dripleaf_stem_top_tilted",
+		"particle":"block/big_dripleaf_top"            ,
+		"top"     :"block/big_dripleaf_top"            ,
+		"stem"    :"block/big_dripleaf_stem_top"       ,
+		"tip"     :"block/big_dripleaf_tip"
+	},
+	"elements":[
+		{
+			"name":"Leaf ver",
+			"from":[0,3.858,-5],
+			"to":[16,7.858,-5],
+			"shade":false,
+			"faces":{
+				"north":{"uv":[16,4,0,0],"rotation":180,"texture":"#tip"},
+				"south":{"uv":[16,0,0,4],"texture":"#tip"}
+			}
+		},
+		{
+			"name":"Leaf 45",
+			"from":[0,7.858,-5],
+			"to":[16,7.858,-2],
+			"shade":false,
+			"rotation":{"angle":-45,"axis":"x","origin":[8,7.858,-5],"rescale":true},
+			"faces":{
+				"up":{"uv":[0,0,16,3],"texture":"#top"},
+				"down":{"uv":[0,3,16,0],"texture":"#top"}
+			}
+		},
+		{
+			"name":"Leaf 22",
+			"from":[0,10.858,-2],
+			"to":[16,10.858,8],
+			"shade":false,
+			"rotation":{"angle":-22.5,"axis":"x","origin":[8,10.858,-2],"rescale":true},
+			"faces":{
+				"up":{"uv":[0,3,16,13],"texture":"#top"},
+				"down":{"uv":[0,13,16,3],"texture":"#top"}
+			}
+		},
+		{
+			"name":"Leaf hor",
+			"from":[0,15,8],
+			"to":[16,15,11],
+			"shade":false,
+			"faces":{
+				"up":{"uv":[0,13,16,16],"texture":"#top"},
+				"down":{"uv":[0,16,16,13],"texture":"#top"}
+			}
+		},
+		{
+			"name":"Stem cross 1",
+			"from":[0,0,12],
+			"to":[16,8,12],
+			"shade":false,
+			"rotation":{"angle":45,"axis":"y","origin":[8,8,12]},
+			"faces":{
+				"north":{"uv":[0,8,16,16],"texture":"#stem"},
+				"south":{"uv":[0,8,16,16],"texture":"#stem"}
+			}
+		},
+		{
+			"name":"Stem cross 2",
+			"from":[0,0,12],
+			"to":[16,8,12],
+			"shade":false,
+			"rotation":{"angle":-45,"axis":"y","origin":[8,8,12]},
+			"faces":{
+				"north":{"uv":[0,8,16,16],"texture":"#stem"},
+				"south":{"uv":[0,8,16,16],"texture":"#stem"}
+			}
+		},
+		{
+			"name":"Stem top",
+			"from":[8,0,0],
+			"to":[8,16,16],
+			"shade":false,
+			"faces":{
+				"east":{"uv":[0,0,16,16],"texture":"#tilted"},
+				"west":{"uv":[16,0,0,16],"texture":"#tilted"}
+			}
+		}
+	]
+}

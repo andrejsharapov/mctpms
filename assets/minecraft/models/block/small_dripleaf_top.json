@@ -1,0 +1,170 @@
+{
+	"textures":{"particle":"block/small_dripleaf_leaves","leaves":"block/small_dripleaf_leaves","stem":"block/small_dripleaf_stem_top"},
+	"elements":[
+		{
+			"name":"Cross 1",
+			"from":[4,0,8],
+			"to":[12,16,8],
+			"shade":false,
+			"rotation":{"angle":45,"axis":"y","origin":[8,8,8]},
+			"faces":{
+				"north":{"uv":[4,0,12,16],"texture":"#stem"},
+				"south":{"uv":[4,0,12,16],"texture":"#stem"}
+			}
+		},
+		{
+			"name":"Cross 2",
+			"from":[4,0,8],
+			"to":[12,16,8],
+			"shade":false,
+			"rotation":{"angle":-45,"axis":"y","origin":[8,8,8]},
+			"faces":{
+				"north":{"uv":[4,0,12,16],"texture":"#stem"},
+				"south":{"uv":[4,0,12,16],"texture":"#stem"}
+			}
+		},
+		{
+			"name":"Bottom Leaf 1",
+			"from":[7,4,9],
+			"to":[13,4,11],
+			"shade":false,
+			"rotation":{"angle":0,"axis":"x","origin":[8.5,4,9]},
+			"faces":{
+				"up":{"uv":[0,0,6,2],"texture":"#leaves"},
+				"down":{"uv":[6,0,0,2],"rotation":180,"texture":"#leaves"}
+			}
+		},
+		{
+			"name":"Bottom Leaf 2",
+			"from":[7,4,11],
+			"to":[13,4,14],
+			"shade":false,
+			"rotation":{"angle":22.5,"axis":"x","origin":[8.5,4,11]},
+			"faces":{
+				"up":{"uv":[0,2,6,5],"texture":"#leaves"},
+				"down":{"uv":[6,2,0,5],"rotation":180,"texture":"#leaves"}
+			}
+		},
+		{
+			"name":"Bottom Leaf 3",
+			"from":[7,-0.14813,13.77202],
+			"to":[13,2.85187,13.77202],
+			"shade":false,
+			"rotation":{"angle":-45,"axis":"x","origin":[10,2.85187,13.77202]},
+			"faces":{
+				"north":{"uv":[6,5,0,8],"texture":"#leaves"},
+				"south":{"uv":[0,5,6,8],"texture":"#leaves"}
+			}
+		},
+		{
+			"name":"Second Bottom Leaf 1",
+			"from":[3,3,5],
+			"to":[9,3,7],
+			"shade":false,
+			"rotation":{"angle":0,"axis":"x","origin":[7.5,3,7]},
+			"faces":{
+				"up":{"uv":[0,0,6,2],"rotation":180,"texture":"#leaves"},
+				"down":{"uv":[6,0,0,2],"texture":"#leaves"}
+			}
+		},
+		{
+			"name":"Second Bottom Leaf 2",
+			"from":[3,3,2],
+			"to":[9,3,5],
+			"shade":false,
+			"rotation":{"angle":-22.5,"axis":"x","origin":[7.5,3,5]},
+			"faces":{
+				"up":{"uv":[0,2,6,5],"rotation":180,"texture":"#leaves"},
+				"down":{"uv":[6,2,0,5],"texture":"#leaves"}
+			}
+		},
+		{
+			"name":"Second Bottom Leaf 3",
+			"from":[3,-1.14813,2.22798],
+			"to":[9,1.85187,2.22798],
+			"shade":false,
+			"rotation":{"angle":45,"axis":"x","origin":[6,1.85187,2.22798]},
+			"faces":{
+				"north":{"uv":[0,5,6,8],"texture":"#leaves"},
+				"south":{"uv":[6,5,0,8],"texture":"#leaves"}
+			}
+		},
+		{
+			"name":"Middle Leaf 1",
+			"from":[5,6,7],
+			"to":[7,6,11],
+			"shade":false,
+			"rotation":{"angle":-22.5,"axis":"z","origin":[7,6,8]},
+			"faces":{
+				"up":{"uv":[6,0,10,2],"rotation":90,"texture":"#leaves"},
+				"down":{"uv":[10,0,6,2],"rotation":90,"texture":"#leaves"}
+			}
+		},
+		{
+			"name":"Middle Leaf 2",
+			"from":[3.15262,6.76529,7],
+			"to":[5.15262,6.76529,11],
+			"shade":false,
+			"rotation":{"angle":0,"axis":"z","origin":[5.65262,6.76529,8.5]},
+			"faces":{
+				"up":{"uv":[6,2,10,4],"rotation":90,"texture":"#leaves"},
+				"down":{"uv":[10,2,6,4],"rotation":90,"texture":"#leaves"}
+			}
+		},
+		{
+			"name":"Middle Leaf 3",
+			"from":[1.15301,6.76537,7],
+			"to":[3.15301,6.76537,11],
+			"shade":false,
+			"rotation":{"angle":22.5,"axis":"z","origin":[3.15301,6.76537,8.5]},
+			"faces":{
+				"up":{"uv":[6,4,10,6],"rotation":90,"texture":"#leaves"},
+				"down":{"uv":[10,4,6,6],"rotation":90,"texture":"#leaves"}
+			}
+		},
+		{
+			"name":"Middle Small Leaf 1",
+			"from":[8.5765,7.38261,5.5],
+			"to":[10.5765,7.38261,8.5],
+			"shade":false,
+			"rotation":{"angle":45,"axis":"z","origin":[8.5765,7.38261,7]},
+			"faces":{
+				"up":{"uv":[10,0,13,2],"rotation":270,"texture":"#leaves"},
+				"down":{"uv":[13,0,10,2],"rotation":270,"texture":"#leaves"}
+			}
+		},
+		{
+			"name":"Middle Small Leaf 2",
+			"from":[9.99001,8.79653,5.5],
+			"to":[11.99001,8.79653,8.5],
+			"shade":false,
+			"rotation":{"angle":22.5,"axis":"z","origin":[9.99001,8.79653,7]},
+			"faces":{
+				"up":{"uv":[10,2,13,4],"rotation":270,"texture":"#leaves"},
+				"down":{"uv":[13,2,10,4],"rotation":270,"texture":"#leaves"}
+			}
+		},
+		{
+			"name":"Top Leaf 1",
+			"from":[5.0765,10.38261,5],
+			"to":[8.0765,10.38261,7],
+			"shade":false,
+			"rotation":{"angle":45,"axis":"x","origin":[6.5765,10.38261,7]},
+			"faces":{
+				"up":{"uv":[10,0,13,2],"rotation":180,"texture":"#leaves"},
+				"down":{"uv":[13,0,10,2],"texture":"#leaves"}
+			}
+		},
+		{
+			"name":"Top Leaf 2",
+			"from":[5.0765,11.79653,3.58649],
+			"to":[8.0765,11.79653,5.58649],
+			"shade":false,
+			"rotation":{"angle":22.5,"axis":"x","origin":[6.5765,11.79653,5.58649]},
+			"faces":{
+				"up":{"uv":[10,2,13,4],"rotation":180,"texture":"#leaves"},
+				"down":{"uv":[13,2,10,4],"texture":"#leaves"}
+			}
+		}
+	]
+}
