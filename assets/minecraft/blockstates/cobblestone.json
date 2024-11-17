@@ -1,0 +1,11 @@
+{
+	"variants":{
+		"":[
+			{"model":"block/cobblestone"             ,"weight":50},
+			{"model":"block/cobblestone/cobblestone1","weight":20},
+			{"model":"block/cobblestone/cobblestone2","weight": 7},
+			{"model":"block/cobblestone/cobblestone3","weight": 7},
+			{"model":"block/cobblestone/cobblestone4","weight":16}
+		]
+	}
+}
