@@ -1,0 +1,12 @@
+{
+	"parent":"minecraft:block/block",
+	"textures":{"particle":"block/dark_oak","instrument":"block/dark_oak"},
+	"elements":[
+		{
+			"__comment":"Instrument",
+			"from":[1,1,1],
+			"to":[15,15,15],
+			"faces":{"west":{"texture":"#instrument","cullface":"west"},"east":{"texture":"#instrument","cullface":"east"}}
+		}
+	]
+}

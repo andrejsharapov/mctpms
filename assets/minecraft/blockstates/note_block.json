@@ -1,0 +1,33 @@
+{
+	"multipart":[
+		{"when":{"note":"0"},"apply":{"model":"block/note_block/notes/note_0"}},
+		{"when":{"note":"1"},"apply":{"model":"block/note_block/notes/note_1"}},
+		{"when":{"note":"2"},"apply":{"model":"block/note_block/notes/note_2"}},
+		{"when":{"note":"3"},"apply":{"model":"block/note_block/notes/note_3"}},
+		{"when":{"note":"4"},"apply":{"model":"block/note_block/notes/note_4"}},
+		{"when":{"note":"5"},"apply":{"model":"block/note_block/notes/note_5"}},
+		{"when":{"note":"6"},"apply":{"model":"block/note_block/notes/note_6"}},
+		{"when":{"note":"7"},"apply":{"model":"block/note_block/notes/note_7"}},
+		{"when":{"note":"8"},"apply":{"model":"block/note_block/notes/note_8"}},
+		{"when":{"note":"9"},"apply":{"model":"block/note_block/notes/note_9"}},
+		{"when":{"note":"10"},"apply":{"model":"block/note_block/notes/note_10"}},
+		{"when":{"note":"11"},"apply":{"model":"block/note_block/notes/note_11"}},
+		{"when":{"note":"12"},"apply":{"model":"block/note_block/notes/note_12"}},
+		{"when":{"note":"13"},"apply":{"model":"block/note_block/notes/note_13"}},
+		{"when":{"note":"14"},"apply":{"model":"block/note_block/notes/note_14"}},
+		{"when":{"note":"15"},"apply":{"model":"block/note_block/notes/note_15"}},
+		{"when":{"note":"16"},"apply":{"model":"block/note_block/notes/note_16"}},
+		{"when":{"note":"17"},"apply":{"model":"block/note_block/notes/note_17"}},
+		{"when":{"note":"18"},"apply":{"model":"block/note_block/notes/note_18"}},
+		{"when":{"note":"19"},"apply":{"model":"block/note_block/notes/note_19"}},
+		{"when":{"note":"20"},"apply":{"model":"block/note_block/notes/note_20"}},
+		{"when":{"note":"21"},"apply":{"model":"block/note_block/notes/note_21"}},
+		{"when":{"note":"22"},"apply":{"model":"block/note_block/notes/note_22"}},
+		{"when":{"note":"23"},"apply":{"model":"block/note_block/notes/note_23"}},
+		{"when":{"note":"24"},"apply":{"model":"block/note_block/notes/note_24"}},
+		{"when":{"instrument":"basedrum","powered":"false"},"apply":{"model":"block/note_block/instruments/bass_drum/bass_drum_off"}},
+		{"when":{"instrument":"basedrum","powered":"false"},"apply":{"model":"block/note_block/instruments/bass_drum/bass_drum_off_sticks"}},
+		{"when":{"instrument":"basedrum","powered":"true"},"apply":{"model":"block/note_block/instruments/bass_drum/bass_drum_on"}},
+		{"when":{"instrument":"basedrum","powered":"true"},"apply":{"model":"block/note_block/instruments/bass_drum/bass_drum_on_sticks"}}
+	]
+}

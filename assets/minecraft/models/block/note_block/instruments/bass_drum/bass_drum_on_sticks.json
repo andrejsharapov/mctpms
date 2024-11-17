@@ -1,0 +1,58 @@
+{
+	"parent":"minecraft:block/block",
+	"textures":{"stick_handle":"block/stripped_oak_log","stick_head":"block/stone"},
+	"elements":[
+		{
+			"__comment":"Stick Head West",
+			"from":[-2,6.5,6.5],
+			"to":[1,9.5,9.5],
+			"faces":{
+				"down":{"uv":[6.5,6.5,9.5,9.5],"texture":"#stick_head"},
+				"up":{"uv":[6.5,6.5,9.5,9.5],"texture":"#stick_head"},
+				"north":{"uv":[6.5,6.5,9.5,9.5],"texture":"#stick_head"},
+				"south":{"uv":[6.5,6.5,9.5,9.5],"texture":"#stick_head"},
+				"west":{"uv":[6.5,6.5,9.5,9.5],"texture":"#stick_head"},
+				"east":{"uv":[6.5,6.5,9.5,9.5],"texture":"#stick_head"}
+			}
+		},
+		{
+			"__comment":"Stick Handle West",
+			"from":[-1,1,7.5],
+			"to":[0,6.5,8.5],
+			"faces":{
+				"down":{"uv":[7.5,7.5,8.5,8.5],"texture":"#stick_handle"},
+				"up":{"uv":[7.5,7.5,8.5,8.5],"texture":"#stick_handle"},
+				"north":{"uv":[7.5,9.5,8.5,15],"texture":"#stick_handle"},
+				"south":{"uv":[7.5,9.5,8.5,15],"texture":"#stick_handle"},
+				"west":{"uv":[7.5,9.5,8.5,15],"texture":"#stick_handle"},
+				"east":{"uv":[7.5,9.5,8.5,15],"texture":"#stick_handle"}
+			}
+		},
+		{
+			"__comment":"Stick Head East",
+			"from":[15,6.5,6.5],
+			"to":[18,9.5,9.5],
+			"faces":{
+				"down":{"uv":[6.5,6.5,9.5,9.5],"texture":"#stick_head"},
+				"up":{"uv":[6.5,6.5,9.5,9.5],"texture":"#stick_head"},
+				"north":{"uv":[6.5,6.5,9.5,9.5],"texture":"#stick_head"},
+				"south":{"uv":[6.5,6.5,9.5,9.5],"texture":"#stick_head"},
+				"west":{"uv":[6.5,6.5,9.5,9.5],"texture":"#stick_head"},
+				"east":{"uv":[6.5,6.5,9.5,9.5],"texture":"#stick_head"}
+			}
+		},
+		{
+			"__comment":"Stick Handle East",
+			"from":[16,1,7.5],
+			"to":[17,6.5,8.5],
+			"faces":{
+				"down":{"uv":[7.5,7.5,8.5,8.5],"texture":"#stick_handle"},
+				"up":{"uv":[7.5,7.5,8.5,8.5],"texture":"#stick_handle"},
+				"north":{"uv":[7.5,9.5,8.5,15],"texture":"#stick_handle"},
+				"south":{"uv":[7.5,9.5,8.5,15],"texture":"#stick_handle"},
+				"west":{"uv":[7.5,9.5,8.5,15],"texture":"#stick_handle"},
+				"east":{"uv":[7.5,9.5,8.5,15],"texture":"#stick_handle"}
+			}
+		}
+	]
+}
