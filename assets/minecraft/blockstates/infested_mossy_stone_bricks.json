@@ -1,0 +1,11 @@
+{
+	"variants":{
+		"":[
+			{"model":"block/stonebricks_mossy"             },
+			{"model":"block/stonebricks/stonebricks_mossy1"},
+			{"model":"block/stonebricks/stonebricks_mossy2"},
+			{"model":"block/stonebricks/stonebricks_mossy3"},
+			{"model":"block/stonebricks/stonebricks_mossy4"}
+		]
+	}
+}
