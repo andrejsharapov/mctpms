@@ -1,0 +1,32 @@
+{
+	"credit":"Made with Blockbench",
+	"parent":"minecraft:block/block",
+	"textures":{"dripstone":"block/dripstone_block","base":"block/dripstone/down/base","particle":"block/dripstone/down/base"},
+	"elements":[
+		{
+			"from":[1,11,1],
+			"to":[15,16,15],
+			"shade":false,
+			"faces":{
+				"north":{"uv":[1,0,15,5],"texture":"#dripstone","cullface":"north"},
+				"east":{"uv":[1,0,15,5],"texture":"#dripstone","cullface":"east"},
+				"south":{"uv":[1,0,15,5],"texture":"#dripstone","cullface":"south"},
+				"west":{"uv":[1,0,15,5],"texture":"#dripstone","cullface":"west"},
+				"up":{"uv":[1,1,15,15],"texture":"#dripstone","cullface":"up"},
+				"down":{"uv":[1,1,15,15],"texture":"#dripstone"}
+			}
+		},
+		{
+			"from":[2,0,2],
+			"to":[14,11,14],
+			"shade":false,
+			"faces":{
+				"north":{"uv":[2,5,14,16],"texture":"#base"},
+				"east":{"uv":[2,5,14,16],"texture":"#base"},
+				"south":{"uv":[2,5,14,16],"texture":"#base"},
+				"west":{"uv":[2,5,14,16],"texture":"#base"},
+				"down":{"uv":[2,2,14,14],"texture":"#base"}
+			}
+		}
+	]
+}

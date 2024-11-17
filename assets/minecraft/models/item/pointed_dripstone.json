@@ -1,0 +1,12 @@
+{
+  "parent":"minecraft:block/pointed_dripstone_down_tip",
+  "display":{
+    "thirdperson_righthand":{"translation":[0,0,1.5],"scale":[0.68555,0.68555,0.68555]},
+    "thirdperson_lefthand":{"translation":[0,0,1.75],"scale":[0.70703,0.70703,0.70703]},
+    "firstperson_righthand":{"translation":[3.5,0,0]},
+    "firstperson_lefthand":{"translation":[3.5,0,0],"scale":[1,1,0.74805]},
+    "ground":{"rotation":[28.68,3.31,13.03],"scale":[0.77344,0.77344,0.77344]},
+    "gui":{"rotation":[-15.75,21.25,0],"translation":[0,-2.25,0]},
+    "fixed":{"translation":[0,-2.5,0],"scale":[1.07617,1.07617,1.07617]}
+  }
+}
