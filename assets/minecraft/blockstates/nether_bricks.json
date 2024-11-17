@@ -2,10 +2,10 @@
   "variants":{
     "":[
       {"model":"block/nether_bricks/nether_bricks" ,"weight":70},
+      {"model":"block/nether_bricks/nether_bricks1","weight":10},
       {"model":"block/nether_bricks/nether_bricks2","weight":10},
-      {"model":"block/nether_bricks/nether_bricks3","weight":10},
-      {"model":"block/nether_bricks/nether_bricks4","weight": 5},
-      {"model":"block/nether_bricks/nether_bricks5","weight": 5}
+      {"model":"block/nether_bricks/nether_bricks3","weight": 5},
+      {"model":"block/nether_bricks/nether_bricks4","weight": 5}
     ]
   }
 }
