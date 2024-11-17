@@ -1,0 +1,30 @@
+{
+	"parent":"minecraft:block/pressure_plate",
+	"textures":{"particle":"#texture"},
+	"elements":[
+		{
+			"from":[1,0,1],
+			"to":[15,0.5,15],
+			"faces":{
+				"down":{"uv":[15.999,15.999,0.001,0.001],"texture":"#texture","cullface":"down"},
+				"up":{"uv":[0.001,0.001,15.999,15.999],"texture":"#texture"},
+				"north":{"uv":[1.001,15.501,14.999,15.999],"texture":"#texture"},
+				"south":{"uv":[1.001,15.501,14.999,15.999],"texture":"#texture"},
+				"west":{"uv":[1.001,15.501,14.999,15.999],"texture":"#texture"},
+				"east":{"uv":[1.001,15.501,14.999,15.999],"texture":"#texture"}
+			}
+		},
+		{
+			"from":[1.5,0.5,1.5],
+			"to":[14.5,1,14.5],
+			"faces":{
+				"down":{"uv":[15.499,15.499,0.501,0.501],"texture":"#texture"},
+				"up":{"uv":[0.501,0.501,15.499,15.499],"texture":"#texture"},
+				"north":{"uv":[1.501,15.001,14.499,15.499],"texture":"#texture"},
+				"south":{"uv":[1.501,15.001,14.499,15.499],"texture":"#texture"},
+				"west":{"uv":[1.501,15.001,14.499,15.499],"texture":"#texture"},
+				"east":{"uv":[1.501,15.001,14.499,15.499],"texture":"#texture"}
+			}
+		}
+	]
+}
