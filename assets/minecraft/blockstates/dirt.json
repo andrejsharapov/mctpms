@@ -1,0 +1,14 @@
+{
+	"variants":{
+		"":[
+			{"model":"block/dirt"             ,"weight":50},
+			{"model":"block/dirt/dirt1"       ,"weight":20},
+			{"model":"block/dirt/dirt_clay"   ,"weight":16},
+			{"model":"block/dirt/dirt2"       ,"weight": 7},
+			{"model":"block/dirt/dirt_gravel1","weight": 7},
+			{"model":"block/dirt/dirt3"       ,"weight": 1},
+			{"model":"block/dirt/dirt_gravel2","weight": 1},
+			{"model":"block/dirt/dirt4"       ,"weight": 1}
+		]
+	}
+}
