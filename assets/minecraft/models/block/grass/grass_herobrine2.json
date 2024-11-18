@@ -1,0 +1,4 @@
+{
+	"parent":"minecraft:block/grass/grass_herobrine",
+	"textures":{"cross":"block/tall_grass_bottom","particle":"block/tall_grass_bottom","herobrine":"block/grass/herobrine/steve"}
+}
