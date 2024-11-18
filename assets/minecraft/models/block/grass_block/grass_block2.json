@@ -1,0 +1,4 @@
+{
+	"parent":"minecraft:block/grass_block/grass_block",
+	"textures":{"side":"block/grass_block/side/grass_block_side2","overlay":"block/grass_block/overlay/grass_block_side_overlay2"}
+}

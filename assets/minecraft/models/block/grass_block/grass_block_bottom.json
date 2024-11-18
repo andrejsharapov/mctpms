@@ -1,0 +1,16 @@
+{
+	"parent": "minecraft:block/block",
+	"textures": {
+		"particle": "block/dirt",
+		"bottom": "block/dirt"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 0, 16],
+			"faces": {
+				"down": {"texture": "#bottom", "cullface": "down"}
+			}
+		}
+	]
+}

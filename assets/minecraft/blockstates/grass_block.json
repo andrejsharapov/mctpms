@@ -1,0 +1,84 @@
+{
+	"multipart":[
+		{
+			"when":{"snowy":"false"},
+			"apply":[
+				{"model":"block/grass_block/grass_block" ,"weight":125},
+				{"model":"block/grass_block/grass_block1","weight":  1},
+				{"model":"block/grass_block/grass_block2","weight":  1},
+				{"model":"block/grass_block/grass_block3","weight":  1},
+				{"model":"block/grass_block/grass_block4","weight":  1},
+				{"model":"block/grass_block/grass_block5","weight":  1}
+			]
+		},
+		{
+			"when":{"snowy":"false"},
+			"apply":[
+				{"model":"block/grass_block/grass_block_top" ,"weight":125},
+				{"model":"block/grass_block/grass_block1_top","weight":  1},
+				{"model":"block/grass_block/grass_block2_top","weight":  1},
+				{"model":"block/grass_block/grass_block3_top","weight":  1},
+				{"model":"block/grass_block/grass_block4_top","weight":  1},
+				{"model":"block/grass_block/grass_block5_top","weight":  1}
+			]
+		},
+		{
+			"when":{"snowy":"false"},
+			"apply":[
+				{"model":"block/grass_block/grass_block_bottom" ,"weight":1},
+				{"model":"block/grass_block/grass_block1_bottom","weight":1},
+				{"model":"block/grass_block/grass_block2_bottom","weight":1},
+				{"model":"block/grass_block/grass_block3_bottom","weight":1},
+				{"model":"block/grass_block/grass_block4_bottom","weight":1},
+				{"model":"block/grass_block/grass_block5_bottom","weight":1}
+			]
+		},
+		{
+			"apply":[
+				{"model":"block/empty"                    ,"weight":40},
+				{"model":"block/grass_block/roots"        ,"weight":10},
+				{"model":"block/grass_block/hanging_roots","weight": 5}
+			]
+		},
+		{
+			"when":{"snowy":"false"},
+			"apply":[
+				{"model":"block/empty"                      ,"weight":1000        },
+				{"model":"block/grass_block/branches"       ,"weight":   1        },
+				{"model":"block/grass_block/dry_leaves_pile","weight":   1,"y": 90},
+				{"model":"block/grass_block/branches"       ,"weight":   1,"y":180},
+				{"model":"block/grass_block/leaves"         ,"weight":   1,"y":270}
+			]
+		},
+		{
+			"when":{"snowy":"false"},
+			"apply":[
+				{"model":"block/empty"             ,"weight":1000        },
+				{"model":"block/grass_block/rocks2","weight":   2        },
+				{"model":"block/grass_block/rocks1","weight":   1,"y": 90},
+				{"model":"block/grass_block/rocks1","weight":   1,"y":180},
+				{"model":"block/grass_block/rocks2","weight":   1,"y":270}
+			]
+		},
+		{
+			"when":{"snowy":"false"},
+			"apply":[
+				{"model":"block/empty"                   ,"weight":500        },
+				{"model":"block/grass_block/plant_carpet","weight":  1        },
+				{"model":"block/grass_block/plant_carpet","weight":  1,"y": 90},
+				{"model":"block/grass_block/plant_carpet","weight":  1,"y":180},
+				{"model":"block/grass_block/plant_carpet","weight":  1,"y":270}
+			]
+		},
+		{
+			"when":{"snowy":"true"},
+			"apply":[
+				{"model":"block/grass_block_snow","weight":130        },
+				{"model":"block/grass_block_snow","weight":  1        },
+				{"model":"block/grass_block_snow","weight":  1,"y": 90},
+				{"model":"block/grass_block_snow","weight":  1,"y":180},
+				{"model":"block/grass_block_snow","weight":  1,"y":270}
+			]
+		}
+	]
+}

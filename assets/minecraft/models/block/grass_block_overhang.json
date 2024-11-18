@@ -1,0 +1,17 @@
+{
+	"ambientocclusion":false,
+	"textures":{"particle":"block/grass_block_overhang","overhang":"block/grass_block_overhang"},
+	"elements":[
+		{
+			"name":"West",
+			"from":[-6,16,0],
+			"to":[0,16,16],
+			"shade":false,
+			"rotation":{"angle":45,"axis":"z","origin":[0,16,8]},
+			"faces":{
+				"up":{"uv":[0,0,16,6],"rotation":90,"tintindex":0,"texture":"#overhang"},
+				"down":{"uv":[0,0,16,6],"rotation":90,"tintindex":0,"texture":"#overhang"}
+			}
+		}
+	]
+}
