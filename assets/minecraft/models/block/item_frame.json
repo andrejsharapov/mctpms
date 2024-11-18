@@ -1,6 +1,6 @@
 {
 	"credit":"Made with Blockbench",
-	"textures":{"1":"block/oak","particle":"block/jungle_planks","wood":"block/jungle_planks"},
+	"textures":{"1":"block/gray_wool","particle":"block/birch_planks","wood":"block/birch_planks"},
 	"elements":[
 		{
 			"name":"Leather",
