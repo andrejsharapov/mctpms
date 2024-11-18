@@ -23,5 +23,15 @@
 				"south":{"uv":[0,0,16,16],"texture":"#flat"}
 			}
 		}
-	]
+	],
+	"display":{
+		"thirdperson_righthand":{"translation":[0,1.25,1.5],"scale":[0.5,0.5,0.5]},
+		"thirdperson_lefthand":{"rotation":[4.41,32.26,-15.15],"translation":[0,1.5,0],"scale":[0.5,0.5,0.5]},
+		"firstperson_righthand":{"rotation":[0,16.5,0],"translation":[4,0,0],"scale":[0.56445,0.56445,0.56445]},
+		"firstperson_lefthand":{"rotation":[15.16,0.1,17.21],"translation":[3.5,0.5,0],"scale":[0.34375,0.49609,0.49609]},
+		"ground":{"translation":[0,4.5,0],"scale":[0.54688,0.54688,0.54688]},
+		"gui":{"translation":[0,0.5,0],"scale":[0.85547,0.85547,0.85547]},
+		"head":{"rotation":[0,-27,0],"translation":[0,-12.75,6],"scale":[0.50781,0.50781,0.50781]},
+		"fixed":{"scale":[0.87891,0.87891,0.87891]}
+	}
 }
