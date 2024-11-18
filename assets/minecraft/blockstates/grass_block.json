@@ -43,11 +43,11 @@
 		{
 			"when":{"snowy":"false"},
 			"apply":[
-				{"model":"block/empty"                      ,"weight":1000        },
-				{"model":"block/grass_block/branches"       ,"weight":   1        },
-				{"model":"block/grass_block/dry_leaves_pile","weight":   1,"y": 90},
-				{"model":"block/grass_block/branches"       ,"weight":   1,"y":180},
-				{"model":"block/grass_block/leaves"         ,"weight":   1,"y":270}
+				{"model":"block/empty"               ,"weight":1000        },
+				{"model":"block/grass_block/branches","weight":   1        },
+				{"model":"block/grass_block/branches","weight":   1,"y": 90},
+				{"model":"block/grass_block/branches","weight":   1,"y":180},
+				{"model":"block/grass_block/leaves"  ,"weight":   1,"y":270}
 			]
 		},
 		{
