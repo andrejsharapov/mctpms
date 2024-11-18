@@ -1,0 +1,4 @@
+{
+	"parent":"minecraft:block/lily/lily_pad_blossom1",
+	"textures":{"down":"block/lily/lily_pad2","up":"block/lily/lily_pad2","blossom":"block/lily/lily_pad_blossom4"}
+}
