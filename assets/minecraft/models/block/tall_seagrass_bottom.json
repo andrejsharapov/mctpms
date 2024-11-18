@@ -1,0 +1,4 @@
+{
+  "parent":"minecraft:block/tall_seagrass",
+  "textures":{"seagrass":"block/seagrass/tall_seagrass_bottom","particle":"block/seagrass/tall_seagrass_bottom"}
+}
