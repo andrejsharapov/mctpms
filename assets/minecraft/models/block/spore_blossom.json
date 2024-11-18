@@ -1,0 +1,123 @@
+{
+	"parent":"minecraft:block/block",
+	"textures":{
+		"particle":"block/spore_blossom"        ,
+		"flower"  :"block/spore_blossom"        ,
+		"base"    :"block/spore_blossom_base"   ,
+		"details" :"block/spore_blossom_details"
+	},
+	"elements":[
+		{
+			"name":"Leaves",
+			"from":[0,15.9,0],
+			"to":[16,15.9,16],
+			"shade":false,
+			"faces":{
+				"up":{"uv":[0,0,16,16],"texture":"#base"},
+				"down":{"uv":[0,0,16,16],"texture":"#base"}
+			}
+		},
+		{
+			"name":"Petal 1",
+			"from":[8,15.7,0],
+			"to":[24,15.7,16],
+			"shade":false,
+			"rotation":{"angle":-22.5,"axis":"z","origin":[8,16,0]},
+			"faces":{
+				"up":{"uv":[0,0,16,16],"rotation":90,"texture":"#flower"},
+				"down":{"uv":[0,16,16,0],"rotation":270,"texture":"#flower"}
+			}
+		},
+		{
+			"name":"Petal 2",
+			"from":[-8,15.7,0],
+			"to":[8,15.7,16],
+			"shade":false,
+			"rotation":{"angle":22.5,"axis":"z","origin":[8,16,0]},
+			"faces":{
+				"up":{"uv":[0,0,16,16],"rotation":270,"texture":"#flower"},
+				"down":{"uv":[0,16,16,0],"rotation":90,"texture":"#flower"}
+			}
+		},
+		{
+			"name":"Petal 3",
+			"from":[0,15.7,8],
+			"to":[16,15.7,24],
+			"shade":false,
+			"rotation":{"angle":22.5,"axis":"x","origin":[0,16,8]},
+			"faces":{
+				"up":{"uv":[16,16,0,0],"texture":"#flower"},
+				"down":{"uv":[16,0,0,16],"texture":"#flower"}
+			}
+		},
+		{
+			"name":"Petal 4",
+			"from":[0,15.7,-8],
+			"to":[16,15.7,8],
+			"shade":false,
+			"rotation":{"angle":-22.5,"axis":"x","origin":[0,16,8]},
+			"faces":{
+				"up":{"uv":[0,0,16,16],"texture":"#flower"},
+				"down":{"uv":[0,16,16,0],"texture":"#flower"}
+			}
+		},
+		{
+			"name":"Small Petal 1",
+			"from":[1,15.7,5],
+			"to":[7,15.7,11],
+			"shade":false,
+			"rotation":{"angle":45,"axis":"z","origin":[7,15.7,8]},
+			"faces":{
+				"up":{"uv":[0,0,6,6],"rotation":90,"texture":"#details"},
+				"down":{"uv":[0,0,6,6],"rotation":90,"texture":"#details"}
+			}
+		},
+		{
+			"name":"Small Petal 2",
+			"from":[9,15.7,5],
+			"to":[15,15.7,11],
+			"shade":false,
+			"rotation":{"angle":-45,"axis":"z","origin":[9,15.7,8]},
+			"faces":{
+				"up":{"uv":[0,0,6,6],"rotation":270,"texture":"#details"},
+				"down":{"uv":[0,0,6,6],"rotation":270,"texture":"#details"}
+			}
+		},
+		{
+			"name":"Small Petal 3",
+			"from":[5,15.7,1],
+			"to":[11,15.7,7],
+			"shade":false,
+			"rotation":{"angle":-45,"axis":"x","origin":[8,15.7,7]},
+			"faces":{
+				"up":{"uv":[0,0,6,6],"rotation":180,"texture":"#details"},
+				"down":{"uv":[0,0,6,6],"texture":"#details"}
+			}
+		},
+		{
+			"name":"Small Petal 4",
+			"from":[5,15.7,9],
+			"to":[11,15.7,15],
+			"shade":false,
+			"rotation":{"angle":45,"axis":"x","origin":[8,15.7,9]},
+			"faces":{
+				"up":{"uv":[0,0,6,6],"texture":"#details"},
+				"down":{"uv":[0,0,6,6],"rotation":180,"texture":"#details"}
+			}
+		},
+		{
+			"from":[6.29289,3,6],
+			"to":[9.29289,15,9],
+			"shade":false,
+			"rotation":{"angle":-45,"axis":"y","origin":[7.29289,12,8]},
+			"faces":{
+				"north":{"uv":[6,0,9,12],"texture":"#details"},
+				"east":{"uv":[6,0,9,12],"texture":"#details"},
+				"south":{"uv":[6,0,9,12],"texture":"#details"},
+				"west":{"uv":[6,0,9,12],"texture":"#details"},
+				"up":{"uv":[6,0,9,3],"texture":"#details"},
+				"down":{"uv":[6,0,9,3],"texture":"#details"}
+			}
+		}
+	]
+}
