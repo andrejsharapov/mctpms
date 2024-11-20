@@ -1,0 +1,25 @@
+{
+	"variants":{
+		"axis=y":[
+			{"model":"block/wood/acacia/log" ,"weight":30},
+			{"model":"block/wood/acacia/log2","weight":29},
+			{"model":"block/wood/acacia/log3","weight":20},
+			{"model":"block/wood/acacia/log4","weight":20},
+			{"model":"block/wood/acacia/log5","weight": 1}
+		],
+		"axis=z":[
+			{"model":"block/wood/acacia/log_side" ,"weight":30},
+			{"model":"block/wood/acacia/log_side2","weight":29},
+			{"model":"block/wood/acacia/log_side3","weight":20},
+			{"model":"block/wood/acacia/log_side4","weight":20},
+			{"model":"block/wood/acacia/log_side5","weight": 1}
+		],
+		"axis=x":[
+			{"model":"block/wood/acacia/log_side" ,"y":90,"weight":30},
+			{"model":"block/wood/acacia/log_side2","y":90,"weight":29},
+			{"model":"block/wood/acacia/log_side3","y":90,"weight":20},
+			{"model":"block/wood/acacia/log_side4","y":90,"weight":20},
+			{"model":"block/wood/acacia/log_side5","y":90,"weight": 1}
+		]
+	}
+}
