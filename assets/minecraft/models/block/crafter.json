@@ -4,7 +4,7 @@
 	"textures":{
 		"2"       :"block/iron_block"           ,
 		"4"       :"block/bedrock"              ,
-		"6"       :"block/crafting_table_bottom",
+		"6"       :"block/oak_planks"           ,
 		"7"       :"block/anvil_base"           ,
 		"8"       :"block/bedrock"              ,
 		"particle":"block/crafting_table_bottom"
