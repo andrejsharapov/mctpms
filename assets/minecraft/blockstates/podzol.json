@@ -1,0 +1,12 @@
+{
+	"variants":{
+		"snowy=false":[
+			{"model":"block/podzol"        },
+			{"model":"block/podzol/podzol1"},
+			{"model":"block/podzol/podzol2"},
+			{"model":"block/podzol/podzol3"},
+			{"model":"block/podzol/podzol4"}
+		],
+		"snowy=true":{"model":"block/podzol/podzol_snowed"}
+	}
+}
