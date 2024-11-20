@@ -1,0 +1,9 @@
+{
+	"variants":{
+		"":[
+			{"model":"block/mushroom/mushroom_red" ,"weight":80},
+			{"model":"block/mushroom/mushroom_red1","weight":10},
+			{"model":"block/mushroom/mushroom_red2","weight": 1}
+		]
+	}
+}
