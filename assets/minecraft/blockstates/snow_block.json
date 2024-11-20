@@ -1,0 +1,10 @@
+{
+	"variants":{
+		"":[
+			{"model":"block/snow"      ,"weight":70},
+			{"model":"block/snow/snow1","weight":10},
+			{"model":"block/snow/snow2","weight":10},
+			{"model":"block/snow/snow3","weight":10}
+		]
+	}
+}
