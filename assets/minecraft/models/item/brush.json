@@ -1,10 +1,10 @@
 {
 	"credit":"Made with Blockbench",
 	"textures":{
-		"0"       :"block/mangrove_log"             ,
-		"1"       :"block/copper_block"             ,
-		"2"       :"block/white_wool"               ,
-		"3"       :"block/grass_block_side_overlay2",
+		"0"       :"block/mangrove_log"                                ,
+		"1"       :"block/copper_block"                                ,
+		"2"       :"block/white_wool"                                  ,
+		"3"       :"block/grass_block/overlay/grass_block_side_overlay",
 		"particle":"block/mangrove_log"
 	},
 	"elements":[
