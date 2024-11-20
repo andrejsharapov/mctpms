@@ -1,0 +1,11 @@
+{
+	"variants":{
+		"snowy=false":[
+			{"model":"block/mycelium/mycelium" ,"weight": 1},
+			{"model":"block/mycelium/mycelium1","weight":60},
+			{"model":"block/mycelium/mycelium2","weight":20},
+			{"model":"block/mycelium/mycelium3","weight":15}
+		],
+		"snowy=true":{"model":"block/grass_snowed"}
+	}
+}

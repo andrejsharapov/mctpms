@@ -1,0 +1,11 @@
+{
+	"parent":"minecraft:block/cube_all_side",
+	"textures":{
+		"bottom":"block/dirt"                   ,
+		"top"   :"block/mycelium/mycelium_top2" ,
+		"s1"    :"block/mycelium/mycelium_side2",
+		"s2"    :"block/mycelium/mycelium_side2",
+		"s3"    :"block/mycelium/mycelium_side2",
+		"s4"    :"block/mycelium/mycelium_side2"
+	}
+}
