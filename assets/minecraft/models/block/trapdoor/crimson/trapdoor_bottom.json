@@ -1,6 +1,5 @@
 {
 	"credit":"Made with Blockbench",
-	"parent":"minecraft:block/thin_block",
 	"textures":{"1":"block/crimson_trapdoor","particle":"block/crimson_trapdoor"},
 	"elements":[
 		{

@@ -1,5 +1,4 @@
 {
-	"parent":"minecraft:block/thin_block",
 	"ambientocclusion":true,
 	"textures":{"fern":"block/fern_3d","fern_alt":"block/fern_3d_alt","particle":"block/fern"},
 	"elements":[
