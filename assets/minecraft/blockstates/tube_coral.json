@@ -1,0 +1,9 @@
+{
+	"variants":{
+		"":[
+			{"model":"block/coral/tube_coral" ,"weight":60},
+			{"model":"block/coral/tube_coral1","weight":30},
+			{"model":"block/coral/tube_coral2","weight":10}
+		]
+	}
+}
