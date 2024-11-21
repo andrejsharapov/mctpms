@@ -1,7 +1,7 @@
 {
 	"credit":"Made with Blockbench",
 	"ambientocclusion":false,
-	"textures":{"texture":"block/trapdoor_v_add","particle":"block/acacia_trapdoor"},
+	"textures":{"texture":"block/trapdoor_v_add","particle":"block/stripped_acacia_log"},
 	"elements":[
 		{
 			"from":[0,0.5,6.625],

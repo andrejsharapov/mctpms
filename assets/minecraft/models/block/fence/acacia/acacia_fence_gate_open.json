@@ -1,7 +1,7 @@
 {
   "parent":"minecraft:block/block",
   "ambientocclusion":false,
-  "textures":{"texture":"block/acacia_planks","particle":"block/acacia_planks"},
+  "textures":{"texture":"block/stripped_acacia_log","particle":"block/stripped_acacia_log"},
   "elements":[
     {
       "name":"l",

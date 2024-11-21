@@ -2,7 +2,7 @@
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"particle":"block/acacia_planks","texture":"block/acacia_planks"},
+	"textures":{"particle":"block/stripped_acacia_log","texture":"block/stripped_acacia_log"},
 	"elements":[
 		{
 			"name":"Left post",
