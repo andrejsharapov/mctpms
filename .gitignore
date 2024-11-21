@@ -1,10 +1,10 @@
 # locked
-/assets/minecraft/blockstates/*
-/assets/minecraft/font/
-/assets/minecraft/lang/
-/assets/minecraft/models/block/*
-/assets/minecraft/models/item/*
-/assets/minecraft/particles/
+# /assets/minecraft/blockstates/*
+# /assets/minecraft/font/
+# /assets/minecraft/lang/
+# /assets/minecraft/models/block/*
+# /assets/minecraft/models/item/*
+# /assets/minecraft/particles/
 /assets/minecraft/textures/
 
 # development
@@ -15,6 +15,6 @@
 # !/assets/minecraft/models/**/*
 
 # unlock only (dev)
-!/assets/minecraft/blockstates/*-*
-!/assets/minecraft/models/block/**/*-*
-!/assets/minecraft/models/item/**/*-*
+# !/assets/minecraft/blockstates/*-*
+# !/assets/minecraft/models/block/**/*-*
+# !/assets/minecraft/models/item/**/*-*
