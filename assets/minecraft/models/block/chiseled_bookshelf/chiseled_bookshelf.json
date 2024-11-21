@@ -1,5 +1,5 @@
 {
-	"textures":{"0":"block/oak","particle":"block/oak"},
+	"textures":{"0":"block/oak_planks","particle":"block/oak_planks"},
 	"elements":[
 		{
 			"from":[15,1,0],

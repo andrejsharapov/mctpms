@@ -1,6 +1,6 @@
 {
 	"credit":"Made with Blockbench",
-	"textures":{"2":"block/anvil_base","particle":"block/gold_pressure_plate","anvil_base":"block/gold_pressure_plate","planks_oak":"block/oak"},
+	"textures":{"2":"block/anvil_base","particle":"block/gold_pressure_plate","anvil_base":"block/gold_pressure_plate","planks_oak":"block/oak_planks"},
 	"elements":[
 		{
 			"from":[4.5,17.375,9],

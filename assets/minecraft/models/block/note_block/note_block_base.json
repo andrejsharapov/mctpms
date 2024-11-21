@@ -1,6 +1,6 @@
 {
 	"parent":"minecraft:block/block",
-	"textures":{"particle":"block/light_gray_wool","end":"block/light_gray_wool","top":"block/dark_oak_planks","frame":"block/dark_oak"},
+	"textures":{"particle":"block/light_gray_wool","end":"block/light_gray_wool","top":"block/dark_oak_planks","frame":"block/dark_oak_planks"},
 	"elements":[
 		{
 			"name":"Bottom Base",

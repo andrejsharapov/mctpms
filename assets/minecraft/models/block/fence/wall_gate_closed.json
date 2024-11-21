@@ -97,5 +97,5 @@
       "to":[14,12,9]
     }
   ],
-  "textures":{"particle":"#texture","texture":"block/fence_oak"}
+  "textures":{"particle":"#texture","texture":"block/oak_planks"}
 }

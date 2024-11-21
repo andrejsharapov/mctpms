@@ -1,7 +1,7 @@
 {
 	"credit":"Made with Blockbench",
 	"ambientocclusion":false,
-	"textures":{"2":"block/netherite_block","5":"block/diamond_block","6":"block/oak"},
+	"textures":{"2":"block/netherite_block","5":"block/diamond_block","6":"block/oak_planks"},
 	"elements":[
 		{
 			"from":[6.94512,4.13748,7.96447],

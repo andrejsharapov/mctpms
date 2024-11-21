@@ -1,5 +1,5 @@
 {
-	"textures":{"6":"block/oak","particle":"block/gold_pressure_plate","anvil_base":"block/gold_pressure_plate","1_4":"block/oak_log"},
+	"textures":{"6":"block/oak_planks","particle":"block/gold_pressure_plate","anvil_base":"block/gold_pressure_plate","1_4":"block/oak_log"},
 	"elements":[
 		{
 			"from":[2.53086,13.01429,7.53785],

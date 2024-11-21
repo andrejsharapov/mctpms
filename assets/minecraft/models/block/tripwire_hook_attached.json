@@ -1,6 +1,6 @@
 {
 	"credit":"Made with Blockbench",
-	"textures":{"hook":"block/tripwire_hook","particle":"block/oak","wood":"block/oak","tripwire":"block/tripwire"},
+	"textures":{"hook":"block/tripwire_hook","particle":"block/oak_planks","wood":"block/oak_planks","tripwire":"block/tripwire"},
 	"elements":[
 		{
 			"from":[7.75,1.5,0],
