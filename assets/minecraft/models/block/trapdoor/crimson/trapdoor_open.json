@@ -1,6 +1,6 @@
 {
 	"credit":"Made with Blockbench",
-	"textures":{"1":"block/crimson_trapdoor","particle":"block/crimson_trapdoor"},
+	"textures":{"1":"block/stripped_crimson_stem","particle":"block/stripped_crimson_stem"},
 	"elements":[
 		{
 			"from":[8.88604,-1.80761,14.25],
