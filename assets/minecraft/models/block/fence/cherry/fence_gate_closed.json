@@ -2,32 +2,38 @@
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"2":"block/cherry","particle":"block/cherry"},
+	"textures":{
+		"1"       :"block/cherry_log"         ,
+		"2"       :"block/cherry_planks"      ,
+		"3"       :"block/cherry_log_top"     ,
+		"4"       :"block/stripped_cherry_log",
+		"particle":"block/cherry_planks"
+	},
 	"elements":[
 		{
 			"name":"Left-hand post",
-			"from":[0,4,6],
-			"to":[2,15,10],
+			"from":[0,0,5],
+			"to":[2,15,11],
 			"faces":{
-				"north":{"uv":[11,0,13,11],"texture":"#2"},
-				"east":{"uv":[11.5,0,13.5,11],"texture":"#2"},
-				"south":{"uv":[11,0,13,11],"texture":"#2"},
-				"west":{"uv":[11,0,13,11],"texture":"#2","cullface":"west"},
-				"up":{"uv":[0,8,2,10],"texture":"#2"},
-				"down":{"uv":[2,10,0,8],"texture":"#2"}
+				"north":{"uv":[9,0,13,16],"texture":"#1"},
+				"east":{"uv":[8,0,16,16],"texture":"#4"},
+				"south":{"uv":[9,0,13,16],"texture":"#1"},
+				"west":{"uv":[0,0,8,16],"texture":"#1","cullface":"west"},
+				"up":{"uv":[0,0,8,16],"texture":"#3"},
+				"down":{"uv":[16,16,8,0],"texture":"#3"}
 			}
 		},
 		{
 			"name":"Right-hand post",
-			"from":[14,4,6],
-			"to":[16,15,10],
+			"from":[14,0,5],
+			"to":[16,15,11],
 			"faces":{
-				"north":{"uv":[10.5,0,12.5,11],"texture":"#2"},
-				"east":{"uv":[10.75,0,12.75,11],"texture":"#2","cullface":"east"},
-				"south":{"uv":[10.5,0,12.5,11],"texture":"#2"},
-				"west":{"uv":[10.5,0,12.5,11],"texture":"#2"},
-				"up":{"uv":[0,8,2,10],"texture":"#2"},
-				"down":{"uv":[2,10,0,8],"texture":"#2"}
+				"north":{"uv":[9,0,13,16],"texture":"#1"},
+				"east":{"uv":[0,0,8,16],"texture":"#1","cullface":"east"},
+				"south":{"uv":[9,0,13,16],"texture":"#1"},
+				"west":{"uv":[0,0,8,16],"texture":"#4"},
+				"up":{"uv":[8,0,16,16],"texture":"#3"},
+				"down":{"uv":[8,16,0,0],"texture":"#3"}
 			}
 		},
 		{
