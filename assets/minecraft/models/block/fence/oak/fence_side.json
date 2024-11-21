@@ -2,19 +2,19 @@
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"particle":"block/fence_oak","texture":"block/fence_oak"},
+	"textures":{"particle":"block/oak_planks","texture":"block/oak_planks"},
 	"elements":[
 		{
 			"name":"top bar",
 			"from":[7,11.5,0],
 			"to":[9,14.5,7.5],
 			"faces":{
-				"north":{"uv":[8.375,0,10,2.625],"texture":"#texture","cullface":"north"},
-				"east":{"uv":[0,0,8.375,2.625],"texture":"#texture"},
-				"south":{"uv":[8.875,0,10,2.625],"texture":"#texture"},
-				"west":{"uv":[0,0,9,2.625],"texture":"#texture"},
-				"up":{"uv":[11,1.125,13,10.125],"texture":"#texture"},
-				"down":{"uv":[11.125,7,13.125,16],"texture":"#texture"}
+				"north":{"uv":[8.625,3,11.25,4.625],"rotation":90,"texture":"#texture","cullface":"north"},
+				"east":{"uv":[4,7.25,12.375,9.875],"texture":"#texture"},
+				"south":{"uv":[9.125,3,11.75,4.125],"rotation":90,"texture":"#texture"},
+				"west":{"uv":[4,7.25,13,9.875],"texture":"#texture"},
+				"up":{"uv":[4.75,10.75,13.75,14.125],"rotation":90,"texture":"#texture"},
+				"down":{"uv":[4.75,10.75,13.75,14.125],"rotation":90,"texture":"#texture"}
 			}
 		},
 		{
@@ -22,12 +22,12 @@
 			"from":[7,5.5,0],
 			"to":[9,8.5,7.5],
 			"faces":{
-				"north":{"uv":[8.375,0,10,2.625],"texture":"#texture","cullface":"north"},
-				"east":{"uv":[0,0,8.375,2.625],"texture":"#texture"},
-				"south":{"uv":[8.875,0,10,2.625],"texture":"#texture"},
-				"west":{"uv":[0,0,9,2.625],"texture":"#texture"},
-				"up":{"uv":[11,1.125,13,10.125],"texture":"#texture"},
-				"down":{"uv":[11.125,7,13.125,16],"texture":"#texture"}
+				"north":{"uv":[8.625,3,11.25,4.625],"rotation":90,"texture":"#texture","cullface":"north"},
+				"east":{"uv":[4,7.25,12.375,9.875],"texture":"#texture"},
+				"south":{"uv":[9.125,3,11.75,4.125],"rotation":90,"texture":"#texture"},
+				"west":{"uv":[4,7.25,13,9.875],"texture":"#texture"},
+				"up":{"uv":[4.75,10.75,13.75,14.125],"rotation":90,"texture":"#texture"},
+				"down":{"uv":[4.75,10.75,13.75,14.125],"rotation":90,"texture":"#texture"}
 			}
 		}
 	],

@@ -2,7 +2,7 @@
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"0":"block/fence_oak","particle":"block/fence_oak"},
+	"textures":{"0":"block/oak_planks","particle":"block/oak_planks"},
 	"elements":[
 		{
 			"name":"Left post",
