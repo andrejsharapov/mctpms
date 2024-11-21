@@ -1,7 +1,7 @@
 {
   "parent":"minecraft:block/block",
   "ambientocclusion":false,
-  "textures":{"texture":"block/birch_planks","particle":"block/birch_planks"},
+  "textures":{"texture":"block/stripped_birch_log","particle":"block/stripped_birch_log"},
   "elements":[
     {
       "name":"l",

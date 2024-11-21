@@ -2,7 +2,7 @@
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"particle":"block/birch","texture":"block/birch"},
+	"textures":{"particle":"block/stripped_birch_log","texture":"block/stripped_birch_log"},
 	"elements":[
 		{
 			"name":"Left post",
