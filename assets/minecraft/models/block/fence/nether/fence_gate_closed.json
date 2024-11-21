@@ -2,7 +2,7 @@
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"1":"block/fence_nether","particle":"block/fence_nether"},
+	"textures":{"1":"block/nether_bricks","particle":"block/nether_bricks"},
 	"elements":[
 		{
 			"name":"Left-hand post",
