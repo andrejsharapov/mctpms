@@ -2,7 +2,7 @@
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"particle":"block/mangrove_planks","texture":"block/mangrove_planks"},
+	"textures":{"particle":"block/stripped_mangrove_log","texture":"block/stripped_mangrove_log"},
 	"elements":[
 		{
 			"name":"Top bar",
