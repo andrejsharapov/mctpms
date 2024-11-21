@@ -2,7 +2,7 @@
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"particle":"block/fence_warped","texture":"block/fence_warped"},
+	"textures":{"particle":"block/stripped_warped_stem","texture":"block/stripped_warped_stem"},
 	"elements":[
 		{
 			"name":"l",

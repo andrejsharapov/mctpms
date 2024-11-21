@@ -1,4 +1,1 @@
-{
-	"parent":"minecraft:block/trapdoor/bamboo/trapdoor_open",
-	"textures":{"texture":"block/warped_stripped_log_side","particle":"block/warped_stripped_log_side"}
-}
+{"parent":"minecraft:block/trapdoor/bamboo/trapdoor_open","textures":{"texture":"block/stripped_warped_stem","particle":"block/stripped_warped_stem"}}
