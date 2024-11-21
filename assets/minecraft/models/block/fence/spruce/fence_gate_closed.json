@@ -2,7 +2,7 @@
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"1":"block/fence_spruce","particle":"block/fence_spruce"},
+	"textures":{"1":"block/stripped_spruce_log","particle":"block/stripped_spruce_log"},
 	"elements":[
 		{
 			"name":"Left-hand post",

@@ -1,6 +1,6 @@
 {
 	"credit":"Made with Blockbench",
-	"textures":{"particle":"block/fence_spruce","texture":"block/fence_spruce"},
+	"textures":{"particle":"block/stripped_spruce_log","texture":"block/stripped_spruce_log"},
 	"elements":[
 		{
 			"from":[7.25,12,0],
