@@ -1,0 +1,33 @@
+{
+	"credit":"Made with Blockbench",
+	"parent":"minecraft:item/copper_ingot",
+	"textures":{"0":"block/netherrack","particle":"block/netherrack"},
+	"elements":[
+		{
+			"from":[6,4,3],
+			"to":[11,5,10],
+			"rotation":{"angle":0,"axis":"y","origin":[1,0,0]},
+			"faces":{
+				"north":{"uv":[2.5,3.25,6.75,6.125],"texture":"#0"},
+				"east":{"uv":[2.75,3.125,6.625,5.625],"texture":"#0"},
+				"south":{"uv":[2.5,3.25,6.75,6.125],"texture":"#0"},
+				"west":{"uv":[2.75,3.125,6.625,5.625],"texture":"#0"},
+				"up":{"uv":[2.375,2.75,6.25,7.875],"texture":"#0"},
+				"down":{"uv":[2.375,2.75,6.25,7.875],"texture":"#0"}
+			}
+		},
+		{
+			"from":[5,6,4],
+			"to":[10,7,11],
+			"rotation":{"angle":0,"axis":"y","origin":[0,0,1]},
+			"faces":{
+				"north":{"uv":[2.5,3.25,6.75,6.125],"texture":"#0"},
+				"east":{"uv":[2.75,3.125,6.625,5.625],"texture":"#0"},
+				"south":{"uv":[2.5,3.25,6.75,6.125],"texture":"#0"},
+				"west":{"uv":[2.75,3.125,6.625,5.625],"texture":"#0"},
+				"up":{"uv":[2.375,2.75,6.25,7.875],"texture":"#0"},
+				"down":{"uv":[2.375,2.75,6.25,7.875],"texture":"#0"}
+			}
+		}
+	]
+}
