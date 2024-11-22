@@ -1,17 +1,17 @@
 {
 	"credit":"Made with Blockbench",
-	"textures":{"0":"block/jungle_planks","1":"block/jungle_planks","2":"block/anvil_base","particle":"block/jungle_planks"},
+	"textures":{"1":"block/jungle_planks","2":"block/anvil_base","particle":"block/jungle_planks"},
 	"elements":[
 		{
-			"from":[1,1,1],
-			"to":[15,1,15],
+			"from":[2,1,2],
+			"to":[14,1,14],
 			"faces":{
 				"north":{"uv":[0,0,16,16],"texture":"#1"},
 				"east":{"uv":[0,0,16,16],"texture":"#1"},
 				"south":{"uv":[0,0,16,16],"texture":"#1"},
 				"west":{"uv":[0,0,16,16],"texture":"#1"},
 				"up":{"uv":[0,0,16,16],"texture":"#1"},
-				"down":{"uv":[0,0,16,16],"texture":"#1"}
+				"down":{"uv":[1,1,15,15],"texture":"#1"}
 			}
 		},
 		{
@@ -30,60 +30,60 @@
 			"from":[14,1,2],
 			"to":[15,15,14],
 			"faces":{
-				"north":{"uv":[1.25,0,14.75,16],"texture":"#0"},
-				"east":{"uv":[1.25,0,14.75,16],"texture":"#0"},
-				"south":{"uv":[1.25,0,14.75,16],"texture":"#0"},
-				"west":{"uv":[1.25,0,14.75,16],"texture":"#0"},
-				"up":{"uv":[1.25,0,14.75,1.125],"texture":"#0"},
-				"down":{"uv":[1.25,0,14.75,16],"texture":"#0"}
+				"north":{"uv":[1.25,0,14.75,16],"texture":"#1"},
+				"east":{"uv":[1.25,0,14.75,16],"texture":"#1"},
+				"south":{"uv":[1.25,0,14.75,16],"texture":"#1"},
+				"west":{"uv":[1.25,0,14.75,16],"texture":"#1"},
+				"up":{"uv":[1.25,0,14.75,1.125],"texture":"#1"},
+				"down":{"uv":[0,1,1,15],"texture":"#1"}
 			}
 		},
 		{
 			"from":[1,1,1],
 			"to":[15,15,2],
 			"faces":{
-				"north":{"uv":[0,0,16,16],"texture":"#0"},
-				"east":{"uv":[14.75,0,16,16],"texture":"#0"},
-				"south":{"uv":[0,0,16,16],"texture":"#0"},
-				"west":{"uv":[0,0,1.25,16],"texture":"#0"},
-				"up":{"uv":[0,0,16,1.25],"texture":"#0"},
-				"down":{"uv":[0,0,16,16],"texture":"#0"}
+				"north":{"uv":[0,0,16,16],"texture":"#1"},
+				"east":{"uv":[14.75,0,16,16],"texture":"#1"},
+				"south":{"uv":[0,0,16,16],"texture":"#1"},
+				"west":{"uv":[0,0,1.25,16],"texture":"#1"},
+				"up":{"uv":[0,0,16,1.25],"texture":"#1"},
+				"down":{"uv":[0,0,16,1],"texture":"#1"}
 			}
 		},
 		{
 			"from":[1,1,2],
 			"to":[2,15,14],
 			"faces":{
-				"north":{"uv":[1.25,0,14.75,16],"texture":"#0"},
-				"east":{"uv":[1.25,0,14.75,16],"texture":"#0"},
-				"south":{"uv":[1.25,0,14.75,16],"texture":"#0"},
-				"west":{"uv":[1.25,0,14.75,16],"texture":"#0"},
-				"up":{"uv":[1.25,0,14.75,1.125],"texture":"#0"},
-				"down":{"uv":[1.25,0,14.75,16],"texture":"#0"}
+				"north":{"uv":[1.25,0,14.75,16],"texture":"#1"},
+				"east":{"uv":[1.25,0,14.75,16],"texture":"#1"},
+				"south":{"uv":[1.25,0,14.75,16],"texture":"#1"},
+				"west":{"uv":[1.25,0,14.75,16],"texture":"#1"},
+				"up":{"uv":[1.25,0,14.75,1.125],"texture":"#1"},
+				"down":{"uv":[15,1,16,15],"texture":"#1"}
 			}
 		},
 		{
 			"from":[1,1,14],
 			"to":[15,15,15],
 			"faces":{
-				"north":{"uv":[0,0,16,16],"texture":"#0"},
-				"east":{"uv":[0,0,1.25,16],"texture":"#0"},
-				"south":{"uv":[0,0,16,16],"texture":"#0"},
-				"west":{"uv":[14.75,0,16,16],"texture":"#0"},
-				"up":{"uv":[0,0,16,1.25],"texture":"#0"},
-				"down":{"uv":[0,0,16,16],"texture":"#0"}
+				"north":{"uv":[0,0,16,16],"texture":"#1"},
+				"east":{"uv":[0,0,1.25,16],"texture":"#1"},
+				"south":{"uv":[0,0,16,16],"texture":"#1"},
+				"west":{"uv":[14.75,0,16,16],"texture":"#1"},
+				"up":{"uv":[0,0,16,1.25],"texture":"#1"},
+				"down":{"uv":[0,15,16,16],"texture":"#1"}
 			}
 		},
 		{
 			"from":[1,15,1],
 			"to":[15,16,15],
 			"faces":{
-				"north":{"uv":[0,0,16,16],"texture":"#0"},
-				"east":{"uv":[0,0,16,16],"texture":"#0"},
-				"south":{"uv":[0,0,16,16],"texture":"#0"},
-				"west":{"uv":[0,0,16,16],"texture":"#0"},
-				"up":{"uv":[0,0,16,16],"texture":"#0"},
-				"down":{"uv":[0,0,16,16],"texture":"#0"}
+				"north":{"uv":[0,0,16,16],"texture":"#missing"},
+				"east":{"uv":[0,0,16,16],"texture":"#missing"},
+				"south":{"uv":[0,0,16,16],"texture":"#missing"},
+				"west":{"uv":[0,0,16,16],"texture":"#missing"},
+				"up":{"uv":[0,0,16,16],"texture":"#missing"},
+				"down":{"uv":[0,0,16,16],"texture":"#missing"}
 			}
 		},
 		{
