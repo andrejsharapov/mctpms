@@ -1,5 +1,6 @@
 {
 	"credit":"Made with Blockbench",
+	"parent":"minecraft:block/block",
 	"textures":{"1":"block/jungle_planks","2":"block/anvil_base","particle":"block/jungle_planks"},
 	"elements":[
 		{
@@ -77,13 +78,14 @@
 		{
 			"from":[1,15,1],
 			"to":[15,16,15],
+			"color":6,
 			"faces":{
-				"north":{"uv":[0,0,16,16],"texture":"#missing"},
-				"east":{"uv":[0,0,16,16],"texture":"#missing"},
-				"south":{"uv":[0,0,16,16],"texture":"#missing"},
-				"west":{"uv":[0,0,16,16],"texture":"#missing"},
-				"up":{"uv":[0,0,16,16],"texture":"#missing"},
-				"down":{"uv":[0,0,16,16],"texture":"#missing"}
+				"north":{"uv":[0,0,16,16],"texture":"#1"},
+				"east":{"uv":[0,0,16,16],"texture":"#1"},
+				"south":{"uv":[0,0,16,16],"texture":"#1"},
+				"west":{"uv":[0,0,16,16],"texture":"#1"},
+				"up":{"uv":[0,0,16,16],"texture":"#1"},
+				"down":{"uv":[0,0,16,16],"texture":"#1"}
 			}
 		},
 		{
@@ -305,16 +307,6 @@
 			}
 		}
 	],
-	"display":{
-		"thirdperson_righthand":{"translation":[0,2.25,-1.5],"scale":[0.5,0.5,0.5]},
-		"thirdperson_lefthand":{"translation":[0,1.75,0],"scale":[0.5,0.5,0.5]},
-		"firstperson_righthand":{"scale":[0.5,0.5,0.5]},
-		"firstperson_lefthand":{"scale":[0.5,0.5,0.5]},
-		"ground":{"translation":[0,2.75,0],"scale":[0.75,0.75,0.75]},
-		"gui":{"rotation":[29.79,40.1,-0.57],"scale":[0.6,0.6,0.6]},
-		"head":{"translation":[0,1,-0.5]},
-		"fixed":{"rotation":[-26.25,0,0],"scale":[0.75,0.75,0.75]}
-	},
 	"groups":[
 		0,
 		1,
