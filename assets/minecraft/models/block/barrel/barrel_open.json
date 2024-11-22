@@ -1,11 +1,6 @@
 {
 	"credit":"Made with Blockbench",
-	"textures":{
-		"0"       :"block/jungle_planks_inner_corner",
-		"1"       :"block/jungle_planks_outer_corner",
-		"2"       :"block/anvil_base"                ,
-		"particle":"block/jungle_planks_inner_corner"
-	},
+	"textures":{"0":"block/jungle_planks","1":"block/jungle_planks","2":"block/anvil_base","particle":"block/jungle_planks"},
 	"elements":[
 		{
 			"from":[1,1,1],
