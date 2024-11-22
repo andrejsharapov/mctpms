@@ -1,6 +1,6 @@
 {
 	"credit":"Made with Blockbench",
-	"textures":{"bar":"block/spruce"},
+	"textures":{"bar":"block/spruce_planks"},
 	"elements":[
 		{
 			"from":[3,13,7],

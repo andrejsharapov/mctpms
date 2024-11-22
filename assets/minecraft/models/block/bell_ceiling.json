@@ -1,6 +1,6 @@
 {
 	"credit":"Made with Blockbench",
-	"textures":{"bar":"block/spruce","particle":"block/gold_pressure_plate"},
+	"textures":{"bar":"block/spruce_planks","particle":"block/gold_block"},
 	"elements":[
 		{
 			"from":[7,13,7],
