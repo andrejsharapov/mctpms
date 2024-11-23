@@ -1,12 +1,6 @@
 {
-  "textures": [
-    "minecraft:ml_mycelium_0",
-    "minecraft:ml_mycelium_1",
-    "minecraft:ml_mycelium_2",
-    "minecraft:ml_mycelium_3",
-    "minecraft:ml_mycelium_4",
-    "minecraft:ml_mycelium_5",
-    "minecraft:ml_mycelium_6",
-    "minecraft:ml_mycelium_7"
+  "textures":[
+    "minecraft:mycelium_0","minecraft:mycelium_1","minecraft:mycelium_2","minecraft:mycelium_3","minecraft:mycelium_4","minecraft:mycelium_5",
+    "minecraft:mycelium_6","minecraft:mycelium_7"
   ]
 }

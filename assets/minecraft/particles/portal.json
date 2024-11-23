@@ -1,12 +1,6 @@
 {
-  "textures": [
-    "minecraft:ml_portal_0",
-    "minecraft:ml_portal_1",
-    "minecraft:ml_portal_2",
-    "minecraft:ml_portal_3",
-    "minecraft:ml_portal_4",
-    "minecraft:ml_portal_5",
-    "minecraft:ml_portal_6",
-    "minecraft:ml_portal_7"
+  "textures":[
+    "minecraft:portal_0","minecraft:portal_1","minecraft:portal_2","minecraft:portal_3","minecraft:portal_4","minecraft:portal_5",
+    "minecraft:portal_6","minecraft:portal_7"
   ]
 }
