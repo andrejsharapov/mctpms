@@ -1,6 +1,6 @@
 {
 	"credit":"Made with Blockbench",
-	"parent":"minecraft:block/fence/nether_bricks",
+	"parent":"minecraft:block/fence_inventory",
 	"textures":{"texture":"block/nether_bricks"},
 	"elements":[
 		{

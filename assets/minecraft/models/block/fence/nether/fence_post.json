@@ -1,6 +1,6 @@
 {
 	"credit":"Made with Blockbench",
-	"textures":{"particle":"block/fence_nether","texture":"block/fence_nether"},
+	"textures":{"particle":"block/nether_bricks","texture":"block/nether_bricks"},
 	"elements":[
 		{
 			"from":[6,0,6],
