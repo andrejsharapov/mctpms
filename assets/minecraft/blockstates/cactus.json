@@ -1,16 +1,16 @@
 {
 	"variants":{
 		"":[
-			{"model":"block/cactus" ,"weight":15        },
-			{"model":"block/cactus2","weight": 1        },
-			{"model":"block/cactus2","weight": 1,"y": 90},
-			{"model":"block/cactus2","weight": 1,"y":180},
-			{"model":"block/cactus2","weight": 1,"y":270},
-			{"model":"block/cactus3","weight": 7        },
-			{"model":"block/cactus4","weight": 1        },
-			{"model":"block/cactus4","weight": 1,"y": 90},
-			{"model":"block/cactus4","weight": 1,"y":180},
-			{"model":"block/cactus4","weight": 1,"y":270}
+			{"model":"block/cactus"        ,"weight":15        },
+			{"model":"block/cactus/cactus2","weight": 1        },
+			{"model":"block/cactus/cactus2","weight": 1,"y": 90},
+			{"model":"block/cactus/cactus2","weight": 1,"y":180},
+			{"model":"block/cactus/cactus2","weight": 1,"y":270},
+			{"model":"block/cactus/cactus3","weight": 7        },
+			{"model":"block/cactus/cactus4","weight": 1        },
+			{"model":"block/cactus/cactus4","weight": 1,"y": 90},
+			{"model":"block/cactus/cactus4","weight": 1,"y":180},
+			{"model":"block/cactus/cactus4","weight": 1,"y":270}
 		]
 	}
 }
