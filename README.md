@@ -1,6 +1,6 @@
 # MCTPMS
 
-Realistic 3d models & textures for Minecraft JE.
+Realistic textures & 3D models for Minecraft JE.
 
 <p align="right">
   <img
