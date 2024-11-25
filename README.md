@@ -1,6 +1,6 @@
 # MCTPMS
 
-Realistic 3d textures for minecraft.
+Realistic 3d models & textures for Minecraft JE.
 
 <p align="right">
   <img
@@ -9,86 +9,71 @@ Realistic 3d textures for minecraft.
     width="128">
 </p>
 
-## Discord
-
-Join us on Discord to discuss the texture pack, offer ideas, or just talk about your favorite game.
-
-[![discord][discord-img]][discord]
+> [!TIP]  
+> Join us on [discord](https://discord.gg/En8KcxdDra) to discuss the texture pack, offer ideas, or just talk about your favorite game.
 
 ## Preview
 
 Several videos about creating a texture pack.
 
-| How textures are created                      | Textures in the game                                 |
+| How models are created                        | Textures in the game                                 |
 | --------------------------------------------- | ---------------------------------------------------- |
 | [![Youtube][youtube-img-sm]][youtube-watch-1] | [![Youtube][youtube-playlist-img]][youtube-playlist] |
 
-## mcmeta
+## How it works?
 
-Change `pack_format` to the current version of the game.
+> [!NOTE]  
+> This repo contains models of blocks and items, but does not contain ready-made textures (images) for them.
+
+You can study the models you need yourself, for example, a [crafting table](https://github.com/andrejsharapov/mctpms/blob/main/assets/minecraft/models/block/crafting_table.json), copy the files and use them in your texture pack with your images.
+
+## Releases
+
+- [x] 1.19.x
+- [x] 1.20.x
+- [x] 1.21.1
+- [ ] 1.21.3 in progress
+- [ ] 1.22.x
+
+## What version of the pack do I have?
+
+See the pack version in the description:
+
+```js
+{
+  "pack": {
+    "description": "🦄 MCTPMS for Minecraft JE v1.gg.g \n\u00A73Realistic 3d textures \u00A78v3.p.pp"
+  }
+}
+```
+
+`v1.gg.g` - game version  
+`v3.p.pp` - pack version
+
+## How to update to the latest version?
+
+We try to update the package version in a timely manner, but if you see that the game version has changed, you can update the package yourself.
+
+1. Unzip `pack.zip` file with textures;
+2. Find and open `pack.mcmeta` through text editor;
+3. Change `pack_format` to the [latest version](https://minecraft.wiki/w/Pack_format#List_of_resource_pack_formats) of the game.
 
 ```js
 {
   "pack": {
     "pack_format": 42,
-    "description": "Realistic 3d textures for v1.xx.x\u00A78.yy\u00A7r \n\u00A76| Just for fun!"
   }
 }
 ```
 
-`xx.x` - game version  
-`.yy` - patch version
-
-### Description
-
-Base slogan & game version `Realistic 3d textures for v1.xx.x` + patch version `\u00A78.yy\u00A7r` + description `\n\u00A76| Just for fun!`.
-
-| Pack type         | Color  | Description     |
-| ----------------- | ------ | --------------- |
-| in progress       | u00A79 | ---             |
-| need bugfix       | u00A74 | ---             |
-| ---               | ---    | ---             |
-| pre release       | u00A73 | Testing         |
-| release           | u00A72 | Start game now! |
-| experimental pack | u00A76 | Just for fun!   |
-
-## Releases
-
-- 1.19.x
-- 1.20.x
-- 1.21.1
-- 1.21.3 in progress
-- 1.22.x
-
-## Download
-
-> [!NOTE]  
->A link to download the texture pack will appear once all the textures have been created.
-
-<!-- [![download][download-img]][download] -->
-
 ## Bugs
 
-If you find a bug in the textures or have suggestions for improving the texture pack, please [report it here][bugs].
+If you find a bug in the models/textures or have suggestions for improving the pack, please [report it here](https://github.com/andrejsharapov/mctpms/issues) or in our [discord](https://discord.gg/En8KcxdDra).
 
 <!-- links -->
-
-[bugs]: https://github.com/andrejsharapov/mctpms/issues
-
-<!--  -->
 
 [youtube-img-sm]: https://github.com/user-attachments/assets/e407f1ca-e7a1-4d4d-85da-2ddcf077daa0
 [youtube-watch-1]: https://www.youtube.com/playlist?list=PLZEJODWNKrCdHqHy7JWpTOI-PMl64PuC7
 
 [youtube-playlist]: https://youtube.com/playlist?list=PLAdfPZXFJ1lI8ZlhJK-MUHcSs84TM93Y1&feature=shared
 [youtube-playlist-img]: https://github.com/user-attachments/assets/98a6933f-7e8a-44d1-84ba-1630ddb12ab0
-
-<!--  -->
-
-[discord]: https://discord.gg/En8KcxdDra
-[discord-img]: https://img.shields.io/badge/discord-channel-5865f2.svg
-
-<!--  -->
-
-[download]: https://github.com/andrejsharapov/mctpms/blob/main/mctpms_v1.22.x.zip
-[download-img]: https://img.shields.io/badge/download_pack-soon-de4343.svg

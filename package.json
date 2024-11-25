@@ -1,39 +1,41 @@
 {
-  "name": "mctpms",
-  "version": "1.0.0",
-  "description": "3D resource pack for minecraft v1.22.x.",
+  "author": "andrejsharapov",
+  "bugs": {
+    "url": "https://github.com/andrejsharapov/mctpms/issues"
+  },
+  "devDependencies": {
+    "prettier": "^3.0.1"
+  },
+  "description": "Realistic 3d models for Minecraft JE",
+  "homepage": "https://github.com/andrejsharapov/mctpms#readme",
+  "keywords": [
+    "3d models",
+    "blockbench",
+    "minecraft",
+    "minecraft realistic textures",
+    "minecraft texture pack",
+    "pack",
+    "realistic",
+    "resource pack",
+    "resource pack minecraft",
+    "texture",
+    "texture pack"
+  ],
+  "license": "MIT",
   "main": "index.js",
+  "name": "mctpms",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejsharapov/mctpms.git"
+  },
   "scripts": {
     "prettier": "prettier ./**/*.{json} --ignore-path .gitignore",
     "prettier:check": "yarn prettier --list-different",
     "prettier:format": "yarn prettier --write --loglevel warn"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/andrejsharapov/mctpms.git"
-  },
-  "keywords": [
-    "minecraft",
-    "blockbench",
-    "3d",
-    "texture",
-    "pack",
-    "resource",
-    "pack",
-    "realistic",
-    "pack"
-  ],
-  "author": "andrejsharapov",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/andrejsharapov/mctpms/issues"
-  },
-  "homepage": "https://github.com/andrejsharapov/mctpms#readme",
+  "version": "3.0.0",
   "volta": {
     "node": "18.12.0",
     "yarn": "1.22.19"
-  },
-  "devDependencies": {
-    "prettier": "^3.0.1"
   }
 }
