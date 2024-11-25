@@ -35,6 +35,7 @@ To create more complex models, you can use the [mine-campfire](https://github.co
 - [x] 1.20.x
 - [x] 1.21.1
 - [ ] 1.21.3 in progress
+- [ ] 1.21.4
 - [ ] 1.22.x
 
 ## What version of the pack do I have?
@@ -72,7 +73,27 @@ We try to update the package version in a timely manner, but if you see that the
 
 If you find a bug in the models/textures or have suggestions for improving the pack, please [report it here](https://github.com/andrejsharapov/mctpms/issues) or in our [discord](https://discord.gg/En8KcxdDra).
 
+## More MCTPMS
+
+| Pack                                 | Caption                                                | Game version |
+| ------------------------------------ | ------------------------------------------------------ | ------------ |
+| [mctpms-campfire][mctpms_campfire] ↗ | Adds a variety of campfires to the Minecraft.          | > 1.15.x     |
+| [mctpms-fences][mctpms_fences] ↗     | Change the standard appearance of fences in Minecraft. | > 1.17.x     |
+| [mctpms-gui][mctpms_gui] ↗           | Map, GUI and particles.                                | > 1.21.3     |
+| [mctpms-mobs] ↗                      | Animals, mobs, villagers, etc.                         | > 1.21.3     |
+| ---                                  | ---                                                    | ---          |
+| [mctpms-textures] ↗                  | Texture pack with textures and 3 models.               | > 1.21.3     |
+
 <!-- links -->
+
+[mctpms_campfire]: https://www.mediafire.com/file/7b23ns0apmco229/mctpms-campfire.zip/file
+[mctpms_fences]: https://www.mediafire.com/file/1ndgxf4i9fes0yb/mctpms-fences.zip/file
+[mctpms_gui]: https://www.mediafire.com/file/ljs5wolviw65uox/mctpms-gui.zip/file
+
+<!--
+[mctpms_mobs]: 
+[mctpms_textures]:
+-->
 
 [youtube-img-sm]: https://github.com/user-attachments/assets/e407f1ca-e7a1-4d4d-85da-2ddcf077daa0
 [youtube-watch-1]: https://www.youtube.com/playlist?list=PLZEJODWNKrCdHqHy7JWpTOI-PMl64PuC7
