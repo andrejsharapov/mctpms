@@ -25,7 +25,9 @@ Several videos about creating a texture pack.
 > [!NOTE]  
 > This repo contains models of blocks and items, but does not contain ready-made textures (images) for them.
 
-You can study the models you need yourself, for example, a [crafting table](https://github.com/andrejsharapov/mctpms/blob/main/assets/minecraft/models/block/crafting_table.json), copy the files and use them in your texture pack with your images.
+You can study the models you need yourself, for example, a [crafting table](https://github.com/andrejsharapov/mctpms/blob/main/assets/minecraft/models/block/crafting_table.json) model, copy the files and use them in your texture pack with your images.
+
+To create more complex models, you can use the [mine-campfire](https://github.com/andrejsharapov/mine-campfire/tree/main/assets/minecraft) package as an example.
 
 ## Releases
 
@@ -54,7 +56,7 @@ See the pack version in the description:
 
 We try to update the package version in a timely manner, but if you see that the game version has changed, you can update the package yourself.
 
-1. Unzip `pack.zip` file with textures;
+1. Unzip `mctpms.zip` file with textures;
 2. Find and open `pack.mcmeta` through text editor;
 3. Change `pack_format` to the [latest version](https://minecraft.wiki/w/Pack_format#List_of_resource_pack_formats) of the game.
 
