@@ -34,7 +34,7 @@ To create more complex models, you can use the [mine-campfire](https://github.co
 - [x] 1.19.x
 - [x] 1.20.x
 - [x] 1.21.1
-- [ ] 1.21.3 in progress
+- [x] 1.21.3
 - [ ] 1.21.4
 - [ ] 1.22.x
 
@@ -80,9 +80,8 @@ If you find a bug in the models/textures or have suggestions for improving the p
 | [mctpms-campfire][mctpms_campfire] ↗ | Adds a variety of campfires to the Minecraft.          | > 1.15.x     |
 | [mctpms-fences][mctpms_fences] ↗     | Change the standard appearance of fences in Minecraft. | > 1.17.x     |
 | [mctpms-gui][mctpms_gui] ↗           | Map, GUI and particles.                                | > 1.21.3     |
-| [mctpms-mobs] ↗                      | Animals, mobs, villagers, etc.                         | > 1.21.3     |
-| ---                                  | ---                                                    | ---          |
-| [mctpms-textures] ↗                  | Texture pack with textures and 3 models.               | > 1.21.3     |
+| [mctpms-mobs] ↗                      | Animals, mobs, villagers, etc.                         | > 1.21.1     |
+| [mctpms-textures] ↗                  | Texture pack with 3D models of blocks and items.       | > 1.21.1     |
 
 <!-- links -->
 
