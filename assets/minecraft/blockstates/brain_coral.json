@@ -3,8 +3,7 @@
 		"":[
 			{"model":"block/coral/brain_coral" ,"weight":60},
 			{"model":"block/coral/brain_coral1","weight":40},
-			{"model":"block/coral/brain_coral2","weight":20},
-			{"model":"block/coral/brain_coral3","weight":10}
+			{"model":"block/coral/brain_coral2","weight":10}
 		]
 	}
 }
