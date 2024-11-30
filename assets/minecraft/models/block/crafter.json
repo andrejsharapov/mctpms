@@ -307,7 +307,7 @@
 		},
 		{
 			"name":"table",
-			"from":[12,0,1],
+			"from":[12,0.25,1],
 			"to":[12.5,6,1.5],
 			"rotation":{"angle":0,"axis":"y","origin":[11.25,-8,0]},
 			"faces":{
@@ -321,7 +321,7 @@
 		},
 		{
 			"name":"table",
-			"from":[10,0,1],
+			"from":[10,0.25,1],
 			"to":[10.5,6,1.5],
 			"rotation":{"angle":0,"axis":"y","origin":[9.25,-8,0]},
 			"faces":{
@@ -335,7 +335,7 @@
 		},
 		{
 			"name":"table",
-			"from":[8,0,1],
+			"from":[8,0.25,1],
 			"to":[8.5,6,1.5],
 			"rotation":{"angle":0,"axis":"y","origin":[7.25,-8,0]},
 			"faces":{
@@ -349,7 +349,7 @@
 		},
 		{
 			"name":"table",
-			"from":[6,0,1],
+			"from":[6,0.25,1],
 			"to":[6.5,6,1.5],
 			"rotation":{"angle":0,"axis":"y","origin":[5.25,-8,0]},
 			"faces":{
@@ -363,7 +363,7 @@
 		},
 		{
 			"name":"table",
-			"from":[4,0,1],
+			"from":[4,0.25,1],
 			"to":[4.5,6,1.5],
 			"rotation":{"angle":0,"axis":"y","origin":[3.25,-8,0]},
 			"faces":{
@@ -382,6 +382,7 @@
 		{"name":"cols","origin":[14,2,14],"color":0,"children":[11,12,13,14]},
 		{"name":"bottom","origin":[0,0,0],"color":0,"children":[15,16,17,18,19]},
 		{"name":"center","origin":[12,0,14],"color":0,"children":[20,21,22]},
-		{"name":"face open","origin":[12,-6,0],"color":0,"children":[23,24,25,26,27,28]}
+		23,
+		{"name":"face open","origin":[12,-6,0],"color":0,"children":[24,25,26,27,28]}
 	]
 }
