@@ -1,7 +1,7 @@
 {
 	"credit":"Made with Blockbench",
 	"ambientocclusion":false,
-	"textures":{"texture":"block/cherry_planks","texture2":"block/anvil_base"},
+	"textures":{"texture":"block/cherry_planks","texture2":"block/anvil_base","particle":"block/cherry_planks"},
 	"elements":[
 		{
 			"from":[0,14.5,0],

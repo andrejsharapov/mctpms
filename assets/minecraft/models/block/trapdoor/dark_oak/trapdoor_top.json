@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/trapdoor/oak/trapdoor_top","textures":{"particle":"block/stripped_dark_oak_log"}}
+{"parent":"minecraft:block/trapdoor/oak/trapdoor_top","textures":{"0":"block/stripped_dark_oak_log","particle":"block/stripped_dark_oak_log"}}
