@@ -1,5 +1,6 @@
 {
 	"credit":"Made with Blockbench",
+	"parent":"minecraft:block/block",
 	"textures":{
 		"4"       :"block/anvil_base"                  ,
 		"6"       :"block/coal_block"                  ,

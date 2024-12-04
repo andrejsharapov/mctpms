@@ -1,5 +1,6 @@
 {
 	"credit":"Made with Blockbench",
+	"parent":"minecraft:block/block",
 	"textures":{"slime":"block/piston_slime","divider":"block/iron_block","particle":"block/cobblestone","side":"block/cobblestone"},
 	"elements":[
 		{

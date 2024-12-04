@@ -4,9 +4,9 @@
 	"textures":{"0":"block/white_terracotta","particle":"block/white_terracotta"},
 	"elements":[
 		{
-			"from":[5.25,0,6],
-			"to":[11.25,6,12],
-			"rotation":{"angle":0,"axis":"y","origin":[6.25,0,7]},
+			"from":[3,0,3],
+			"to":[13,10,13],
+			"rotation":{"angle":0,"axis":"y","origin":[8,0,8]},
 			"faces":{
 				"north":{"uv":[0,0,16,16],"texture":"#0"},
 				"east":{"uv":[0,0,16,16],"texture":"#0"},
