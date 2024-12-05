@@ -65,20 +65,20 @@
 			}
 		},
 		{
-			"from":[-3,20,7],
-			"to":[19,20,29],
+			"from":[-3,20,7.1],
+			"to":[19,20,29.1],
 			"shade":false,
-			"rotation":{"angle":45,"axis":"x","origin":[8,17,8]},
+			"rotation":{"angle":45,"axis":"x","origin":[8,17,8.1]},
 			"faces":{
 				"up":{"uv":[0,0,16,16],"rotation":180,"texture":"#1","tintindex":0},
 				"down":{"uv":[0,16,16,0],"rotation":180,"texture":"#1","tintindex":0}
 			}
 		},
 		{
-			"from":[-12,22,-3],
-			"to":[10,22,19],
+			"from":[-10,20,-3],
+			"to":[12,20,19],
 			"shade":false,
-			"rotation":{"angle":45,"axis":"z","origin":[8,18,8]},
+			"rotation":{"angle":45,"axis":"z","origin":[10,16,8]},
 			"faces":{
 				"up":{"uv":[0,0,16,16],"rotation":270,"texture":"#1","tintindex":0},
 				"down":{"uv":[0,16,16,0],"rotation":90,"texture":"#1","tintindex":0}
