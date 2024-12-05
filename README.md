@@ -9,9 +9,6 @@ Realistic textures & 3D models for Minecraft JE.
     width="128">
 </p>
 
-> [!TIP]  
-> Join us on [discord](https://discord.gg/En8KcxdDra) to discuss the texture pack, offer ideas, or just talk about your favorite game.
-
 ## Preview
 
 Several videos about creating a texture pack.
@@ -20,23 +17,27 @@ Several videos about creating a texture pack.
 | --------------------------------------------- | ---------------------------------------------------- |
 | [![Youtube][youtube-img-sm]][youtube-watch-1] | [![Youtube][youtube-playlist-img]][youtube-playlist] |
 
-## How it works?
+> [!TIP]  
+> Join us on discord to discuss the texture pack, offer ideas, or just talk about your favorite game.  
+> Find out more in [Discord][discord].
 
-> [!NOTE]  
-> This repo contains models of blocks and items, but does not contain ready-made textures (images) for them.
+## How it works?
 
 You can study the models you need yourself, for example, a [crafting table](https://github.com/andrejsharapov/mctpms/blob/main/assets/minecraft/models/block/crafting_table.json) model, copy the files and use them in your texture pack with your images.
 
 To create more complex models, you can use the [mine-campfire](https://github.com/andrejsharapov/mine-campfire/tree/main/assets/minecraft) package as an example.
 
+> [!NOTE]  
+> This repo contains models of blocks and items, but does not contain ready-made textures (images) for them.
+
 ## Releases
 
-- [x] 1.19.x
-- [x] 1.20.x
+- [ ] 1.19.x
+- [ ] 1.20.x
 - [x] 1.21.1
 - [x] 1.21.3
-- [ ] 1.21.4
-- [ ] 1.22.x
+- [x] 1.21.4
+- [ ] 1.2x.x
 
 ## What version of the pack do I have?
 
@@ -64,14 +65,14 @@ We try to update the package version in a timely manner, but if you see that the
 ```js
 {
   "pack": {
-    "pack_format": 42,
+    "pack_format": 46,
   }
 }
 ```
 
 ## Bugs
 
-If you find a bug in the models/textures or have suggestions for improving the pack, please [report it here](https://github.com/andrejsharapov/mctpms/issues) or in our [discord](https://discord.gg/En8KcxdDra).
+If you find a bug in the models/textures or have suggestions for improving the pack, please [report it here](https://github.com/andrejsharapov/mctpms/issues) or in our [discord][discord].
 
 ## More MCTPMS
 
@@ -80,19 +81,21 @@ If you find a bug in the models/textures or have suggestions for improving the p
 | [mctpms-campfire][mctpms_campfire] ↗ | Adds a variety of campfires to the Minecraft.          | > 1.15.x     |
 | [mctpms-fences][mctpms_fences] ↗     | Change the standard appearance of fences in Minecraft. | > 1.17.x     |
 | [mctpms-gui][mctpms_gui] ↗           | Map, GUI and particles.                                | > 1.21.3     |
-| [mctpms-mobs] ↗                      | Animals, mobs, villagers, etc.                         | > 1.21.1     |
+| [mctpms-mobs] ↗                      | Animals, mobs, villagers, etc.                         | > 1.21.3     |
 | [mctpms-textures] ↗                  | Texture pack with 3D models of blocks and items.       | > 1.21.1     |
 
 <!-- links -->
 
-[mctpms_campfire]: https://www.mediafire.com/file/7b23ns0apmco229/mctpms-campfire.zip/file
-[mctpms_fences]: https://www.mediafire.com/file/1ndgxf4i9fes0yb/mctpms-fences.zip/file
+[mctpms_campfire]: https://github.com/andrejsharapov/mine-campfire
+[mctpms_fences]: https://github.com/andrejsharapov/mine-fences
 [mctpms_gui]: https://www.mediafire.com/file/ljs5wolviw65uox/mctpms-gui.zip/file
 
 <!--
 [mctpms_mobs]: 
 [mctpms_textures]:
 -->
+
+[discord]: https://discord.gg/En8KcxdDra
 
 [youtube-img-sm]: https://github.com/user-attachments/assets/e407f1ca-e7a1-4d4d-85da-2ddcf077daa0
 [youtube-watch-1]: https://www.youtube.com/playlist?list=PLZEJODWNKrCdHqHy7JWpTOI-PMl64PuC7
