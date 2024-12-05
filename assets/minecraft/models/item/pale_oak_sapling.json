@@ -1,0 +1,9 @@
+{
+	"parent":"minecraft:item/dark_oak_sapling",
+	"textures":{
+		"1"       :"block/pale_oak_log"                  ,
+		"2"       :"block/pale_oak_log_top"              ,
+		"particle":"block/leaves/pale_oak/leaves_sapling",
+		"leaves"  :"block/leaves/pale_oak/leaves_sapling"
+	}
+}
