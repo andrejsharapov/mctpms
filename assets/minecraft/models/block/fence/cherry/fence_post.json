@@ -2,7 +2,7 @@
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"1":"block/cherry_log_top","particle":"block/cherry_log","texture":"block/cherry_log"},
+	"textures":{"1":"block/stripped_cherry_log_top","particle":"block/stripped_cherry_log","texture":"block/stripped_cherry_log"},
 	"elements":[
 		{
 			"name":"Left post",

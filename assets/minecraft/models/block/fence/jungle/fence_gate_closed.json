@@ -2,7 +2,7 @@
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"particle":"block/jungle_planks","texture":"block/jungle_planks"},
+	"textures":{"particle":"block/stripped_jungle_log","texture":"block/stripped_jungle_log"},
 	"elements":[
 		{
 			"name":"Left post",

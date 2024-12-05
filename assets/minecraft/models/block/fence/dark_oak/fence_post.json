@@ -2,19 +2,19 @@
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"particle":"block/dark_oak_log","texture":"block/dark_oak_log"},
+	"textures":{"1":"block/stripped_dark_oak_log","particle":"block/dark_oak_log","texture":"block/dark_oak_log"},
 	"elements":[
 		{
 			"name":"Main post",
 			"from":[6.5,0,6.5],
 			"to":[9.5,16,9.5],
 			"faces":{
-				"north":{"uv":[0,0,3.125,16],"texture":"#texture"},
-				"east":{"uv":[3.125,0,7.5,16],"texture":"#texture"},
-				"south":{"uv":[11.75,0,16,16],"texture":"#texture"},
-				"west":{"uv":[7.5,0,11.75,16],"texture":"#texture"},
-				"up":{"uv":[4.5,4.25,7.5,7.25],"texture":"#texture","cullface":"up"},
-				"down":{"uv":[4.5,7.25,7.5,10.25],"texture":"#texture","cullface":"down"}
+				"north":{"uv":[0,0,3.125,16],"texture":"#1"},
+				"east":{"uv":[3.125,0,7.5,16],"texture":"#1"},
+				"south":{"uv":[11.75,0,16,16],"texture":"#1"},
+				"west":{"uv":[7.5,0,11.75,16],"texture":"#1"},
+				"up":{"uv":[4.5,4.25,7.5,7.25],"texture":"#1","cullface":"up"},
+				"down":{"uv":[4.5,7.25,7.5,10.25],"texture":"#1","cullface":"down"}
 			}
 		},
 		{

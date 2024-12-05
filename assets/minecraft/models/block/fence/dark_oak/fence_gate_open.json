@@ -5,8 +5,9 @@
 	"elements":[
 		{
 			"name":"Left-hand post",
-			"from":[0,8,7],
-			"to":[2,15,9],
+			"from":[0,5,7],
+			"to":[2,12,9],
+			"rotation":{"angle":0,"axis":"y","origin":[0,-3,0]},
 			"faces":{
 				"north":{"uv":[10,0,14,16],"texture":"#0"},
 				"east":{"uv":[10,0,14,16],"texture":"#0"},
@@ -18,8 +19,9 @@
 		},
 		{
 			"name":"Right-hand post",
-			"from":[14,8,7],
-			"to":[16,15,9],
+			"from":[14,5,7],
+			"to":[16,12,9],
+			"rotation":{"angle":0,"axis":"y","origin":[0,-3,0]},
 			"faces":{
 				"north":{"uv":[10,0,14,16],"texture":"#0"},
 				"east":{"uv":[10,0,14,16],"texture":"#0","cullface":"east"},
@@ -31,8 +33,9 @@
 		},
 		{
 			"name":"Inner vertical post of left-hand gate door",
-			"from":[0,8,13],
-			"to":[2,15,15],
+			"from":[0,5,13],
+			"to":[2,12,15],
+			"rotation":{"angle":0,"axis":"y","origin":[0,-3,0]},
 			"faces":{
 				"north":{"uv":[4,7,5.875,16],"texture":"#0"},
 				"east":{"uv":[4,7,5.875,16],"texture":"#0"},
@@ -44,8 +47,9 @@
 		},
 		{
 			"name":"Inner vertical post of right-hand gate door",
-			"from":[14,8,13],
-			"to":[16,15,15],
+			"from":[14,5,13],
+			"to":[16,12,15],
+			"rotation":{"angle":0,"axis":"y","origin":[0,-3,0]},
 			"faces":{
 				"north":{"uv":[4,7,6,16],"texture":"#0"},
 				"east":{"uv":[4,7,6,16],"texture":"#0"},
@@ -57,8 +61,9 @@
 		},
 		{
 			"name":"Lower horizontal bar of left-hand gate door",
-			"from":[0,8,9],
-			"to":[2,10,13],
+			"from":[0,5,9],
+			"to":[2,7,13],
+			"rotation":{"angle":0,"axis":"y","origin":[0,-3,0]},
 			"faces":{
 				"east":{"uv":[3.25,0,6.75,3],"texture":"#0"},
 				"west":{"uv":[3.25,0,6.75,3],"texture":"#0"},
@@ -68,8 +73,9 @@
 		},
 		{
 			"name":"Upper horizontal bar of left-hand gate door",
-			"from":[0,13,9],
-			"to":[2,15,13],
+			"from":[0,10,9],
+			"to":[2,12,13],
+			"rotation":{"angle":0,"axis":"y","origin":[0,-3,0]},
 			"faces":{
 				"east":{"uv":[3.25,0,6.75,3],"texture":"#0"},
 				"west":{"uv":[3.25,0,6.75,3],"texture":"#0"},
@@ -79,8 +85,9 @@
 		},
 		{
 			"name":"Lower horizontal bar of left-hand gate door",
-			"from":[14,8,9],
-			"to":[16,10,13],
+			"from":[14,5,9],
+			"to":[16,7,13],
+			"rotation":{"angle":0,"axis":"y","origin":[0,-3,0]},
 			"faces":{
 				"north":{"uv":[0,0,0,0],"texture":"#0"},
 				"east":{"uv":[3.25,0,6.75,3],"texture":"#0"},
@@ -92,8 +99,9 @@
 		},
 		{
 			"name":"Upper horizontal bar of left-hand gate door",
-			"from":[14,13,9],
-			"to":[16,15,13],
+			"from":[14,10,9],
+			"to":[16,12,13],
+			"rotation":{"angle":0,"axis":"y","origin":[0,-3,0]},
 			"faces":{
 				"north":{"uv":[0,0,0,0],"texture":"#0"},
 				"east":{"uv":[3.25,0,6.75,3],"texture":"#0"},
