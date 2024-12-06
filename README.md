@@ -74,15 +74,14 @@ We try to update the package version in a timely manner, but if you see that the
 
 If you find a bug in the models/textures or have suggestions for improving the pack, please [report it here](https://github.com/andrejsharapov/mctpms/issues) or in our [discord][discord].
 
-## More MCTPMS
+## Addons MCTPMS
 
-| Pack                                 | Caption                                                | Game version |
-| ------------------------------------ | ------------------------------------------------------ | ------------ |
-| [mctpms-campfire][mctpms_campfire] ↗ | Adds a variety of campfires to the Minecraft.          | > 1.15.x     |
-| [mctpms-fences][mctpms_fences] ↗     | Change the standard appearance of fences in Minecraft. | > 1.17.x     |
-| [mctpms-gui][mctpms_gui] ↗           | Map, GUI and particles.                                | > 1.21.3     |
-| [mctpms-mobs] ↗                      | Animals, mobs, villagers, etc.                         | > 1.21.3     |
-| [mctpms-textures] ↗                  | Texture pack with 3D models of blocks and items.       | > 1.21.1     |
+| Pack                                 | 3D models | Caption                                                | Game version |
+| ------------------------------------ | --------- | ------------------------------------------------------ | ------------ |
+| [mctpms-campfire][mctpms_campfire] ↗ | true      | Adds a variety of campfires to the Minecraft.          | > 1.15.x     |
+| [mctpms-fences][mctpms_fences] ↗     | true      | Change the standard appearance of fences in Minecraft. | > 1.17.x     |
+| [mctpms-gui][mctpms_gui] ↗           | false     | Map, GUI and particles.                                | > 1.21.3     |
+| [mctpms-mobs] ↗                      | false     | Add animals, mobs, villagers, etc.                     | > 1.21.3     |
 
 <!-- links -->
 
@@ -92,7 +91,6 @@ If you find a bug in the models/textures or have suggestions for improving the p
 
 <!--
 [mctpms_mobs]: 
-[mctpms_textures]:
 -->
 
 [discord]: https://discord.gg/En8KcxdDra
