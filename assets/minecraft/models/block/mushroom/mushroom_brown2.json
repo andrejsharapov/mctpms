@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/cross","textures":{"cross":"block/mushroom/brown_mushroom2"}}
+{"parent":"minecraft:block/mushroom/mushroom_red2","textures":{"0":"block/brown_mushroom_block"}}
