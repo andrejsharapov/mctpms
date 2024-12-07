@@ -1,0 +1,96 @@
+{
+	"textures":{"0":"block/sweet_berry_bush","1":"block/shrub_stem","particle":"block/sweet_berry_bush"},
+	"elements":[
+		{
+			"name":"Stem",
+			"from":[1.8,0,8],
+			"to":[14.2,16,8],
+			"shade":false,
+			"rotation":{"angle":45,"axis":"y","origin":[8,8,8],"rescale":true},
+			"faces":{
+				"north":{"uv":[0,0,16,16],"texture":"#1"},
+				"south":{"uv":[0,0,16,16],"texture":"#1"}
+			}
+		},
+		{
+			"name":"Stem",
+			"from":[8,0,1.8],
+			"to":[8,16,14.2],
+			"shade":false,
+			"rotation":{"angle":45,"axis":"y","origin":[8,8,8],"rescale":true},
+			"faces":{
+				"east":{"uv":[0,0,16,16],"texture":"#1"},
+				"west":{"uv":[0,0,16,16],"texture":"#1"}
+			}
+		},
+		{
+			"name":"Leaves Middle1",
+			"from":[2,5,14],
+			"to":[14,15,14],
+			"shade":false,
+			"rotation":{"angle":-22.5,"axis":"x","origin":[8,8,14],"rescale":true},
+			"faces":{
+				"north":{"uv":[0,0,16,16],"texture":"#0","tintindex":0},
+				"south":{"uv":[0,0,16,16],"texture":"#0","tintindex":0}
+			}
+		},
+		{
+			"name":"Leaves Middle2",
+			"from":[2,5,2],
+			"to":[14,15,2],
+			"shade":false,
+			"rotation":{"angle":22.5,"axis":"x","origin":[8,8,2],"rescale":true},
+			"faces":{
+				"north":{"uv":[0,0,16,16],"texture":"#0","tintindex":0},
+				"south":{"uv":[0,0,16,16],"texture":"#0","tintindex":0}
+			}
+		},
+		{
+			"name":"Leaves Middle2",
+			"from":[2,5,2],
+			"to":[2,15,14],
+			"shade":false,
+			"rotation":{"angle":-22.5,"axis":"z","origin":[2,8,8],"rescale":true},
+			"faces":{
+				"east":{"uv":[0,0,16,16],"texture":"#0","tintindex":0},
+				"west":{"uv":[0,0,16,16],"texture":"#0","tintindex":0}
+			}
+		},
+		{
+			"name":"Leaves Middle1",
+			"from":[14,5,2],
+			"to":[14,15,14],
+			"shade":false,
+			"rotation":{"angle":22.5,"axis":"z","origin":[14,8,8],"rescale":true},
+			"faces":{
+				"east":{"uv":[0,0,16,16],"texture":"#0","tintindex":0},
+				"west":{"uv":[0,0,16,16],"texture":"#0","tintindex":0}
+			}
+		},
+		{
+			"name":"Leaves Top4",
+			"from":[2,14,0],
+			"to":[14,14,10],
+			"shade":false,
+			"rotation":{"angle":-22.5,"axis":"x","origin":[8,14,8],"rescale":true},
+			"faces":{
+				"up":{"uv":[0,0,16,16],"texture":"#0","tintindex":0},
+				"down":{"uv":[0,0,16,16],"texture":"#0","tintindex":0}
+			}
+		},
+		{
+			"name":"Leaves Top3",
+			"from":[2,14,6],
+			"to":[14,14,16],
+			"shade":false,
+			"rotation":{"angle":22.5,"axis":"x","origin":[8,14,8],"rescale":true},
+			"faces":{
+				"up":{"uv":[0,0,16,16],"texture":"#0","tintindex":0},
+				"down":{"uv":[0,0,16,16],"texture":"#0","tintindex":0}
+			}
+		}
+	],
+	"groups":[
+		{"name":"shrub","origin":[8,14,8],"color":0,"children":[0,1,2,3,4,5,6,7]}
+	]
+}
