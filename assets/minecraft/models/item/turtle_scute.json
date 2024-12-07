@@ -1,6 +1,5 @@
 {
-	"credit":"Made with Blockbench",
-	"textures":{"0":"block/green_terracotta","particle":"block/green_terracotta"},
+	"textures":{"0":"block/turtle_shell","particle":"block/turtle_shell"},
 	"elements":[
 		{
 			"from":[4.25,3,4.5],
