@@ -1,1 +1,4 @@
-{"parent":"minecraft:block/fpot/pot_mushroom","textures":{"3":"block/brown_mushroom_block"}}
+{
+  "parent":"minecraft:block/fpot/pot_mushroom",
+  "textures":{"block":"block/brown_mushroom_block","top":"block/brown_mushroom_block","deko":"block/black_terracotta"}
+}

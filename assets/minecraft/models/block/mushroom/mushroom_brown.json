@@ -1,1 +1,1 @@
-{"parent":"minecraft:block/mushroom/mushroom_red","textures":{"1":"block/brown_mushroom_block"}}
+{"parent":"minecraft:block/mushroom/mushroom_red","textures":{"block":"block/brown_mushroom_block"}}

@@ -1,6 +1,12 @@
 {
 	"parent":"minecraft:block/mushroom/mushroom_red",
-	"textures":{"0":"block/red_mushroom_block","1":"block/mushroom_block_inside","2":"block/mushroom_stem","particle":"block/red_mushroom_block"},
+	"textures":{
+		"particle":"block/red_mushroom_block"   ,
+		"block"   :"block/red_mushroom_block"   ,
+		"inside"  :"block/mushroom_block_inside",
+		"stem"    :"block/mushroom_stem"        ,
+		"roots"   :"block/empty"
+	},
 	"elements":[
 		{
 			"name":"Cap1",
@@ -8,12 +14,12 @@
 			"to":[12,9,12],
 			"rotation":{"angle":0,"axis":"y","origin":[8,4,8]},
 			"faces":{
-				"north":{"uv":[0,8,8,12],"texture":"#0"},
-				"east":{"uv":[0,8,8,12],"texture":"#0"},
-				"south":{"uv":[0,8,8,12],"texture":"#0"},
-				"west":{"uv":[0,8,8,12],"texture":"#0"},
-				"up":{"uv":[8,0,16,8],"texture":"#0"},
-				"down":{"uv":[8,8,16,16],"texture":"#1"}
+				"north":{"uv":[0,8,8,12],"texture":"#block"},
+				"east":{"uv":[0,8,8,12],"texture":"#block"},
+				"south":{"uv":[0,8,8,12],"texture":"#block"},
+				"west":{"uv":[0,8,8,12],"texture":"#block"},
+				"up":{"uv":[8,0,16,8],"texture":"#block"},
+				"down":{"uv":[8,8,16,16],"texture":"#inside"}
 			}
 		},
 		{
@@ -22,12 +28,42 @@
 			"to":[9,5,9],
 			"rotation":{"angle":0,"axis":"y","origin":[8,1.5,8]},
 			"faces":{
-				"north":{"uv":[0,0,2,5],"texture":"#2"},
-				"east":{"uv":[0,0,2,5],"texture":"#2"},
-				"south":{"uv":[0,0,2,5],"texture":"#2"},
-				"west":{"uv":[0,0,2,5],"texture":"#2"},
-				"down":{"uv":[4,0,6,2],"texture":"#2"}
+				"north":{"uv":[0,0,2,5],"texture":"#stem"},
+				"east":{"uv":[0,0,2,5],"texture":"#stem"},
+				"south":{"uv":[0,0,2,5],"texture":"#stem"},
+				"west":{"uv":[0,0,2,5],"texture":"#stem"},
+				"down":{"uv":[4,0,6,2],"texture":"#stem"}
+			}
+		},
+		{
+			"from":[5,0,-1.5],
+			"to":[21,11,-1.5],
+			"rotation":{"angle":-45,"axis":"y","origin":[5,0,-1.5]},
+			"faces":{
+				"north":{"uv":[0,5,16,16],"texture":"#roots"},
+				"south":{"uv":[0,5,16,16],"texture":"#roots"}
+			}
+		},
+		{
+			"from":[-5.31371,0,2.5],
+			"to":[10.68629,11,2.5],
+			"rotation":{"angle":45,"axis":"y","origin":[6,0,2.5]},
+			"faces":{
+				"north":{"uv":[0,5,16,16],"texture":"#roots"},
+				"south":{"uv":[0,5,16,16],"texture":"#roots"}
+			}
+		},
+		{
+			"from":[2.18629,0,11],
+			"to":[18.18629,11,11],
+			"rotation":{"angle":22.5,"axis":"y","origin":[13.5,0,11]},
+			"faces":{
+				"north":{"uv":[0,5,16,16],"texture":"#roots"},
+				"south":{"uv":[0,5,16,16],"texture":"#roots"}
 			}
 		}
-	]
+	],
+	"display":{
+		"gui":{"rotation":[20.61,-43.11,-1.86],"translation":[0,1,0],"scale":[1.01758,1.01758,1.01758]}
+	}
 }

@@ -1,0 +1,4 @@
+{
+  "parent":"minecraft:block/fpot/pot_mushroom",
+  "textures":{"block":"block/crimson_wart_block","top":"block/crimson_wart_block","deko":"block/cyan_terracotta"}
+}
