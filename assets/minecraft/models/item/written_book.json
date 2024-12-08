@@ -1,6 +1,6 @@
 {
 	"credit":"Made with Blockbench",
-	"textures":{"0":"block/smooth_quartz_block","1":"block/black_shulker_box","particle":"block/smooth_quartz_block"},
+	"textures":{"0":"block/smooth_quartz_block","1":"block/gray_glazed_terracotta","particle":"block/smooth_quartz_block"},
 	"elements":[
 		{
 			"from":[7,0.25,3.5],
