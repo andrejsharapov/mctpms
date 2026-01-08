@@ -1,18 +1,25 @@
 {
-	"cSpell.words":["blockbench","blockstates","mcmeta","mctpms"],
-	"editor.formatOnSave":true,
-	"editor.insertSpaces":true,
-	"editor.stickyTabStops":true,
-	"editor.tabSize":2,
-	"fracturedjsonvsc.v3.ColonPadding":false,
-	"fracturedjsonvsc.v3.CommaPadding":false,
-	"fracturedjsonvsc.v3.MaxCompactArrayComplexity":1,
-	"fracturedjsonvsc.v3.MaxInlineComplexity":2,
-	"fracturedjsonvsc.v3.MaxTableRowComplexity":1,
-	"fracturedjsonvsc.v3.MaxTotalLineLength":150,
-	"fracturedjsonvsc.v3.MinCompactArrayRowItems":3,
-	"fracturedjsonvsc.v3.NestedBracketPadding":false,
-	"fracturedjsonvsc.v3.PreserveBlankLines":false,
-	"fracturedjsonvsc.v3.SimpleBracketPadding":false,
-	"[json]":{"editor.defaultFormatter":"j-brooke.fracturedjsonvsc"}
+	"cSpell.words": [
+		"blockbench",
+		"blockstates",
+		"mcmeta",
+		"mctpms"
+	],
+	"editor.formatOnSave": true,
+	"editor.insertSpaces": true,
+	"editor.stickyTabStops": true,
+	"editor.tabSize": 2,
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"fracturedjsonvsc.MaxTotalLineLength": 150,
+	"fracturedjsonvsc.MaxInlineComplexity": 2,
+	"fracturedjsonvsc.MaxCompactArrayComplexity": 1,
+	"fracturedjsonvsc.MaxTableRowComplexity": 1,
+	"fracturedjsonvsc.MinCompactArrayRowItems": 3,
+	"fracturedjsonvsc.NestedBracketPadding": false,
+	"fracturedjsonvsc.SimpleBracketPadding": false,
+	"fracturedjsonvsc.ColonPadding": false,
+	"fracturedjsonvsc.CommaPadding": false,
+	"fracturedjsonvsc.PreserveBlankLines": false
 }
