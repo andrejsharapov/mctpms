@@ -1,7 +1,7 @@
 {
 	"parent":"minecraft:block/block",
 	"ambientocclusion":false,
-	"textures":{"texture":"item/nether_star","glass":"block/glass","particle":"block/glass"},
+	"textures":{"texture":"block/redstone_block","glass":"block/glass","particle":"block/glass"},
 	"elements":[
 		{
 			"from":[7.76009,7.92455,4.49963],
