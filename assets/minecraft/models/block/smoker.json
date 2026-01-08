@@ -1,10 +1,9 @@
 {
-	"parent":"minecraft:block/smoker_on",
-	"textures":{
-		"4"       :"item/baked_potato"                 ,
-		"5"       :"item/cooked_beef"                  ,
-		"6"       :"block/furnace/blast_furnace_inside",
-		"9"       :"block/coal_block"                  ,
-		"particle":"block/cobblestone"
+	"parent": "minecraft:block/smoker_on",
+	"textures": {
+		"potato": "block/red_mushroom_block",
+		"beef": "block/pumpkin_side",
+		"inside": "block/furnace/blast_furnace_inside",
+		"coal": "block/coal_block"
 	}
 }
