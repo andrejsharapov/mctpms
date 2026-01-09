@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/copper_chain",
+  "textures": {
+    "all": "block/weathered_copper"
+  }
+}

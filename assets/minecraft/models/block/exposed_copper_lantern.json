@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/lantern",
+	"textures": {
+		"all": "block/exposed_copper",
+		"1_all": "block/exposed_copper"
+	}
+}

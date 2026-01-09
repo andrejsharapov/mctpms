@@ -1,7 +1,10 @@
 {
 	"credit":"Made with Blockbench",
 	"parent":"minecraft:block/block",
-	"textures":{"particle":"block/chain","all":"block/chain"},
+	"textures": {
+		"particle":"block/chain",
+    "all": "block/iron_block"
+  },
 	"elements":[
 		{
 			"from":[8.31066,9,5.62868],

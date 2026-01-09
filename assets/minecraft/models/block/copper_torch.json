@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:block/torch",
+	"textures":{"torch":"block/copper_block","iron":"block/torch","particle":"block/copper_block","fire":"block/soul_campfire_fire"}
+}

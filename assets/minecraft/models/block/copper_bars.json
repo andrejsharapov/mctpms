@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:item/copper_bars",
+	"textures": {
+		"bar2": "block/copper_block",
+		"particle": "block/copper_block",
+		"bar": "block/copper_block"
+	}
+}
