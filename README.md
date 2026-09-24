@@ -32,12 +32,10 @@ To create more complex models, you can use the [mine-campfire](https://github.co
 
 ## Releases
 
-- [ ] 1.19.x
-- [ ] 1.20.x
 - [x] 1.21.1
 - [x] 1.21.3
 - [x] 1.21.4
-- [ ] 1.2x.x
+- [ ] 26.2
 
 ## What version of the pack do I have?
 
@@ -64,8 +62,11 @@ We try to update the package version in a timely manner, but if you see that the
 
 ```js
 {
-  "pack": {
-    "pack_format": 46,
+    "pack": {
+		"pack_format": 68.0,
+		"min_format": 65.0,
+		"max_format": 99.0,
+    "description":  "🦄 MCTPMS for Minecraft JE v26.2 \n\u00A73Realistic 3d textures \u00A78v3.4.3"
   }
 }
 ```
