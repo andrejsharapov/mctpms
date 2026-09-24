@@ -81,14 +81,14 @@ If you find a bug in the models/textures or have suggestions for improving the p
 | ------------------------------------ | --------- | ------------------------------------------------------ | ------------ |
 | [mctpms-campfire][mctpms_campfire] ↗ | true      | Adds a variety of campfires to the Minecraft.          | > 1.15.x     |
 | [mctpms-fences][mctpms_fences] ↗     | true      | Change the standard appearance of fences in Minecraft. | > 1.17.x     |
-| [mctpms-gui][mctpms_gui] ↗           | false     | Map, GUI and particles.                                | > 1.21.3     |
-| [mctpms-mobs] ↗                      | false     | Add animals, mobs, villagers, etc.                     | > 1.21.3     |
+| [mctpms-gui-26.2.zip][mctpms_gui] ↗  | false     | Map, GUI and particles.                                | > 1.21.3     |
+| [mctpms-npc] ↗                       | false     | Add animals, mobs, villagers, etc.                     | > 1.21.3     |
 
 <!-- links -->
 
 [mctpms_campfire]: https://github.com/andrejsharapov/mine-campfire
 [mctpms_fences]: https://github.com/andrejsharapov/mine-fences
-[mctpms_gui]: https://www.mediafire.com/file/ljs5wolviw65uox/mctpms-gui.zip/file
+[mctpms_gui]: https://github.com/andrejsharapov/mctpms/blob/m26.2/mctpms-gui-26.2.zip
 
 <!--
 [mctpms_mobs]: 
