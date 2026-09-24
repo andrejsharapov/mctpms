@@ -60,13 +60,13 @@ We try to update the package version in a timely manner, but if you see that the
 2. Find and open `pack.mcmeta` through text editor;
 3. Change `pack_format` to the [latest version](https://minecraft.wiki/w/Pack_format#List_of_resource_pack_formats) of the game.
 
-```js
+```c
 {
     "pack": {
 		"pack_format": 68.0,
 		"min_format": 65.0,
 		"max_format": 99.0,
-    "description":  "🦄 MCTPMS for Minecraft JE v26.2 \n\u00A73Realistic 3d textures \u00A78v3.4.3"
+		"description":  "🦄 MCTPMS for Minecraft JE v26.2 \n\u00A73Realistic 3d textures \u00A78v3.4.3"
   }
 }
 ```
@@ -81,7 +81,7 @@ If you find a bug in the models/textures or have suggestions for improving the p
 | ------------------------------------ | --------- | ------------------------------------------------------ | ------------ |
 | [mctpms-campfire][mctpms_campfire] ↗ | true      | Adds a variety of campfires to the Minecraft.          | > 1.15.x     |
 | [mctpms-fences][mctpms_fences] ↗     | true      | Change the standard appearance of fences in Minecraft. | > 1.17.x     |
-| [mctpms-gui-26.2.zip][mctpms_gui] ↗  | false     | Map, GUI and particles.                                | > 1.21.3     |
+| [mctpms-gui-26.2.zip][mctpms_gui] ↗  | false     | Map, GUI and particles.                                | > 26.2       |
 | [mctpms-npc] ↗                       | false     | Add animals, mobs, villagers, etc.                     | > 1.21.3     |
 
 <!-- links -->
