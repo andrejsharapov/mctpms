@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/pointed_dripstone_up_tip_merge",
+	"textures": {
+		"particle": "block/sulfur/up/frustum",
+		"cross": "block/sulfur/up/frustum"
+	}
+}

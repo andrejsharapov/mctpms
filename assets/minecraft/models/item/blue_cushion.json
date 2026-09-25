@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cushion",
+  "textures": {
+    "all": "block/cushion/blue_cushion"
+  }
+}

@@ -1,0 +1,9 @@
+{
+	"parent":"minecraft:item/oak_sapling",
+	"textures":{
+		"1"       :"block/poplar_log"                 ,
+		"2"       :"block/poplar_log_top"             ,
+		"particle":"block/leaves/poplar/leaves_orange",
+		"leaves"  :"block/leaves/poplar/leaves_orange"
+	}
+}

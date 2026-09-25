@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/pointed_dripstone_up_middle",
+	"textures": {
+		"particle": "block/potent_sulfur",
+		"pointed": "block/sulfur/up/base",
+		"cross": "block/sulfur/up/middle"
+	}
+}

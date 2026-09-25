@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/pointed_dripstone_up_frustum",
+	"textures": {
+		"pointed": "block/sulfur/up/base",
+		"cross": "block/sulfur/up/frustum",
+		"particle": "block/potent_sulfur"
+	}
+}
