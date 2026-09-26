@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_bed_foot",
+  "textures": {
+    "down": "minecraft:block/bed/brown"
+  }
+}

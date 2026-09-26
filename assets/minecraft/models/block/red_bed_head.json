@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_bed_head",
+  "textures": {
+    "north": "block/bed/red"
+  }
+}
