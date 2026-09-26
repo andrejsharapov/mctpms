@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_wall_sign",
+  "textures": {
+    "all": "block/poplar_planks",
+    "particle": "block/poplar_planks"
+  }
+}
