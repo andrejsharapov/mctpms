@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:item/weathered_copper_bars",
+	"textures": {
+		"bar2": "block/weathered_copper",
+		"bar": "block/weathered_copper"
+	}
+}
